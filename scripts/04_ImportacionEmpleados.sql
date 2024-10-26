@@ -104,7 +104,10 @@ VALUES (
 END IF;
 END LOOP;
 END $$;
-TRUNCATE TABLE negocio.empleado;
+
+/* -------------------------------------------------------------------------- */
+/*                                 IMPORTACION                                */
+/* -------------------------------------------------------------------------- */
 CALL negocio.importar_empleados(
     'C:\Users\pc-vic\Desktop\BBDD-Aplicadas\data\datos_basicos\empleados.csv'
 )
