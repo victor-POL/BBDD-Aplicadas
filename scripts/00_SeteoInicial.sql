@@ -10,7 +10,7 @@
 -- INTEGRANTE_4: TODO: DATOS
 ---------------------------------------------------------------------------------------------------------------------
 
-CREATE SCHEMA negocio
+CREATE SCHEMA negocio;
 
 -- ELIMINO CUALQUIER TABLA DE LA DDBB
 DROP TABLE IF EXISTS negocio.sucursal CASCADE;

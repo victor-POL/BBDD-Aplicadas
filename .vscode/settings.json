@@ -9,6 +9,16 @@
             "database": "Com1900G11",
             "username": "postgres",
             "password": "unlam"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "vscode",
+            "database": "Com1900G11",
+            "username": "postgres",
+            "password": "1234"
         }
     ]
 }

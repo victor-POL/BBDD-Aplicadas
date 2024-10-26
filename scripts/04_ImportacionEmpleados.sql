@@ -106,5 +106,5 @@ END LOOP;
 END $$;
 TRUNCATE TABLE negocio.empleado;
 CALL negocio.importar_empleados(
-    'C:\Users\pc-vic\Desktop\BBDD-Aplicadas\data\datos_basicos\empleados.csv'
+    'C:\Users\Facundo\Documents\Facundo\Universidad\2-Segundo\Bases de Datos Aplicadas\TP\Integrador\BBDD-Aplicadas\data\datos_basicos\empleados.csv'
 )
