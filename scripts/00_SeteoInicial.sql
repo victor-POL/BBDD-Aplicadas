@@ -34,3 +34,10 @@ BEGIN
     RETURN true;
 END;
 $$ LANGUAGE plpgsql;
+
+
+-- auxiliar comapraciones CI y AI
+-- https://www.postgresql.org/docs/current/collation.html
+-- https://dba.stackexchange.com/questions/299477/collation-for-accent-insensitive-comparison-on-postgres
+-- https://help.scriptcase.net/portal/en/kb/articles/how-to-use-the-ignore-accent-option#Enabling_extension
+CREATE EXTENSION unaccent;

@@ -1,5 +1,8 @@
 Uso en VS Code - Extensiones
 - SQLTools
 - SQLTools PostgreSQL/Cockroach Driver
-- Prettier SQL VSCode (elegirlo como favorito al formatear)
 - TODO Highlight
+
+Ejecucion QUERIES CTRL + E x 2
+
+Usar como formateador el "SQLTools"

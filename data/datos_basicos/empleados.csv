@@ -1,0 +1,16 @@
+﻿Legajo/ID;Nombre;Apellido;DNI;Direccion;email personal;email empresa;CUIL;Cargo;Sucursal;Turno
+257020;"Romina	Alejandra";ALIAS;36383025;Bernardo de Irigoyen 2647 , San Isidro , Buenos Aires;"Romina	Alejandra_ALIAS@gmail.com";"Romina	Alejandra.ALIAS@superA.com";;Cajero;Ramos Mejia;TM
+257021;"Romina	Soledad";RODRIGUEZ;31816587;Av. Vergara 1910 , Hurlingham , Buenos Aires;"Romina	Soledad_RODRIGUEZ@gmail.com";"Romina	Soledad.RODRIGUEZ@superA.com";;Cajero;Ramos Mejia;TT
+257022;"Sergio	Elio";RODRIGUEZ;30103258;Av. Belgrano 422 , Avellaneda , Buenos Aires;"Sergio	Elio_RODRIGUEZ@gmail.com";"Sergio	Elio.RODRIGUEZ@superA.com";;Cajero;Lomas del Mirador;TM
+257023;"Christian	Joel";ROJAS;41408274;Calle 7 767 , La Plata , Buenos Aires;"Christian	Joel_ROJAS@gmail.com";"Christian	Joel.ROJAS@superA.com";;Cajero;Lomas del Mirador;TT
+257024;"María	Roberta	de	los	Angeles";"ROLON	GAMARRA";30417854;Av. Arturo Illia 3770 , Malvinas Argentinas , Buenos Aires;"María	Roberta	de	los	Angeles_ROLON	GAMARRA@gmail.com";"María	Roberta	de	los	Angeles.ROLON	GAMARRA@superA.com";;Cajero;San Justo;TM
+257025;Rolando;LOPEZ;29943254;Av. Rivadavia 6538 , Ciudad Autónoma de Buenos Aires , Ciudad Autónoma de Buenos Aires;Rolando_LOPEZ@gmail.com;Rolando.LOPEZ@superA.com;;Cajero;San Justo;TT
+257026;"Francisco	Emmanuel";LUCENA;37633159;Av. Don Bosco 2680 , San Justo , Buenos Aires;"Francisco	Emmanuel_LUCENA@gmail.com";"Francisco	Emmanuel.LUCENA@superA.com";;Supervisor;Ramos Mejia;TM
+257027;"Eduardo	Matias	";"LUNA	";30338745;Av. Santa Fe 1954 , Ciudad Autónoma de Buenos Aires , Ciudad Autónoma de Buenos Aires;"Eduardo	Matias	_LUNA	@gmail.com";"Eduardo	Matias	.LUNA	@superA.com";;Supervisor;Lomas del Mirador;TM
+257028;"Mauro	Alberto";LUNA;34605254;Av. San Martín 420 , San Martín , Buenos Aires;"Mauro	Alberto_LUNA@gmail.com";"Mauro	Alberto.LUNA@superA.com";;Supervisor;San Justo;TM
+257029;Emilce;MAIDANA;36508254;Independencia 3067 , Carapachay , Buenos Aires;Emilce_MAIDANA@gmail.com;Emilce.MAIDANA@superA.com;;Supervisor;Ramos Mejia;TT
+257030;"NOELIA	GISELA	FABIOLA";MAIDANA;34636354;Bernardo de Irigoyen 2647 , San Isidro , Buenos Aires;"NOELIA	GISELA	FABIOLA_MAIDANA@gmail.com";"NOELIA	GISELA	FABIOLA.MAIDANA@superA.com";;Supervisor;Lomas del Mirador;TT
+257031;"Fernanda	Gisela	Evangelina";MAIZARES;33127114;Av. Rivadavia 2243 , Ciudad Autónoma de Buenos Aires , Ciudad Autónoma de Buenos Aires;"Fernanda	Gisela	Evangelina_MAIZARES@gmail.com";"Fernanda	Gisela	Evangelina.MAIZARES@superA.com";;Supervisor;San Justo;TT
+257032;"Oscar	Martín";ORTIZ;39231254;Juramento 2971 , Ciudad Autónoma de Buenos Aires , Ciudad Autónoma de Buenos Aires;"Oscar	Martín_ORTIZ@gmail.com";"Oscar	Martín.ORTIZ@superA.com";;Gerente de sucursal;Ramos Mejia;Jornada completa
+257033;Débora;PACHTMAN;30766254;Av. Presidente Hipólito Yrigoyen 299 , Provincia de Buenos Aires , Provincia de Buenos Aires;Débora_PACHTMAN@gmail.com;Débora.PACHTMAN@superA.com;;Gerente de sucursal;Lomas del Mirador;Jornada completa
+257034;"Romina	Natalia";PADILLA;38974125;Lacroze 5910 , Chilavert , Buenos Aires;"Romina	Natalia_PADILLA@gmail.com";"Romina	Natalia.PADILLA@superA.com";;Gerente de sucursal;San Justo;Jornada completa

@@ -51,12 +51,14 @@ CREATE TABLE
 CREATE TABLE
     negocio.sucursal (
         id_sucursal SMALLSERIAL NOT NULL,
-        nombre VARCHAR(25) NOT NULL,
-        id_ciudad SMALLINT NOT NULL,
-        direccion VARCHAR(50) NOT NULL UNIQUE,
-        telefono VARCHAR(13) NOT NULL, -- +54 11 1234 5678 (13 dígitos si se incluye el código de país y excluyendo espacios)
+        nombre VARCHAR(25),
+        calle VARCHAR(50) ,
+        ciudad VARCHAR(25),
+        codigo_postal VARCHAR(8),
+        provincia VARCHAR(25),
+        telefono VARCHAR(13), -- +54 11 1234 5678 (13 dígitos si se incluye el código de país y excluyendo espacios)
         CONSTRAINT PK_sucursal PRIMARY KEY (id_sucursal),
-        CONSTRAINT FK_sucursal_ciudad FOREIGN KEY (id_ciudad) REFERENCES negocio.ciudad (id_ciudad)
+        CONSTRAINT UQ_direccion UNIQUE(calle, ciudad, codigo_postal, provincia)
     );
 
 CREATE TABLE
@@ -85,14 +87,14 @@ CREATE TABLE
 CREATE TABLE
     negocio.cargo_laboral (
         id_cargo SMALLSERIAL NOT NULL,
-        nombre VARCHAR(25) NOT NULL,
+        nombre VARCHAR(25) NOT NULL UNIQUE,
         CONSTRAINT PK_cargo PRIMARY KEY (id_cargo)
     );
 
 CREATE TABLE
     negocio.turno_laboral (
         id_turno SMALLSERIAL NOT NULL,
-        nombre VARCHAR(25) NOT NULL,
+        nombre VARCHAR(25) NOT NULL UNIQUE,
         CONSTRAINT PK_turno PRIMARY KEY (id_turno)
     );
 
@@ -100,14 +102,14 @@ CREATE TABLE
     negocio.empleado (
         id_empleado SMALLSERIAL NOT NULL,
         legajo VARCHAR(10) NOT NULL UNIQUE,
-        nombre VARCHAR(25) NOT NULL,
-        apellido VARCHAR(25) NOT NULL,
+        nombre VARCHAR(50) NOT NULL,
+        apellido VARCHAR(50) NOT NULL,
         tipo_identificacion VARCHAR(3) NOT NULL, -- DNI, LC, LE, CI, PAS
         numero_identificacion VARCHAR(11) NOT NULL UNIQUE,
-        direccion VARCHAR(50) NOT NULL,
-        email_personal VARCHAR(50) NOT NULL,
-        email_laboral VARCHAR(50),
-        cuil VARCHAR(13) NOT NULL,
+        direccion VARCHAR(50),
+        email_personal VARCHAR(80),
+        email_laboral VARCHAR(80),
+        cuil VARCHAR(13),
         id_cargo SMALLINT NOT NULL,
         id_sucursal SMALLINT NOT NULL,
         id_turno SMALLINT NOT NULL,
