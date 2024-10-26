@@ -17,11 +17,12 @@ DROP TABLE IF EXISTS negocio.sucursal_horario;
 DROP TABLE IF EXISTS negocio.empleado;
 DROP TABLE IF EXISTS negocio.cargo_laboral;
 DROP TABLE IF EXISTS negocio.turno_laboral;
-DROP TABLE IF EXISTS negocio.producto;
+DROP TABLE IF EXISTS negocio.producto CASCADE;
 DROP TABLE IF EXISTS negocio.categoria_producto;
 DROP TABLE IF EXISTS negocio.clasfificacion_categoria_producto;
 DROP TABLE IF EXISTS negocio.tipo_cliente;
 DROP TABLE IF EXISTS negocio.medio_pago;
+DROP TABLE IF EXISTS negocio.extra_info_producto;
 -- FUNCIONES PARA LAS TABLAS
 CREATE OR REPLACE FUNCTION negocio.validar_cuil(cuil TEXT) RETURNS BOOLEAN AS $$ BEGIN -- TODO: Implementar la función que valide un CUIL
     RETURN true;

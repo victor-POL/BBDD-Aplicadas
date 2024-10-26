@@ -133,6 +133,7 @@ CREATE TABLE negocio.categoria_producto (
 );
 CREATE TABLE negocio.producto (
     id_producto SERIAL NOT NULL,
+    codigo VARCHAR(10),
     nombre VARCHAR(100) NOT NULL,
     -- determinado por el catalogo.csv que tenia como longitud maxima 90
     id_categoria SMALLINT NOT NULL,
@@ -144,7 +145,15 @@ CREATE TABLE negocio.producto (
     -- TODO: verificar que tanta precision queremos en el timestamp
     CONSTRAINT PK_producto PRIMARY KEY (id_producto),
     CONSTRAINT FK_producto_categoria FOREIGN KEY (id_categoria) REFERENCES negocio.categoria_producto (id_categoria),
-    CONSTRAINT UQ_producto UNIQUE (nombre, id_categoria)
+    CONSTRAINT UQ_producto UNIQUE (codigo, nombre, id_categoria)
+);
+CREATE TABLE negocio.extra_info_producto (
+    id_extra_info SMALLSERIAL NOT NULL,
+    id_producto SMALLINT NOT NULL,
+    precio_referencia DECIMAL(10,2) NOT NULL,
+    unidad_referencia VARCHAR(10) NOT NULL,
+    CONSTRAINT PK_extra_info_producto PRIMARY KEY (id_extra_info),
+    CONSTRAINT FK_extra_info_producto_producto FOREIGN KEY (id_producto) REFERENCES negocio.producto (id_producto)
 );
 -- PARA TABLA VENTA
 CREATE TABLE negocio.tipo_cliente (
