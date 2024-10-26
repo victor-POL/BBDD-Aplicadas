@@ -14,9 +14,38 @@ CREATE TABLE
     negocio.ciudad (
         id_ciudad SERIAL NOT NULL,
         nombre VARCHAR(25) NOT NULL,
-        codigo_postal VARCHAR(10) NOT NULL,
+        codigo_postal VARCHAR(8) NOT NULL,
         provincia VARCHAR(25) NOT NULL,
-        CONSTRAINT PK_ciudad PRIMARY KEY (id_ciudad)
+        CONSTRAINT PK_ciudad PRIMARY KEY (id_ciudad),
+        CONSTRAINT UQ_nombre_cp_provincia UNIQUE (nombre, codigo_postal, provincia),
+        CONSTRAINT CK_provincia CHECK (
+            provincia IN (
+                'Ciudad Autónoma de Buenos Aires',
+                'Provincia de Buenos Aires',
+                'Catamarca',
+                'Chaco',
+                'Chubut',
+                'Córdoba',
+                'Corrientes',
+                'Entre Ríos',
+                'Formosa',
+                'Jujuy',
+                'La Pampa',
+                'La Rioja',
+                'Mendoza',
+                'Misiones',
+                'Neuquén',
+                'Río Negro',
+                'Salta',
+                'San Juan',
+                'San Luis',
+                'Santa Cruz',
+                'Santa Fe',
+                'Santiago del Estero',
+                'Tierra del Fuego',
+                'Tucumán'
+            )
+        )
     );
 
 CREATE TABLE
@@ -39,6 +68,12 @@ CREATE TABLE
         hora_cierre TIME(0) NOT NULL, -- 0: es para que no tenga milisegundos
         CONSTRAINT PK_sucursal_horario PRIMARY KEY (id),
         CONSTRAINT FK_sucursal_horario_sucursal FOREIGN KEY (id_sucursal) REFERENCES negocio.sucursal (id_sucursal),
+        CONSTRAINT UQ_sucursal_horario UNIQUE (
+            id_sucursal,
+            dia_semana,
+            hora_apertura,
+            hora_cierre
+        ),
         CONSTRAINT CK_sucursal_horario_dia_semana CHECK (dia_semana IN ('1', '2', '3', '4', '5', '6', '7')),
         CONSTRAINT CK_horarios CHECK (
             (hora_apertura < hora_cierre)
