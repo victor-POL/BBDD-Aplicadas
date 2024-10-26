@@ -16,6 +16,8 @@ Usar como formateador el "SQLTools"
 
 ---
 
+```sql
+---------------------------------------------------------------------------------------------------------------------
 -- DESCRIPCION: CREACION DE TABLAS
 -- TODO: FECHA ENTREGA:
 -- COMISION: 01-2900
@@ -25,6 +27,8 @@ Usar como formateador el "SQLTools"
 -- INTEGRANTE_2: CARBALLO, FACUNDO NICOLAS 42774931
 -- INTEGRANTE_3: TODO: DATOS
 -- INTEGRANTE_4: TODO: DATOS
+---------------------------------------------------------------------------------------------------------------------
+```
 
 ---
 
