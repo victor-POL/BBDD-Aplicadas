@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------------------------------------------------
--- DESCRIPCION: CARGAR DATOS BASICOS COMO PROVINCIAS, CIUDADES, CARGOS LABORALES, TURNOS, ETC
+-- DESCRIPCION: CARGAR EMPLEADOS DESDE ARCHIVO CSV INFORMACION COMPLEMENTARIO HOJA Empleados
 -- TODO: FECHA ENTREGA:
 -- COMISION: 01-2900
 -- GRUPO: 11
