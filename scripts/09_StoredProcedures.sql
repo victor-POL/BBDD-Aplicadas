@@ -42,3 +42,30 @@ VALUES (
     );
 END;
 $$;
+
+CREATE OR REPLACE PROCEDURE negocio.insertar_sucursal(
+        IN p_nombre VARCHAR(25),
+        IN p_calle VARCHAR(50),
+        IN p_ciudad VARCHAR(25),
+        IN p_codigo_postal VARCHAR(8),
+        IN p_provincia VARCHAR(25),
+        IN p_telefono VARCHAR(13)
+    ) LANGUAGE plpgsql AS $$ BEGIN
+INSERT INTO negocio.sucursal (
+        nombre,
+        calle,
+        ciudad,
+        codigo_postal,
+        provincia,
+        telefono
+    )
+VALUES (
+        p_nombre,
+        p_calle,
+        p_ciudad,
+        p_codigo_postal,
+        p_provincia,
+        p_telefono
+    );
+END;
+$$;
