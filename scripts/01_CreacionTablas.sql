@@ -136,7 +136,7 @@ CREATE TABLE negocio.producto (
     nombre VARCHAR(100) NOT NULL,
     -- determinado por el catalogo.csv que tenia como longitud maxima 90
     id_categoria SMALLINT NOT NULL,
-    descripcion VARCHAR(70) NOT NULL,
+    descripcion VARCHAR(70),
     -- al chequear el catalogo.csv se observo que la longitud maxima era 6, por lo que se puso como longitud maxima 10 por las dudas
     precio DECIMAL(10, 2) NOT NULL,
     -- al chequear el catalogo.csv, electronicaccesories.csv y productosimportados.csv se observo que se tenia hasta 2 decimales

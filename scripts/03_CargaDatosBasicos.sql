@@ -220,6 +220,6 @@ VALUES
 /*    CARGA CATEGORIA DE PRODUCTOS DE CLASIFICACION ACCESORIOS ELECTRONICOS   */
 /* -------------------------------------------------------------------------- */
 INSERT INTO
-    negocio.categoria_producto (nombre)
+    negocio.categoria_producto (nombre, id_clasificacion)
 VALUES
-    ('Accesorios Electronicos');
+    ('Accesorios Electronicos', (SELECT id_clasificacion FROM negocio.clasfificacion_categoria_producto WHERE nombre = 'Electro'));
