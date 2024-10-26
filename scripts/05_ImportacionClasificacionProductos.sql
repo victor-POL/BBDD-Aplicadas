@@ -11,7 +11,7 @@
 ---------------------------------------------------------------------------------------------------------------------
 CREATE OR REPLACE PROCEDURE negocio.importar_clasificacion_productos(path_csv VARCHAR) LANGUAGE plpgsql AS $$
 DECLARE i RECORD;
-BEGIN;
+BEGIN
 DROP TABLE IF EXISTS temp_clasificacion_producto;
 CREATE TEMP TABLE temp_clasificacion_producto (
     linea_producto VARCHAR(70),

@@ -9,7 +9,10 @@
 -- INTEGRANTE_3: TODO: DATOS
 -- INTEGRANTE_4: TODO: DATOS
 ---------------------------------------------------------------------------------------------------------------------
--- CARGA DE SUCURSALES
+
+/* -------------------------------------------------------------------------- */
+/*                              CARGA SUCURSALES                              */
+/* -------------------------------------------------------------------------- */
 INSERT INTO negocio.sucursal (
         calle,
         ciudad,
@@ -185,3 +188,20 @@ VALUES ('TM'),
     ('TT'),
     ('TN'),
     ('Jornada completa');
+
+/* -------------------------------------------------------------------------- */
+/*                            CARGA MEDIOS DE PAGO                            */
+/* -------------------------------------------------------------------------- */
+INSERT INTO negocio.medio_pago (nombre, nombre_en)
+VALUES ('Tarjeta de credito', 'Credit card'),
+    ('Efectivo', 'Cash'),
+    ('Billetera Electronica', 'Ewallet');
+
+/* -------------------------------------------------------------------------- */
+/*       CARGA CATEGORIAS DE CLASIFICACIONES DE CATEGORIAS DE PRODUCTOS       */
+/* -------------------------------------------------------------------------- */
+-- Para Productos_importados.csv
+-- Para Electronic accessories.csv 
+INSERT INTO negocio.clasfificacion_categoria_producto (nombre)
+VALUES ('Importados'),
+    ('Accesorios Electronicos');
