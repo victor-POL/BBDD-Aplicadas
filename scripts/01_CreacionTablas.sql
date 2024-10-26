@@ -124,11 +124,19 @@ CREATE TABLE
     );
 
 -- PARA TABLA PRODUCTO
+CREATE TABLE negocio.clasfificacion_categoria_producto (
+    id_clasificacion SMALLSERIAL NOT NULL,
+    nombre VARCHAR(25) NOT NULL UNIQUE,
+    CONSTRAINT PK_clasificacion PRIMARY KEY (id_clasificacion)
+);
+
 CREATE TABLE
     negocio.categoria_producto (
-        id_categoria SERIAL NOT NULL,
+        id_categoria SMALLSERIAL NOT NULL,
         nombre VARCHAR(25) NOT NULL,
-        CONSTRAINT PK_categoria_producto PRIMARY KEY (id_categoria)
+        id_clasificacion SMALLINT NOT NULL,
+        CONSTRAINT PK_categoria_producto PRIMARY KEY (id_categoria),
+        CONSTRAINT FK_clasificacion_categoria_producto FOREIGN KEY (id_clasificacion) REFERENCES negocio.clasfificacion_categoria_producto (id_clasificacion)
     );
 
 CREATE TABLE

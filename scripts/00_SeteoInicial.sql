@@ -21,6 +21,7 @@ DROP TABLE IF EXISTS negocio.cargo_laboral;
 DROP TABLE IF EXISTS negocio.turno_laboral;
 DROP TABLE IF EXISTS negocio.producto;
 DROP TABLE IF EXISTS negocio.categoria_producto;
+DROP TABLE IF EXISTS negocio.clasfificacion_categoria_producto;
 DROP TABLE IF EXISTS negocio.tipo_cliente;
 DROP TABLE IF EXISTS negocio.medio_pago;
 
