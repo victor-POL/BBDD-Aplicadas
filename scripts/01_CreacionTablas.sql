@@ -133,8 +133,8 @@ CREATE TABLE negocio.clasfificacion_categoria_producto (
 CREATE TABLE
     negocio.categoria_producto (
         id_categoria SMALLSERIAL NOT NULL,
-        nombre VARCHAR(25) NOT NULL,
-        id_clasificacion SMALLINT NOT NULL,
+        nombre VARCHAR(50) NOT NULL,
+        id_clasificacion SMALLINT,
         CONSTRAINT PK_categoria_producto PRIMARY KEY (id_categoria),
         CONSTRAINT FK_clasificacion_categoria_producto FOREIGN KEY (id_clasificacion) REFERENCES negocio.clasfificacion_categoria_producto (id_clasificacion)
     );
