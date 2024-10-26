@@ -184,4 +184,4 @@ INSERT INTO negocio.turno_laboral (nombre)
 VALUES ('TM'),
     ('TT'),
     ('TN'),
-('Jornada completa');
+    ('Jornada completa');

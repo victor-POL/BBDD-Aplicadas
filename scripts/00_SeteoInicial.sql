@@ -9,9 +9,7 @@
 -- INTEGRANTE_3: TODO: DATOS
 -- INTEGRANTE_4: TODO: DATOS
 ---------------------------------------------------------------------------------------------------------------------
-
 CREATE SCHEMA negocio;
-
 -- ELIMINO CUALQUIER TABLA DE LA DDBB
 DROP TABLE IF EXISTS negocio.sucursal CASCADE;
 DROP TABLE IF EXISTS negocio.ciudad;
@@ -24,19 +22,11 @@ DROP TABLE IF EXISTS negocio.categoria_producto;
 DROP TABLE IF EXISTS negocio.clasfificacion_categoria_producto;
 DROP TABLE IF EXISTS negocio.tipo_cliente;
 DROP TABLE IF EXISTS negocio.medio_pago;
-
-
 -- FUNCIONES PARA LAS TABLAS
-CREATE OR REPLACE FUNCTION negocio.validar_cuil(cuil TEXT) 
-RETURNS BOOLEAN AS $$
-BEGIN
-    -- TODO: Implementar la función que valide un CUIL
-    
+CREATE OR REPLACE FUNCTION negocio.validar_cuil(cuil TEXT) RETURNS BOOLEAN AS $$ BEGIN -- TODO: Implementar la función que valide un CUIL
     RETURN true;
 END;
 $$ LANGUAGE plpgsql;
-
-
 -- auxiliar comapraciones CI y AI
 -- https://www.postgresql.org/docs/current/collation.html
 -- https://dba.stackexchange.com/questions/299477/collation-for-accent-insensitive-comparison-on-postgres
