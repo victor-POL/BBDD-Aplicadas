@@ -222,5 +222,4 @@ VALUES
 INSERT INTO
     negocio.categoria_producto (nombre)
 VALUES
-    ('Importados'),
     ('Accesorios Electronicos');
