@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 200,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "DDBBAplicadas",
+            "database": "Com1900G11",
+            "username": "postgres",
+            "password": "unlam"
+        }
+    ]
+}
