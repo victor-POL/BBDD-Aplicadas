@@ -35,10 +35,14 @@ THEN RAISE NOTICE 'La categoria ya existe %',
     i.categoria;
 ELSIF (SELECT 1 FROM negocio.categoria_producto WHERE categoria_producto.nombre = i.categoria AND categoria_producto.id_clasificacion IS NULL) = 1 
 THEN
+    RAISE NOTICE 'La categoria existe pero no tiene clasificacion %', i.categoria;
+
     UPDATE negocio.categoria_producto
     SET id_clasificacion = (SELECT id_clasificacion FROM negocio.clasfificacion_categoria_producto WHERE clasfificacion_categoria_producto.nombre = 'Importados')
     WHERE categoria_producto.nombre = i.categoria AND categoria_producto.id_clasificacion IS NULL;
 ELSE
+    RAISE NOTICE 'La categoria no existe y se intertara %', i.categoria;
+
 INSERT INTO negocio.categoria_producto (nombre, id_clasificacion)
 VALUES (i.categoria, (SELECT id_clasificacion FROM negocio.clasfificacion_categoria_producto WHERE clasfificacion_categoria_producto.nombre = 'Importados'));
 END IF;

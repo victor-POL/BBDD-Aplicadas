@@ -136,14 +136,15 @@ CREATE TABLE negocio.producto (
     nombre VARCHAR(100) NOT NULL,
     -- determinado por el catalogo.csv que tenia como longitud maxima 90
     id_categoria SMALLINT NOT NULL,
-    descripcion VARCHAR(12) NOT NULL,
+    descripcion VARCHAR(70) NOT NULL,
     -- al chequear el catalogo.csv se observo que la longitud maxima era 6, por lo que se puso como longitud maxima 10 por las dudas
     precio DECIMAL(10, 2) NOT NULL,
     -- al chequear el catalogo.csv, electronicaccesories.csv y productosimportados.csv se observo que se tenia hasta 2 decimales
     ultimo_cambio TIMESTAMP NOT NULL,
     -- TODO: verificar que tanta precision queremos en el timestamp
     CONSTRAINT PK_producto PRIMARY KEY (id_producto),
-    CONSTRAINT FK_producto_categoria FOREIGN KEY (id_categoria) REFERENCES negocio.categoria_producto (id_categoria)
+    CONSTRAINT FK_producto_categoria FOREIGN KEY (id_categoria) REFERENCES negocio.categoria_producto (id_categoria),
+    CONSTRAINT UQ_producto UNIQUE (nombre, id_categoria)
 );
 -- PARA TABLA VENTA
 CREATE TABLE negocio.tipo_cliente (
