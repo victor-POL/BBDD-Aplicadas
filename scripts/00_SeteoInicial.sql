@@ -13,7 +13,7 @@
 CREATE SCHEMA negocio
 
 -- ELIMINO CUALQUIER TABLA DE LA DDBB
-DROP TABLE IF EXISTS negocio.sucursal;
+DROP TABLE IF EXISTS negocio.sucursal CASCADE;
 DROP TABLE IF EXISTS negocio.ciudad;
 DROP TABLE IF EXISTS negocio.sucursal_horario;
 DROP TABLE IF EXISTS negocio.empleado;
@@ -21,7 +21,7 @@ DROP TABLE IF EXISTS negocio.cargo_laboral;
 DROP TABLE IF EXISTS negocio.turno_laboral;
 DROP TABLE IF EXISTS negocio.producto;
 DROP TABLE IF EXISTS negocio.categoria_producto;
-DROP TABLE IF EXISTS negocio.cliente_tipo;
+DROP TABLE IF EXISTS negocio.tipo_cliente;
 DROP TABLE IF EXISTS negocio.medio_pago;
 
 
