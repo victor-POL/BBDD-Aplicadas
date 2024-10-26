@@ -28,11 +28,12 @@ FROM %L DELIMITER '';'' CSV HEADER;', path_csv);
 
 
 FOR i IN
-(SELECT nombre_producto, categoria, cantidad_por_unidad, precio_unidad
+(SELECT id_producto, nombre_producto, categoria, cantidad_por_unidad, precio_unidad
 FROM temp_producto_importado) LOOP 
 
-INSERT INTO negocio.producto (nombre, id_categoria, descripcion, precio, ultimo_cambio)
+INSERT INTO negocio.producto (codigo, nombre, id_categoria, descripcion, precio, ultimo_cambio)
 VALUES (
+    i.id_producto,
     i.nombre_producto,
     (SELECT categoria_producto.id_categoria FROM negocio.categoria_producto WHERE categoria_producto.nombre = i.categoria), 
     i.cantidad_por_unidad, 
