@@ -68,8 +68,6 @@ FOR i IN
 SELECT *
 FROM temp_empleados_formatted LOOP IF i.id_cargo IS NULL THEN RAISE NOTICE 'No se encontró el cargo laboral %',
     i.cargo_nombre;
-ELSIF i.id_sucursal IS NULL THEN RAISE NOTICE 'No se encontró la sucursal %',
-i.sucursal_ciudad;
 ELSIF i.id_turno IS NULL THEN RAISE NOTICE 'No se encontró el turno laboral %',
 i.turno_nombre;
 ELSE
