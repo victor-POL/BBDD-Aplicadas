@@ -1,0 +1,1001 @@
+﻿ID Factura;Tipo de Factura;Ciudad;Tipo de cliente;Genero;Producto;Precio Unitario;Cantidad;Fecha;hora;Medio de Pago;Empleado;Identificador de pago
+750-67-8428;A;Yangon;Member;Female;Crema facial reaffirmant Luxe caviar Deliplus;5;7;1/5/2019;13:08;Ewallet;257020;'0000003100099475144530
+226-31-3081;C;Naypyitaw;Normal;Female;Leche entera Asturiana;1.25;5;3/8/2019;10:29;Cash;257021;--
+631-41-3108;A;Yangon;Normal;Male;Combinado de aperitivos Hacendado;1.2;7;3/3/2019;13:23;Credit card;257022;4660-1046-8238-6585
+123-19-1176;A;Yangon;Member;Male;Carne de pimiento choricero El Sol;1.3;8;1/27/2019;20:33;Ewallet;257023;'0000003100063398308101
+373-73-7910;A;Yangon;Normal;Male;Queso de cabra Hacendado rulo;1.9;7;2/8/2019;10:37;Ewallet;257024;'0000003100092305102733
+699-14-3026;C;Naypyitaw;Normal;Male;Canelones de carne con bechamel Hacendado ultracongelados;2.2;7;3/25/2019;18:30;Ewallet;257025;'0000003100080030742752
+355-53-5943;A;Yangon;Member;Female;Bebida Bahamas Hacendado;0.95;6;2/25/2019;14:36;Ewallet;257020;'0000003100078776292873
+315-22-5665;C;Naypyitaw;Normal;Female;PatÃ© perro adulto Delikut con cordero y verduras;1.55;10;2/24/2019;11:38;Ewallet;257021;'0000003100055234455211
+665-32-9167;A;Yangon;Member;Female;PatÃ© con pimientos del piquillo Hacendado;1.35;2;1/10/2019;17:15;Credit card;257022;5422-1961-6348-5262
+692-92-5582;B;Mandalay;Member;Female;Fideos orientales Yakisoba classic Gallina Blanca;1.59;3;2/20/2019;13:27;Credit card;257023;4583-4349-1623-8219
+351-62-0822;B;Mandalay;Member;Female;Zumo de tomate picante Big Tom;1.65;4;2/6/2019;18:07;Ewallet;257024;'0000003100047354427920
+529-56-3974;B;Mandalay;Member;Male;ChampiÃ±Ã³n Portobello;1.74;4;3/9/2019;17:03;Cash;257025;--
+365-64-0515;A;Yangon;Normal;Female;Barrita sustitutivo de comida Belladieta sabor chocolate negro;5.4;5;2/12/2019;10:25;Ewallet;257020;'0000003100093701852130
+252-56-2699;A;Yangon;Normal;Male;TÃ© matcha en polvo Hacendado;2.75;10;2/7/2019;16:48;Ewallet;257021;'0000003100088979264280
+829-34-3910;A;Yangon;Normal;Female;Harina de arroz Hacendado;0.95;10;3/29/2019;19:21;Cash;257022;--
+299-46-1805;B;Mandalay;Member;Female;TÃ³nica zero calorÃ­as Schweppes;0.69;6;1/15/2019;16:19;Cash;257023;--
+656-95-9349;A;Yangon;Member;Female;Vino tinto D.O Rioja Comportillo crianza;2.9;7;3/11/2019;11:03;Credit card;257024;5292-5287-2228-9737
+765-26-6951;A;Yangon;Normal;Male;PlÃ¡tano macho;0.58;6;1/1/2019;10:39;Credit card;257025;5832-7192-8310-9337
+329-62-1586;A;Yangon;Normal;Male;Ampollas cabello Pantene;4.75;3;1/21/2019;18:00;Credit card;257020;5938-7594-3556-1655
+319-50-3348;B;Mandalay;Normal;Female;Pizza de espinacas Hacendado ultracongelada;2.3;2;3/11/2019;15:30;Ewallet;257021;'0000003100085050690811
+300-71-4605;C;Naypyitaw;Member;Male;BiberÃ³n 360 ml tetina lÃ¡tex papilla +4 meses Deliplus;4;5;2/25/2019;11:24;Ewallet;257022;'0000003100099826610756
+371-85-5789;B;Mandalay;Normal;Male;Cerveza sin gluten Steinburg 0,0% sin alcohol;2.1;3;3/5/2019;10:40;Ewallet;257023;'0000003100069924899753
+273-16-6619;B;Mandalay;Normal;Male;Caramelo pikotas masticable Dulciora;1.1;2;3/15/2019;12:20;Credit card;257024;5138-6720-3335-4288
+636-48-8204;A;Yangon;Normal;Male;Refresco cola Hacendado Zero azÃºcar Zero cafeÃ­na;0.5;5;2/17/2019;11:15;Ewallet;257025;'0000003100097927384195
+549-59-1358;A;Yangon;Member;Male;Setas al plato con perejil;2.88;3;3/2/2019;17:36;Ewallet;257020;'0000003100032478909610
+227-03-5010;A;Yangon;Member;Female;Queso en porciones El Caserio;2.5;8;3/22/2019;19:20;Credit card;257021;5648-8764-4633-7262
+649-29-6775;B;Mandalay;Normal;Male;DentÃ­frico max white one Colgate;2.7;1;2/8/2019;15:31;Cash;257022;--
+189-17-4241;A;Yangon;Normal;Female;Cuello de cordero;4.14;2;3/10/2019;12:17;Credit card;257023;5397-2256-8043-6681
+145-94-9061;B;Mandalay;Normal;Female;Aceitunas negras Hacendado con hueso;0.75;5;1/25/2019;19:48;Cash;257024;--
+848-62-7243;A;Yangon;Normal;Male;Preparado paella de marisco Hacendado ultracongelado;3.9;9;3/15/2019;15:36;Cash;257025;--
+871-79-8483;B;Mandalay;Normal;Male;ColoraciÃ³n sin amonÃ­aco L'OrÃ©al 323 negro chocolate;6.6;5;2/25/2019;19:39;Credit card;257020;5896-4581-1009-3580
+149-71-6266;B;Mandalay;Member;Male;Lote mujer Bustamante Muy mÃ­a;5.9;9;1/28/2019;12:43;Cash;257021;--
+640-49-2076;B;Mandalay;Normal;Male;NÃ©ctar guayaba Hacendado sin azÃºcares aÃ±adidos;0.9;8;1/10/2019;14:49;Cash;257022;--
+595-11-5460;A;Yangon;Normal;Male;Preservativos sensitive On;3.6;2;3/15/2019;10:12;Credit card;257023;4947-6298-3435-2883
+183-56-6882;C;Naypyitaw;Member;Female;BiberÃ³n 150 ml tetina lÃ¡tex flujo lento +0 meses Deliplus;3.9;4;2/6/2019;10:42;Ewallet;257024;'0000003100010380956545
+232-16-2483;C;Naypyitaw;Member;Female;Rabas empanadas Hacendado ultracongeladas;3.3;1;1/7/2019;12:28;Ewallet;257025;'0000003100032202568358
+129-29-8530;A;Yangon;Member;Male;Helado mini cucurucho nata Hacendado sin azÃºcares aÃ±adidos;2.85;5;3/10/2019;19:15;Ewallet;257020;'0000003100098299093184
+272-65-1806;A;Yangon;Normal;Female;PatÃ© gato adulto Delikuit con ternera e hÃ­gado;0.35;9;1/15/2019;17:17;Ewallet;257021;'0000003100050742225162
+333-73-7901;C;Naypyitaw;Normal;Female;Refresco lima limÃ³n Hacendado fresh gas;0.27;8;3/23/2019;13:24;Ewallet;257022;'0000003100029808275415
+777-82-7220;B;Mandalay;Member;Male;Cerveza ClÃ¡sica Steinburg;0.3;8;3/3/2019;13:01;Cash;257023;--
+280-35-5823;B;Mandalay;Member;Female;Palmera de cacao Hacendado sin azÃºcar aÃ±adido;0.34;1;1/17/2019;18:45;Ewallet;257024;'0000003100027938489781
+554-53-8700;C;Naypyitaw;Member;Male;Mortadela veggie con aceitunas Noel lonchas;1.19;2;2/2/2019;10:11;Cash;257025;--
+354-25-5821;B;Mandalay;Member;Female;Lote hombre Don Algodon;10.5;6;2/8/2019;13:03;Cash;257020;--
+228-96-1411;C;Naypyitaw;Member;Female;Eau de toilette hombre Criterio Ego;9;8;3/4/2019;20:39;Cash;257021;--
+617-15-4209;C;Naypyitaw;Member;Male;LasaÃ±a a la boloÃ±esa Hacendado ultracongelada;4;2;3/16/2019;19:47;Cash;257022;--
+132-32-9879;B;Mandalay;Member;Female;Ron aÃ±ejo Negrita;8.19;4;3/9/2019;18:00;Cash;257023;--
+370-41-7321;B;Mandalay;Member;Male;Penne Armando;0.95;9;2/27/2019;17:24;Credit card;257024;4374-3113-7839-4025
+727-46-3608;B;Mandalay;Member;Female;Refresco de manzana Gold Spring sin gas;0.73;9;2/6/2019;15:47;Ewallet;257025;'0000003100013866544250
+669-54-1719;B;Mandalay;Member;Male;ChampÃº Dermo Sensitive Deliplus cuero cabelludo sensible;1.95;6;2/10/2019;12:45;Credit card;257020;5838-2861-7081-1295
+574-22-5561;C;Naypyitaw;Member;Female;Detergente ropa Elena en polvo;4.95;10;3/19/2019;17:08;Ewallet;257021;'0000003100039130291562
+326-78-5178;C;Naypyitaw;Member;Male;Desodorante roll-on active control Sanex men;1.8;7;2/3/2019;10:19;Cash;257022;--
+162-48-8011;A;Yangon;Member;Female;Harina de arroz Hacendado;0.95;5;2/10/2019;15:10;Cash;257023;--
+616-24-2851;B;Mandalay;Member;Female;TÃ© Earl Grey Hacendado;0.95;4;3/22/2019;14:42;Ewallet;257024;'0000003100043021923699
+778-71-5554;C;Naypyitaw;Member;Male;Salsa miel y mostaza Hacendado;1.2;1;1/25/2019;15:46;Credit card;257025;4515-1774-1379-1357
+242-55-6721;B;Mandalay;Normal;Male;PaÃ±o seca vajillas Bosque Verde;2.2;2;3/7/2019;11:49;Ewallet;257020;'0000003100039943017781
+399-46-5918;C;Naypyitaw;Normal;Female;Alimento completo conejos enanos Granzoo;1.26;8;2/28/2019;19:01;Cash;257021;--
+106-35-6779;A;Yangon;Member;Male;Refresco tÃ© con limÃ³n Hacendado para diluir;1.15;2;3/27/2019;11:26;Cash;257022;--
+635-40-6220;A;Yangon;Normal;Male;Nachos Hacendado;0.85;8;2/7/2019;11:28;Ewallet;257023;'0000003100057497155970
+817-48-8732;A;Yangon;Member;Female;Delicias de fiambre pollo y queso;2.5;10;1/20/2019;15:55;Cash;257024;--
+120-06-4233;C;Naypyitaw;Normal;Male;Alubia roja Hacendado;1.3;6;3/12/2019;20:36;Cash;257025;--
+285-68-5083;C;Naypyitaw;Member;Female;Pila super alcalina 9V-6LR61 Premio;1.5;3;2/15/2019;17:47;Credit card;257020;4940-9543-8150-2847
+803-83-5989;C;Naypyitaw;Normal;Male;CastaÃ±as tostadas y peladas Hacendado;1.35;6;2/24/2019;10:55;Ewallet;257021;'0000003100094903051115
+347-34-2234;B;Mandalay;Member;Female;Tarta bombÃ³n crujiente Hacendado congelada;7;9;2/3/2019;13:40;Ewallet;257022;'0000003100065258947655
+199-75-8169;A;Yangon;Member;Male;Maquillaje compacto Deliplus 01;6;10;3/6/2019;12:27;Credit card;257023;4171-2399-2661-8868
+853-23-2453;B;Mandalay;Member;Male;Leche crecimiento en polvo 3 Nidina NestlÃ©;13;4;2/14/2019;14:35;Cash;257024;--
+877-22-3308;A;Yangon;Member;Male;6 Panes pulguitas sin aditivos;0.78;10;3/13/2019;16:40;Cash;257025;--
+838-78-4295;C;Naypyitaw;Normal;Female;Petit sabores Hacendado;1.25;2;2/10/2019;15:43;Ewallet;257020;'0000003100017799154059
+109-28-2512;B;Mandalay;Member;Female;Pulpo en aceite de oliva Hacendado;3.75;6;1/7/2019;15:01;Ewallet;257021;'0000003100024898579237
+232-11-3025;A;Yangon;Normal;Male;After shave bÃ¡lsamo piel sensible Deliplus 0% alcohol ni perfume;1.95;10;1/24/2019;10:04;Cash;257022;--
+382-03-4532;A;Yangon;Member;Female;Brillo de labios Hot Metal Deliplus 02;3.5;1;2/2/2019;18:50;Cash;257023;--
+393-65-2792;C;Naypyitaw;Normal;Male;Tortitas de arroz con chocolate blanco sabor yogur Hacendado;1.3;10;1/6/2019;12:46;Credit card;257024;4136-7384-9402-4958
+796-12-2025;C;Naypyitaw;Normal;Male;Maquillaje fluido Deliplus fijo & cubriente 04;5.5;10;2/11/2019;16:19;Cash;257025;--
+510-95-6347;B;Mandalay;Member;Female;Mascarilla cabello Elvive color vive;4.5;3;3/5/2019;18:17;Ewallet;257020;'0000003100064681508668
+841-35-6630;C;Naypyitaw;Normal;Female;Chocolate con leche Bites Cadbury con relleno sabor vainilla y trozos de galleta;1.2;6;3/9/2019;18:21;Cash;257021;--
+287-21-9091;A;Yangon;Normal;Male;Chupete silicona reversible +6 a 18 meses Deliplus luminiscente;2;9;1/22/2019;10:55;Ewallet;257022;'0000003100012152647245
+732-94-0499;C;Naypyitaw;Normal;Female;Queso Gouda semicurado Holland Corona;2.8;10;1/13/2019;17:04;Credit card;257023;4917-1816-4348-7388
+263-10-3913;C;Naypyitaw;Member;Male;SalmÃ³n a rodajas;25.33;9;1/9/2019;14:20;Credit card;257024;4577-8574-8081-8768
+381-20-0914;A;Yangon;Member;Female;Cacao soluble 0% azÃºcares aÃ±adidos Cola Cao;3.49;9;1/12/2019;15:48;Credit card;257025;5737-1172-8686-9508
+829-49-1914;C;Naypyitaw;Member;Female;Comida perro jÃºnior Supreme Compy con pollo y arroz;7.45;10;3/5/2019;16:24;Ewallet;257020;'0000003100071617706893
+756-01-7507;C;Naypyitaw;Normal;Female;After shave bÃ¡lsamo sensitive Nivea Men 0% alcohol anti-irritaciÃ³n;4.75;5;1/22/2019;18:56;Cash;257021;--
+870-72-4431;C;Naypyitaw;Normal;Female;Ambientador armarios Bosque Verde spa;1.75;6;1/21/2019;14:42;Credit card;257022;4362-9286-5699-1288
+847-38-7188;B;Mandalay;Normal;Female;Sombra de ojos mate Deliplus 02;3;3;1/26/2019;19:56;Ewallet;257023;'0000003100035045665765
+480-63-2856;C;Naypyitaw;Normal;Male;Filetes de abadejo de Alaska sin piel Hacendado ultracongelados;4.95;8;1/23/2019;18:37;Ewallet;257024;'0000003100091104775706
+787-56-0757;C;Naypyitaw;Member;Female;Salsa brava picante Hacendado;0.85;4;2/23/2019;18:45;Credit card;257025;5131-1674-3303-1342
+360-39-5055;C;Naypyitaw;Member;Male;Fritura de pescado Hacendado ultracongelada;4.49;5;3/9/2019;10:17;Cash;257020;--
+730-50-9884;C;Naypyitaw;Normal;Female;Nuggets de merluza Pescanova ultracongelados;1.99;7;3/5/2019;14:31;Ewallet;257021;'0000003100061484043452
+362-58-8315;C;Naypyitaw;Normal;Male;JudÃ­a verde plana Hacendado ultracongelada;1.05;5;3/25/2019;10:23;Cash;257022;--
+633-44-8566;A;Yangon;Member;Male;Galletas Choco leche con chocolatina Hacendado;1;7;3/27/2019;20:35;Credit card;257023;5824-3989-9319-7279
+504-35-8843;A;Yangon;Normal;Male;Aceite de oliva 1Âº Hacendado;10.6;1;1/2/2019;16:57;Cash;257024;--
+318-68-5053;B;Mandalay;Normal;Female;Aceite de oliva virgen extra Hacendado;2.35;6;2/27/2019;17:55;Cash;257025;--
+565-80-5980;C;Naypyitaw;Member;Female;Tomate frito estilo casero Hacendado;0.93;4;1/23/2019;10:25;Cash;257020;--
+225-32-0908;C;Naypyitaw;Normal;Female;Ambientador lÃ­quido concentrado Foresan WC;1.57;10;1/26/2019;19:54;Ewallet;257021;'0000003100016484129352
+873-51-0671;A;Yangon;Member;Female;Detergente ropa frescor de colonia Bosque Verde lÃ­quido;3.79;7;1/10/2019;16:42;Ewallet;257022;'0000003100021925397652
+152-08-9985;B;Mandalay;Member;Male;Burger de pavo y pollo;3.52;9;3/12/2019;12:09;Credit card;257023;4601-1299-1083-8457
+512-91-0811;C;Naypyitaw;Normal;Male;Mascarillas higiÃ©nicas infantiles Deliplus 6 a 9 aÃ±os;5.4;1;2/6/2019;20:05;Credit card;257024;4431-1363-1644-8886
+594-34-4444;A;Yangon;Normal;Male;HÃ©lices con vegetales Hacendado;1.09;1;3/8/2019;20:38;Ewallet;257025;'0000003100015579004610
+766-85-7061;B;Mandalay;Normal;Male;Eau de toilette hombre Criterio Ego;9;10;3/29/2019;10:25;Ewallet;257020;'0000003100082773155373
+871-39-9221;C;Naypyitaw;Normal;Female;Surtido de golosinas Xuxes top ten Hacendado;0.95;6;2/9/2019;13:11;Cash;257021;--
+865-92-6136;A;Yangon;Normal;Male;Mascarilla cabello liso keratina TRESemmÃ© nutritiva;4.8;3;3/23/2019;10:16;Ewallet;257022;'0000003100010225565104
+733-01-9107;B;Mandalay;Normal;Male;Leche semidesnatada Pascual;0.89;6;3/5/2019;18:14;Cash;257023;--
+163-56-7055;C;Naypyitaw;Member;Male;Muesli con quinoa, chÃ­a y chocolate negro Hacendado;1.8;1;3/26/2019;19:20;Cash;257024;--
+189-98-2939;C;Naypyitaw;Normal;Male;Sal 60% menos de sodio Hacendado;1.2;9;3/1/2019;13:22;Cash;257025;--
+551-21-3069;C;Naypyitaw;Normal;Female;Queso curado en cavas aÃ±ejo Sa Madona;3.8;9;2/1/2019;11:27;Cash;257020;--
+212-62-1842;A;Yangon;Normal;Male;Queso en porciones El Caserio;2.5;6;3/28/2019;16:44;Cash;257021;--
+716-39-1409;B;Mandalay;Normal;Male;Tarta tres chocolates Hacendado congelada;8;7;3/19/2019;18:19;Cash;257022;--
+704-48-3927;A;Yangon;Member;Male;Margarina ligera Hacendado;0.8;10;1/12/2019;14:50;Ewallet;257023;'0000003100030297898856
+628-34-3388;C;Naypyitaw;Normal;Male;Levadura en polvo Hacendado;1.2;6;1/5/2019;20:54;Credit card;257024;4328-5680-2816-4170
+630-74-5166;A;Yangon;Normal;Male;Lote infantil Disney Bingo y Rolly;8;6;3/22/2019;20:19;Cash;257025;--
+588-01-7461;C;Naypyitaw;Normal;Female;Preservativos natural On;3.3;9;3/24/2019;10:43;Cash;257020;--
+861-77-0145;C;Naypyitaw;Member;Male;Esponjas de baÃ±o con jabÃ³n Jabonitas;1.1;10;3/3/2019;14:30;Cash;257021;--
+479-26-8945;B;Mandalay;Member;Female;Pila super alcalina 9V-6LR61 Premio;1.5;2;2/5/2019;11:32;Ewallet;257022;'0000003100027214967494
+210-67-5886;C;Naypyitaw;Member;Female;Refresco de naranja Trina zero sin gas;2.96;3;2/5/2019;10:41;Credit card;257023;4123-3923-2550-4055
+227-78-1148;B;Mandalay;Normal;Female;Pomelo;0.81;7;2/15/2019;12:44;Cash;257024;--
+645-44-1170;A;Yangon;Member;Male;Magdalenas Hacendado;0.62;9;1/19/2019;20:07;Ewallet;257025;'0000003100077672914594
+237-01-6122;C;Naypyitaw;Member;Female;Pomelo;0.81;9;2/1/2019;20:31;Credit card;257020;4377-5874-4715-9657
+225-98-1496;C;Naypyitaw;Normal;Female;Refresco Coca-Cola Zero Zero;2.8;3;3/2/2019;13:01;Credit card;257021;4347-2210-4432-7721
+291-32-1427;B;Mandalay;Member;Male;Cava brut Anna CodornÃ­u;9.35;5;3/5/2019;12:29;Ewallet;257022;'0000003100093324325988
+659-65-8956;B;Mandalay;Member;Male;Petit Nesquik NestlÃ©;1.29;1;1/16/2019;15:26;Ewallet;257023;'0000003100080152151290
+642-32-2990;A;Yangon;Normal;Female;Limpiador de calzado negro Bosque Verde;0.95;10;2/2/2019;20:48;Ewallet;257024;'0000003100043485434809
+378-24-2715;B;Mandalay;Normal;Male;Agua de colonia S3 Classic fresh;2.95;2;1/20/2019;20:38;Ewallet;257025;'0000003100050902476749
+638-60-7125;A;Yangon;Normal;Female;Burger de vacuno y cerdo;3.35;8;2/14/2019;17:03;Credit card;257020;4773-3256-1137-2490
+659-36-1684;C;Naypyitaw;Member;Male;Aceitunas negras Hacendado con hueso;0.75;7;1/12/2019;12:02;Credit card;257021;5370-2182-8608-4344
+219-22-9386;B;Mandalay;Member;Male;Cucharas bebÃ© +6 meses para purÃ©s y papillas Deliplus;2;9;3/9/2019;17:26;Credit card;257022;5450-5901-8533-9091
+336-78-2147;C;Naypyitaw;Member;Male;Toallitas dermo higiene corporal Deliplus tamaÃ±o gigantes;3.95;8;3/13/2019;19:52;Credit card;257023;5866-7061-3357-1002
+268-27-6179;B;Mandalay;Member;Female;PaÃ±ales bebÃ© talla 2 de 4-8 kg Dodot;12.97;8;3/9/2019;14:57;Ewallet;257024;'0000003100058998150664
+668-90-8900;A;Yangon;Normal;Female;Helado de fresa Hacendado;1.65;7;3/10/2019;18:44;Credit card;257025;4133-4810-8645-3949
+870-54-3162;A;Yangon;Normal;Female;Vino tinto D.O Navarra Embrujada roble;2;5;1/27/2019;13:26;Cash;257020;--
+189-08-9157;C;Naypyitaw;Normal;Female;Hummus de garbanzos Hacendado receta clÃ¡sica;2.29;9;1/8/2019;16:17;Credit card;257021;5116-3272-6055-1227
+663-86-9076;C;Naypyitaw;Member;Female;Preparado paella de marisco Hacendado ultracongelado;3.9;8;1/8/2019;15:57;Ewallet;257022;'0000003100050288950653
+549-84-7482;B;Mandalay;Normal;Female;JudÃ­a verde plana Hacendado ultracongelada;1.05;9;2/8/2019;11:15;Ewallet;257023;'0000003100080406776506
+191-10-6171;B;Mandalay;Normal;Female;Salmorejo al estilo cordobÃ©s Hacendado;1.6;7;1/25/2019;13:18;Cash;257024;--
+802-70-5316;A;Yangon;Member;Female;Chuletas de cerdo sajonia;2.31;6;3/6/2019;20:34;Cash;257025;--
+695-51-0018;B;Mandalay;Normal;Female;Cebolla caramelizada Hacendado;1.4;4;2/10/2019;18:36;Cash;257020;--
+590-83-4591;B;Mandalay;Member;Male;Salmorejo al estilo cordobÃ©s Hacendado;1.6;6;2/17/2019;14:40;Credit card;257021;5286-2844-4048-9575
+483-71-1164;C;Naypyitaw;Normal;Female;Medio melÃ³n Galia;1.66;6;3/8/2019;16:43;Ewallet;257022;'0000003100091190085043
+597-78-7908;C;Naypyitaw;Normal;Male;ChampÃº Argan Oil Deliplus cabello seco y daÃ±ado;1.95;3;2/18/2019;19:39;Cash;257023;--
+700-81-1757;A;Yangon;Normal;Female;Polvo compacto seda Deliplus 01;6;5;1/18/2019;20:59;Credit card;257024;4394-5251-5975-6005
+354-39-5160;A;Yangon;Member;Female;TriÃ¡ngulos de maÃ­z con legumbres Hacendado;1;6;2/18/2019;15:39;Cash;257025;--
+241-72-9525;B;Mandalay;Normal;Male;Caramelos regaliz mentol Respiral Halls;1.2;10;2/16/2019;12:21;Cash;257020;--
+575-30-8091;A;Yangon;Normal;Male;Fideos orientales Yakisoba classic Gallina Blanca;1.59;8;3/16/2019;19:25;Ewallet;257021;'0000003100070902376607
+731-81-9469;C;Naypyitaw;Member;Female;Bebida lÃ¡ctea de fresa y plÃ¡tano Actimel Kids;2.99;10;1/23/2019;13:00;Credit card;257022;5327-9135-6819-9503
+280-17-4359;C;Naypyitaw;Member;Male;Galletas PrÃ­ncipe con crema de chocolate;3;10;1/25/2019;13:48;Cash;257023;--
+338-65-2210;C;Naypyitaw;Member;Female;Salsa de soja dulce Hacendado;1.35;10;2/5/2019;19:57;Cash;257024;--
+488-25-4221;C;Naypyitaw;Member;Female;CaÃ±as flexibles;1.22;1;2/22/2019;10:36;Credit card;257025;4405-9672-9785-3066
+239-10-7476;A;Yangon;Normal;Female;Mantequilla sin lactosa Hacendado;1.8;6;1/21/2019;16:37;Ewallet;257020;'0000003100052099427786
+458-41-1477;C;Naypyitaw;Normal;Female;Aceitunas manzanilla Hacendado sin hueso;1.3;6;3/8/2019;17:11;Credit card;257021;4106-2531-2120-8996
+685-64-1609;A;Yangon;Member;Female;Papel higiÃ©nico hÃºmedo WC Bosque Verde;0.65;10;2/10/2019;12:28;Ewallet;257022;'0000003100014291148075
+568-90-5112;C;Naypyitaw;Normal;Male;Barritas para periquitos de fruta y miel Natura;1.5;4;3/19/2019;12:46;Credit card;257023;4594-2140-9860-9157
+262-47-2794;B;Mandalay;Member;Male;Limpiador de calzado negro Bosque Verde;0.95;8;3/6/2019;15:07;Credit card;257024;5482-6347-5178-2779
+238-49-0436;A;Yangon;Normal;Male;Zumo de naranja reciÃ©n exprimido Hacendado;2.25;8;3/27/2019;13:48;Credit card;257025;4255-7796-1095-9821
+608-96-3517;B;Mandalay;Member;Female;Preparado paella de marisco Hacendado ultracongelado;3.9;4;3/23/2019;19:20;Credit card;257020;5631-5527-6267-2658
+584-86-7256;C;Naypyitaw;Member;Male;Toallitas dermo higiene corporal Deliplus tamaÃ±o gigantes;3.95;7;3/11/2019;16:07;Credit card;257021;5654-1003-4732-3158
+746-94-0204;A;Yangon;Normal;Male;Enjuague bucal protecciÃ³n dientes y encÃ­as Listerine menta fresca;4.8;9;1/29/2019;11:56;Credit card;257022;4379-7552-3956-5227
+214-17-6927;C;Naypyitaw;Normal;Female;Flautas de pollo y queso;1.7;6;2/7/2019;18:23;Ewallet;257023;'0000003100017997263124
+400-89-4171;C;Naypyitaw;Normal;Female;Mezcla de gammarus para tortugas Dr. Wu Tetra;1.98;8;1/28/2019;13:05;Cash;257024;--
+782-95-9291;A;Yangon;Member;Male;Cepillo cabello antitirones Deliplus;5.5;5;2/20/2019;15:55;Credit card;257025;4388-3437-7626-8714
+279-74-2924;B;Mandalay;Member;Male;Salami extra Hacendado lonchas;1.45;1;1/4/2019;19:40;Cash;257020;--
+307-85-2293;B;Mandalay;Normal;Male;SÃ©rum Be Radiant 10 en 1 Deliplus cabello apagado;4.05;5;3/7/2019;13:58;Ewallet;257021;'0000003100059186182762
+743-04-1105;B;Mandalay;Member;Male;Barrita sustitutivo de comida Belladieta sabor chocolate negro;5.4;9;3/30/2019;14:43;Ewallet;257022;'0000003100060093077330
+423-57-2993;B;Mandalay;Normal;Male;Rape sin piel y sin cabeza;15.42;6;3/27/2019;19:18;Ewallet;257023;'0000003100084493178671
+894-41-5205;C;Naypyitaw;Normal;Female;Margarina TulipÃ¡n;1.59;8;1/19/2019;19:39;Credit card;257024;4562-9358-2598-9476
+275-28-0149;A;Yangon;Normal;Male;PatÃ© perro adulto Delikut con cordero y verduras;1.55;1;2/25/2019;16:21;Cash;257025;--
+101-17-6199;A;Yangon;Normal;Male;Eau de toilette mujer Anouk;7.3;7;3/13/2019;19:44;Credit card;257020;4216-6054-2680-7126
+423-80-0988;C;Naypyitaw;Normal;Male;Batido de chocolate 90% leche Puleva;1.79;2;1/30/2019;19:42;Ewallet;257021;'0000003100013647107368
+548-46-9322;B;Mandalay;Normal;Male;Cerveza Amstel;6.48;10;2/20/2019;15:24;Credit card;257022;5422-6125-5361-4592
+505-02-0892;B;Mandalay;Member;Male;Vino rosado D.O La Mancha Fidencio;1.2;8;2/25/2019;14:12;Ewallet;257023;'0000003100051165402783
+234-65-2137;C;Naypyitaw;Normal;Male;Macarrones boloÃ±esa Hacendado;2.15;10;1/16/2019;13:32;Cash;257024;--
+687-47-8271;A;Yangon;Normal;Male;Refresco limÃ³n Schweppes original;0.69;10;2/8/2019;16:20;Credit card;257025;4178-5570-2380-1018
+796-32-9050;A;Yangon;Normal;Male;Langostino crudo Pescanova ultracongelado;9.25;6;1/19/2019;16:31;Cash;257020;--
+105-31-1824;A;Yangon;Member;Male;Langostino crudo Pescanova ultracongelado;9.25;7;2/1/2019;15:10;Credit card;257021;5355-8963-2632-1755
+249-42-3782;A;Yangon;Normal;Male;CafÃ© monodosis natural Hacendado Espresso;3.05;5;1/3/2019;11:36;Ewallet;257022;'0000003100088383699367
+316-55-4634;B;Mandalay;Member;Male;Acondicionador protector color vive Elvive cabello teÃ±ido;2.79;5;1/26/2019;12:45;Credit card;257023;5415-5315-4646-3550
+733-33-4967;C;Naypyitaw;Normal;Male;CafÃ© soluble descafeinado NescafÃ© classic;3.87;8;3/3/2019;19:17;Cash;257024;--
+608-27-6295;B;Mandalay;Member;Male;Chorizo picante extra Hacendado;2.1;6;1/19/2019;17:34;Credit card;257025;4998-1817-2253-1899
+414-12-7047;B;Mandalay;Normal;Male;Patatas fritas paja Hacendado;1.25;8;1/18/2019;12:04;Ewallet;257020;'0000003100063739648041
+827-26-2100;A;Yangon;Member;Male;Sazonador al horno y microondas pollo y costillas a las hierbas provenzales Hacendado;0.95;9;3/21/2019;16:21;Ewallet;257021;'0000003100067553993470
+175-54-2529;A;Yangon;Member;Male;Comida perro jÃºnior Supreme Compy con pollo y arroz;7.45;8;3/3/2019;17:01;Credit card;257022;4659-7534-8425-3143
+139-52-2867;C;Naypyitaw;Normal;Female;Postre lÃ¡cteo + proteÃ­nas Hacendado chocolate;1.4;7;2/13/2019;10:50;Credit card;257023;4909-9714-3614-8809
+407-63-8975;A;Yangon;Normal;Male;Cubo redondo 12L Bosque Verde;2.35;6;3/23/2019;19:16;Ewallet;257024;'0000003100069733350420
+342-65-4817;C;Naypyitaw;Member;Male;Recipiente de plÃ¡stico redondo 3L Bosque Verde;2.65;3;1/28/2019;16:47;Ewallet;257025;'0000003100013058835840
+130-98-8941;C;Naypyitaw;Normal;Male;Maquillaje fluido Deliplus perfecciÃ³n satin 01;5.5;7;2/9/2019;10:00;Cash;257020;--
+434-83-9547;C;Naypyitaw;Member;Male;Snack perro corazones Compy;1.29;8;1/23/2019;11:51;Cash;257021;--
+851-28-6367;A;Yangon;Member;Male;Cerveza Pils Krombacher;0.6;10;3/23/2019;10:55;Ewallet;257022;'0000003100082132449213
+824-88-3614;C;Naypyitaw;Normal;Male;Crema facial antiarrugas y antiedad 9.60 hombre;3.95;8;1/25/2019;15:00;Ewallet;257023;'0000003100088186369101
+586-25-0848;A;Yangon;Normal;Female;Queso semicurado GarcÃ­a Baquero;3.84;7;3/4/2019;11:19;Credit card;257024;4746-9469-6514-8135
+895-66-0685;B;Mandalay;Member;Male;Vino tinto D.O ValdepeÃ±as Conde de Egara reserva tempranillo;1.99;3;3/5/2019;19:46;Ewallet;257025;'0000003100088799405995
+305-14-0245;B;Mandalay;Member;Female;Compresa sin alas super plegada Deliplus Classic;1.25;8;3/3/2019;19:00;Ewallet;257020;'0000003100061070445430
+732-04-5373;B;Mandalay;Member;Male;Polvo suelto traslÃƒÂºcido Deliplus 01;6;4;2/8/2019;10:53;Cash;257021;--
+400-60-7251;A;Yangon;Normal;Male;Chorizo lonchas Revilla;1;1;2/10/2019;12:50;Ewallet;257022;'0000003100096453678163
+593-65-1552;C;Naypyitaw;Normal;Female;Desodorante sport Deliplus antimanchas;1.7;4;1/28/2019;20:50;Credit card;257023;5434-5116-1373-4104
+284-34-9626;B;Mandalay;Normal;Female;Bandas de cera especial cuerpo y piernas Veet piel sensible;4.45;3;2/11/2019;10:39;Credit card;257024;4971-8879-3148-4827
+437-58-8131;B;Mandalay;Normal;Female;ApÃ³sitos para ampollas y rozaduras;2.5;2;1/15/2019;13:41;Ewallet;257025;'0000003100056007601505
+286-43-6208;C;Naypyitaw;Normal;Female;Yogur natural edulcorado Densia 0% materia grasa;1.69;9;3/16/2019;19:08;Cash;257020;--
+641-43-2399;B;Mandalay;Normal;Male;Hidrocrema Liss Frizz Control Deliplus cabello rebelde;2.75;4;1/26/2019;20:23;Ewallet;257021;'0000003100042002442987
+831-07-6050;A;Yangon;Normal;Male;Harina integral de trigo Aragonesa;0.8;5;3/19/2019;11:30;Credit card;257022;5615-4590-1553-5802
+556-86-3144;C;Naypyitaw;Member;Female;Refresco cola Hacendado Zero azÃºcar Zero cafeÃ­na;0.5;1;1/13/2019;19:30;Cash;257023;--
+848-24-9445;C;Naypyitaw;Member;Male;Snack de multicereales Sunbites;1.5;2;3/26/2019;18:03;Cash;257024;--
+856-22-8149;A;Yangon;Normal;Female;Costilla de cerdo ibÃ©rico adobada;2.34;1;3/23/2019;10:13;Ewallet;257025;'0000003100071237829300
+699-01-4164;C;Naypyitaw;Normal;Male;ColoraciÃ³n permanente L'OrÃ©al 6 rubio oscuro;7.95;4;3/12/2019;19:58;Credit card;257020;4170-2352-7989-6943
+420-11-4919;C;Naypyitaw;Member;Female;Laca de uÃ±as manicura francesa Deliplus rosa 03;2.75;5;2/17/2019;19:57;Credit card;257021;5531-2962-7599-8481
+606-80-4905;C;Naypyitaw;Member;Female;Tomate frito sin azÃºcares aÃ±adidos Hacendado;0.94;6;1/29/2019;10:01;Credit card;257022;4381-8464-8841-7385
+542-41-0513;B;Mandalay;Member;Female;Barra de helado turrÃ³n Hacendado;1.99;4;3/15/2019;11:57;Cash;257023;--
+426-39-2418;C;Naypyitaw;Normal;Male;Desodorante Zero % Sanex;3.15;7;1/14/2019;10:02;Cash;257024;--
+875-46-5808;B;Mandalay;Member;Male;Detergente ropa de color Bosque Verde lÃ­quido;2.99;10;2/6/2019;14:51;Ewallet;257025;'0000003100011084613936
+394-43-4238;B;Mandalay;Member;Male;Filetes de lubina;7.8;5;2/15/2019;12:42;Credit card;257020;5509-9744-9374-2954
+749-24-1565;A;Yangon;Normal;Female;Barritas para periquitos de fruta y miel Natura;1.5;9;1/3/2019;12:02;Ewallet;257021;'0000003100053404740643
+672-51-8681;C;Naypyitaw;Member;Female;Mini Babybel;2.85;9;1/4/2019;18:19;Credit card;257022;4200-3871-6337-6799
+263-87-5680;C;Naypyitaw;Member;Female;Gazpacho suave Hacendado;2.6;10;3/18/2019;17:38;Ewallet;257023;'0000003100076338602323
+573-58-9734;B;Mandalay;Normal;Female;Vino tinto MasÃ­a de AltigÃ³n;4.75;3;3/28/2019;13:41;Ewallet;257024;'0000003100022454439907
+817-69-8206;B;Mandalay;Normal;Female;Vermouth rojo Maronti reserva;3.29;9;3/2/2019;19:42;Credit card;257025;4517-5219-5947-8730
+888-02-0338;A;Yangon;Normal;Male;ChampÃº total repair Elvive cabello daÃ±ado;2.95;9;1/25/2019;20:24;Ewallet;257020;'0000003100091728393724
+677-11-0152;C;Naypyitaw;Normal;Female;Maquillaje fluido Deliplus bb bronzer 01;5;9;1/16/2019;18:08;Cash;257021;--
+142-63-6033;B;Mandalay;Normal;Male;Zumo pura naranja Hacendado;1.9;5;3/20/2019;19:17;Ewallet;257022;'0000003100039158616801
+656-16-1063;B;Mandalay;Normal;Male;Pizza pollo Hacendado;2.39;3;1/4/2019;13:24;Credit card;257023;5878-8649-8545-2684
+891-58-8335;B;Mandalay;Member;Female;Queso fresco de vaca Hacendado;1.3;7;3/11/2019;15:53;Cash;257024;--
+802-43-8934;A;Yangon;Normal;Male;Tortitas de arroz con chocolate blanco sabor yogur Hacendado;1.3;1;3/22/2019;15:05;Credit card;257025;4431-4316-9911-3361
+560-30-5617;B;Mandalay;Normal;Female;Salsa de soja Hacendado;1.35;5;3/24/2019;18:27;Cash;257020;--
+319-74-2561;A;Yangon;Member;Female;Garbanzo cocido Hacendado;0.7;3;2/21/2019;16:55;Cash;257021;--
+549-03-9315;B;Mandalay;Normal;Male;Refresco cola Hacendado Zero azÃºcar;0.26;8;2/12/2019;12:58;Ewallet;257022;'0000003100022625956212
+790-29-1172;B;Mandalay;Normal;Female;JamÃ³n de bellota ibÃ©rico La Hacienda del ibÃ©rico;351;3;3/10/2019;18:59;Credit card;257023;4573-4464-7225-8850
+239-36-3640;B;Mandalay;Normal;Male;JudÃ­a verde plana Hacendado ultracongelada;1.05;6;1/31/2019;13:44;Ewallet;257024;'0000003100090979573366
+468-01-2051;B;Mandalay;Normal;Male;Mini eau de parfum mujer Flor de Mayo Hi! Tropical;1.5;7;3/6/2019;13:46;Ewallet;257025;'0000003100072319493815
+389-25-3394;C;Naypyitaw;Normal;Male;Tomate frito Hacendado con aceite de oliva;0.92;5;2/17/2019;18:06;Cash;257020;--
+279-62-1445;C;Naypyitaw;Member;Female;Yogur sin lactosa Hacendado cremoso, natural y azucarado;1.3;1;2/21/2019;12:38;Cash;257021;--
+213-72-6612;A;Yangon;Normal;Male;Gazpacho tradicional Hacendado;2.6;2;3/20/2019;15:56;Cash;257022;--
+746-68-6593;C;Naypyitaw;Member;Female;LejÃ­a perfumada Neutrex frescor verde;1.79;2;1/11/2019;14:29;Credit card;257023;5707-3975-6723-8052
+836-82-5858;B;Mandalay;Member;Male;Fideos orientales Yakisoba classic Gallina Blanca;1.59;9;1/26/2019;19:14;Ewallet;257024;'0000003100090133385231
+583-72-1480;C;Naypyitaw;Member;Male;Coca de crema de avellana;4.4;4;1/31/2019;16:24;Ewallet;257025;'0000003100078784371796
+466-61-5506;B;Mandalay;Member;Female;Relleno para kebab con carne de pollo y ternera Hacendado ultracongelado;1.98;6;2/26/2019;10:52;Cash;257020;--
+721-86-6247;A;Yangon;Normal;Female;Eau de toilette hombre Ikiru;8;8;3/11/2019;12:55;Ewallet;257021;'0000003100067112150747
+289-65-5721;B;Mandalay;Normal;Female;Huevas de lumpo Hacendado;2.1;2;1/26/2019;19:28;Cash;257022;--
+545-46-3100;B;Mandalay;Member;Female;Migas Hacendado;2.1;3;3/12/2019;13:52;Credit card;257023;5572-7239-4062-6268
+418-02-5978;B;Mandalay;Normal;Female;Laca de uÃ±as secado rÃ¡pido Deliplus 935 coral;1.85;9;2/11/2019;10:54;Cash;257024;--
+269-04-5750;B;Mandalay;Member;Male;Cerveza especial San Miguel;5.28;4;2/21/2019;18:31;Cash;257025;--
+157-13-5295;A;Yangon;Member;Male;Cebollas tiernas;1.25;10;3/9/2019;18:24;Ewallet;257020;'0000003100050727550921
+645-78-8093;A;Yangon;Normal;Female;Compresa sin alas normal plegada Deliplus Classic;1.15;2;1/20/2019;18:09;Ewallet;257021;'0000003100064418669716
+211-30-9270;C;Naypyitaw;Normal;Male;Queso bola Edam semicurado Holland Corona;3.65;5;1/28/2019;15:16;Credit card;257022;4765-6925-7263-2822
+755-12-3214;C;Naypyitaw;Member;Female;Corrector stick Deliplus 03;4;5;3/5/2019;17:07;Credit card;257023;5588-3352-3779-6072
+346-84-3103;B;Mandalay;Member;Female;Almeja japonesa;7.2;5;3/2/2019;19:26;Cash;257024;--
+478-06-7835;A;Yangon;Normal;Male;NÃ©cora cocida Errigal Bay congelada;5.95;1;1/11/2019;11:20;Ewallet;257025;'0000003100072106391881
+540-11-4336;A;Yangon;Normal;Male;Ensalada mezcla 4 estaciones;0.6;9;1/11/2019;16:49;Credit card;257020;5486-5053-4543-4066
+448-81-5016;A;Yangon;Normal;Male;Filetes de merluza del cabo sin piel Hacendado ultracongelados;3.85;2;3/11/2019;12:01;Credit card;257021;5617-2512-8410-8037
+142-72-4741;C;Naypyitaw;Member;Male;Alimento completo conejos enanos Granzoo;1.26;2;2/28/2019;18:37;Credit card;257022;4178-5955-4838-8718
+217-58-1179;A;Yangon;Member;Male;Lote infantil My Unicorn;8;4;1/5/2019;11:25;Cash;257023;--
+376-02-8238;B;Mandalay;Normal;Male;Dorada abierta en libro sin cabeza y sin espina;3.27;8;2/2/2019;18:42;Credit card;257024;4169-9832-8325-5757
+530-90-9855;A;Yangon;Member;Male;Sopa instantÃ¡nea de verduras Gallina Blanca Sopinstant;1.1;8;1/1/2019;14:47;Cash;257025;--
+866-05-7563;B;Mandalay;Member;Female;Vela blanca hogar Roura;1.6;3;2/9/2019;19:43;Cash;257020;--
+604-70-6476;A;Yangon;Member;Male;Desodorante mujer protecciÃ³n plus Deliplus;1.7;5;1/23/2019;14:04;Ewallet;257021;'0000003100021062933237
+799-71-1548;A;Yangon;Member;Male;Tiras transparentes surtidas Doctor San;0.9;4;1/7/2019;16:11;Credit card;257022;5706-6943-4272-2959
+785-13-7708;B;Mandalay;Normal;Male;Bocaditos en salsa gato adulto Delikuit;2.99;7;1/14/2019;19:06;Credit card;257023;5688-2192-2433-3248
+845-51-0542;B;Mandalay;Member;Male;Espuma ondas marcadas cabello rizado Deliplus fijaciÃ³n 3;1.99;9;2/2/2019;15:34;Ewallet;257024;'0000003100042994369303
+662-47-5456;C;Naypyitaw;Member;Male;Bizcocho sin gluten de limÃ³n Hacendado;2.9;10;3/17/2019;19:06;Credit card;257025;5663-4010-2886-8061
+883-17-4236;C;Naypyitaw;Normal;Female;Panecillo tostado classic Hacendado;0.78;2;3/2/2019;19:44;Credit card;257020;4705-1058-3109-9002
+290-68-2984;A;Yangon;Normal;Male;TÃ© Earl Grey Hacendado;0.95;4;3/16/2019;11:22;Cash;257021;--
+704-11-6354;A;Yangon;Member;Male;SalchichÃ³n extra Hacendado lonchas;1.65;8;1/6/2019;11:23;Cash;257022;--
+110-48-7033;B;Mandalay;Member;Male;Mini taquitos de jamÃ³n Incarlopsa;2.15;4;1/29/2019;14:12;Cash;257023;--
+366-93-0948;A;Yangon;Member;Male;Compresa con alas normal Deliplus Suave;1;1;1/31/2019;10:46;Credit card;257024;4541-6792-2071-6878
+729-09-9681;A;Yangon;Member;Male;Cocktail mojito sin alcohol Pi.omka;2.75;6;2/5/2019;10:16;Ewallet;257025;'0000003100048111960227
+151-16-1484;A;Yangon;Member;Male;Gotas de chocolate para fundir Hacendado;1.5;4;2/13/2019;12:38;Ewallet;257020;'0000003100048863522419
+380-94-4661;C;Naypyitaw;Member;Male;CarbÃ³n vegetal;2.19;4;2/7/2019;13:05;Credit card;257021;4373-2828-2341-3382
+850-41-9669;A;Yangon;Normal;Female;Bebida de almendras zero Soymilk;8.4;9;3/19/2019;13:25;Ewallet;257022;'0000003100074479537173
+821-07-3596;C;Naypyitaw;Normal;Female;Leche desnatada Asturiana;1.25;4;3/7/2019;14:53;Ewallet;257023;'0000003100061508107432
+655-85-5130;B;Mandalay;Member;Female;Filete de salmÃ³n;7.2;4;3/13/2019;19:22;Cash;257024;--
+447-15-7839;A;Yangon;Member;Female;Nuez natural Hacendado;3.5;10;2/9/2019;11:00;Cash;257025;--
+154-74-7179;B;Mandalay;Normal;Male;Chicle regaliz y menta gragea Hacendado;0.8;1;2/26/2019;19:24;Ewallet;257020;'0000003100097390092247
+253-12-6086;A;Yangon;Member;Female;Baguette masa madre;0.4;7;3/12/2019;12:43;Credit card;257021;4216-5003-4690-3361
+808-65-0703;C;Naypyitaw;Normal;Male;CanÃ³nigos base para ensalada;1.19;4;3/14/2019;17:22;Credit card;257022;5743-5008-2919-8987
+571-94-0759;B;Mandalay;Member;Female;Surtido de galletas y barquillos Hacendado;1.15;10;1/8/2019;20:55;Cash;257023;--
+144-51-6085;A;Yangon;Member;Male;SoluciÃ³n Ãºnica Contact Care;3.99;4;1/5/2019;16:05;Credit card;257024;4584-9952-7833-1939
+731-14-2199;A;Yangon;Member;Female;Queso de cabra Hacendado rulo;1.9;10;1/4/2019;13:34;Ewallet;257025;'0000003100090474426797
+783-09-1637;B;Mandalay;Normal;Female;Flan de vainilla con caramelo Hacendado;0.7;5;3/6/2019;18:13;Ewallet;257020;'0000003100022151826382
+687-15-1097;C;Naypyitaw;Member;Female;Huevas de bacalao Hacendado;1.55;2;1/3/2019;19:17;Cash;257021;--
+126-54-1082;A;Yangon;Member;Female;Curry Hacendado;0.62;9;1/7/2019;11:44;Credit card;257022;4729-2950-3968-9005
+633-91-1052;A;Yangon;Normal;Female;Jamoncitos de pollo;3.62;2;1/27/2019;15:51;Cash;257023;--
+477-24-6490;B;Mandalay;Normal;Female;Jamoncitos de pollo congelados;2.35;6;2/26/2019;16:52;Ewallet;257024;'0000003100064768221299
+566-19-5475;B;Mandalay;Normal;Male;Cerveza sin gluten Ambar;3.6;7;1/7/2019;20:52;Cash;257025;--
+526-86-8552;C;Naypyitaw;Member;Female;70% Alcohol limpieza hogar Bosque Verde;1.8;10;1/7/2019;17:36;Cash;257020;--
+376-56-3573;C;Naypyitaw;Normal;Female;Lote infantil Disney Bingo y Rolly;8;4;2/2/2019;13:23;Ewallet;257021;'0000003100052426177120
+537-72-0426;C;Naypyitaw;Member;Male;Anillos de cereales Colors Hacendado sabor a frutas;1.95;10;3/20/2019;16:28;Cash;257022;--
+828-61-5674;A;Yangon;Member;Male;Huevo crema al cacao;0.9;10;3/20/2019;19:57;Credit card;257023;5520-2683-1095-1867
+136-08-6195;A;Yangon;Normal;Female;Muesli con quinoa, chÃ­a y chocolate negro Hacendado;1.8;8;2/15/2019;17:01;Credit card;257024;4696-9592-8549-3085
+523-38-0215;C;Naypyitaw;Normal;Male;Compresa sin alas normal Deliplus Classic;1.15;1;3/6/2019;13:29;Credit card;257025;4163-4473-3550-7908
+490-29-1201;A;Yangon;Normal;Female;Huevas de lumpo Hacendado;2.1;1;1/6/2019;11:09;Cash;257020;--
+667-92-0055;A;Yangon;Member;Male;Protector solar niÃ±os Delial FPS 50+;10.6;6;3/4/2019;15:02;Ewallet;257021;'0000003100053079632313
+565-17-3836;A;Yangon;Member;Female;Caldo casero de pollo Gallina Blanca;1.8;4;3/12/2019;14:21;Cash;257022;--
+498-41-1961;B;Mandalay;Normal;Male;Eau de toilette hombre Complicity;8;5;2/20/2019;18:01;Cash;257023;--
+593-95-4461;C;Naypyitaw;Member;Male;Eau de toilette hombre Ikiru;8;1;3/24/2019;14:49;Cash;257024;--
+226-71-3580;C;Naypyitaw;Normal;Female;Palitos Mikado chocolate noir;1.35;9;1/31/2019;12:02;Cash;257025;--
+283-79-9594;B;Mandalay;Normal;Female;Tiras transparentes surtidas Doctor San;0.9;7;1/25/2019;13:30;Credit card;257020;4714-5037-3835-7108
+430-60-3493;A;Yangon;Member;Female;ColoraciÃ³n permanente L'OrÃ©al 8.1 rubio claro ceniza;7.95;7;2/3/2019;14:38;Cash;257021;--
+139-20-0155;B;Mandalay;Member;Male;Barritas de sÃ©samo Schock's;0.85;10;1/24/2019;17:37;Credit card;257022;5552-8662-6434-2933
+558-80-4082;C;Naypyitaw;Normal;Male;Vino tinto D.O Navarra Embrujada roble;2;7;3/14/2019;17:20;Ewallet;257023;'0000003100012791735797
+278-97-7759;A;Yangon;Member;Female;Queso fresco de vaca Hacendado;1.3;1;2/18/2019;20:29;Cash;257024;--
+316-68-6352;A;Yangon;Member;Female;Coletero para recogido castaÃ±o Deliplus;1.6;2;1/21/2019;10:00;Cash;257025;--
+585-03-5943;B;Mandalay;Normal;Male;Crema cuello y escote reafirmante nutritiva Sisbela;5;10;3/13/2019;11:46;Ewallet;257020;'0000003100086916871394
+211-05-0490;C;Naypyitaw;Member;Female;TÃ© Earl Grey Hacendado;0.95;5;3/3/2019;13:42;Cash;257021;--
+727-75-6477;C;Naypyitaw;Normal;Male;Helado mini cucurucho nata Hacendado sin azÃºcares aÃ±adidos;2.85;4;3/29/2019;14:44;Cash;257022;--
+744-02-5987;A;Yangon;Member;Male;Merluza del cabo sin cabeza Hacendado congelada;3.74;6;1/10/2019;14:16;Ewallet;257023;'0000003100048532580352
+307-83-9164;A;Yangon;Member;Male;Carrillada de cerdo;4.22;4;1/25/2019;15:54;Cash;257024;--
+779-06-0012;C;Naypyitaw;Member;Female;Corrector fluido acciÃ³n global Deliplus 02;4;1;1/19/2019;10:21;Cash;257025;--
+446-47-6729;C;Naypyitaw;Normal;Male;Fideos orientales Yakisoba classic Gallina Blanca;1.59;2;1/2/2019;18:09;Credit card;257020;4601-2528-9653-8793
+573-10-3877;B;Mandalay;Member;Male;CafÃ© en cÃ¡psula cappuccino Dolce Gusto;4.25;1;3/12/2019;16:46;Credit card;257021;4134-9635-2762-8106
+735-06-4124;C;Naypyitaw;Normal;Male;Refresco cola Hacendado Zero azÃºcar;0.26;1;2/25/2019;15:31;Cash;257022;--
+439-54-7422;A;Yangon;Normal;Female;Pizza jamÃ³n;1.8;4;3/18/2019;17:15;Credit card;257023;5134-7979-9607-7854
+396-90-2219;B;Mandalay;Normal;Female;Medallones preparado de solomillo cerdo congelados marinados;2.95;8;2/23/2019;12:29;Cash;257024;--
+411-77-0180;A;Yangon;Member;Male;Eau de toilette hombre Como tÃº Fuerza;7;7;3/26/2019;20:14;Ewallet;257025;'0000003100069937814339
+286-01-5402;A;Yangon;Normal;Female;Maquillaje fluido Deliplus fijo & cubriente 04;5.5;7;3/30/2019;13:22;Cash;257020;--
+803-17-8013;A;Yangon;Member;Female;Pasta infantil con vegetales Hacendado;0.79;8;2/17/2019;17:09;Cash;257021;--
+512-98-1403;A;Yangon;Member;Female;Cepillo cabello antitirones Deliplus;5.5;3;3/21/2019;10:40;Ewallet;257022;'0000003100082696870567
+848-42-2560;A;Yangon;Normal;Female;Zumo fresh jengibre & manzana Hacendado;1.6;2;3/5/2019;17:43;Cash;257023;--
+532-59-7201;B;Mandalay;Member;Male;Compresa con alas normal Evax cotton like;2.29;6;1/31/2019;14:04;Cash;257024;--
+181-94-6432;C;Naypyitaw;Member;Male;Pera en zumo de uva Hacendado;1.45;2;2/5/2019;19:05;Ewallet;257025;'0000003100057432657692
+870-76-1733;A;Yangon;Member;Female;Mini tostas de trigo integrales Minigrill extra finas;1;5;2/1/2019;10:08;Credit card;257020;5342-4098-6121-5514
+423-64-4619;A;Yangon;Member;Female;Crema de manos nutritiva Dove intensiva;2;9;3/7/2019;13:12;Cash;257021;--
+227-07-4446;C;Naypyitaw;Member;Female;Cacao soluble en sobres CaoBon;1;10;2/10/2019;20:51;Cash;257022;--
+174-36-3675;C;Naypyitaw;Member;Male;Sardina sin limpiar;1.39;2;2/14/2019;17:29;Cash;257023;--
+428-83-5800;C;Naypyitaw;Member;Female;Limpiador facial diario L'OrÃ©al Men Expert carbÃ³n purificante;5.9;3;2/9/2019;10:25;Cash;257024;--
+603-07-0961;C;Naypyitaw;Member;Male;Mortadela de pavo Hacendado finas lonchas;1;5;1/10/2019;11:34;Cash;257025;--
+704-20-4138;C;Naypyitaw;Member;Female;Polvo compacto seda Deliplus 01;6;7;3/11/2019;18:58;Credit card;257020;4638-4817-9204-8013
+787-15-1757;C;Naypyitaw;Member;Male;Yuca;1.35;4;2/18/2019;16:28;Ewallet;257021;'0000003100022514945363
+649-11-3678;C;Naypyitaw;Normal;Female;Patatas fritas extra crujientes Hacendado;1.45;9;2/26/2019;20:26;Cash;257022;--
+622-20-1945;C;Naypyitaw;Normal;Female;Tomate doble concentrado Hacendado extra;0.78;1;1/18/2019;15:08;Cash;257023;--
+372-94-8041;A;Yangon;Normal;Male;Maquillaje fluido Deliplus hydra-confort 02 beige rosado;5.5;6;2/15/2019;18:03;Ewallet;257024;'0000003100057848738298
+563-91-7120;A;Yangon;Normal;Female;Macarrones boloÃ±esa Hacendado;2.15;5;3/8/2019;13:21;Cash;257025;--
+746-54-5508;A;Yangon;Normal;Male;Vino blanco crianza D.O ValdepeÃ±as SeÃ±orÃ­o de los Llanos;1.95;6;1/17/2019;12:48;Credit card;257020;5826-3311-8163-7055
+276-54-0879;B;Mandalay;Normal;Male;Hidrocrema Liss Frizz Control Deliplus cabello rebelde;2.75;4;3/12/2019;19:53;Ewallet;257021;'0000003100017877235179
+815-11-1168;A;Yangon;Member;Male;CafÃ© molido descafeinado natural Hacendado;2.46;5;3/9/2019;19:09;Cash;257022;--
+719-76-3868;C;Naypyitaw;Member;Male;Mix de verduras jardinera;1.45;4;3/12/2019;16:30;Cash;257023;--
+730-61-8757;B;Mandalay;Member;Male;Cava semi seco CabrÃ© & SabatÃ©;1.58;4;1/25/2019;10:11;Credit card;257024;5138-2325-4657-7054
+340-66-0321;A;Yangon;Member;Male;Yogur sin lactosa Hacendado cremoso, natural y azucarado;1.3;4;3/25/2019;13:07;Cash;257025;--
+868-81-1752;B;Mandalay;Normal;Male;Cava brut Anna CodornÃ­u;9.35;9;2/7/2019;18:48;Cash;257020;--
+634-97-8956;A;Yangon;Normal;Male;Ensalada mezcla brotes tiernos;0.99;3;2/17/2019;17:27;Credit card;257021;5940-6052-5879-2097
+566-71-1091;A;Yangon;Normal;Male;Leche desnatada calcio Hacendado;0.7;5;2/3/2019;15:59;Cash;257022;--
+442-48-3607;A;Yangon;Member;Male;Vaselina hidratante Deliplus;2;2;3/14/2019;11:21;Credit card;257023;4215-4340-2554-5963
+835-16-0096;C;Naypyitaw;Member;Male;Helado de fresa Hacendado;1.65;5;3/24/2019;13:48;Ewallet;257024;'0000003100023891246981
+527-09-6272;A;Yangon;Member;Female;Surtido de golosinas Xuxes top ten Hacendado;0.95;5;3/21/2019;10:17;Credit card;257025;4170-2503-1147-3432
+898-04-2717;A;Yangon;Normal;Male;Leche entera sin lactosa Hacendado;4.56;9;3/19/2019;15:49;Ewallet;257020;'0000003100096686250668
+692-27-8933;B;Mandalay;Normal;Female;Mantel de papel color aleatorio Papermon;2.5;6;2/24/2019;13:02;Cash;257021;--
+633-09-3463;C;Naypyitaw;Normal;Female;Mostaza de Dijon Hacendado;0.99;3;3/28/2019;12:58;Credit card;257022;5225-4793-2377-6539
+374-17-3652;B;Mandalay;Member;Female;Chicle fresa lÃ¡mina Hacendado;1.2;9;2/5/2019;15:26;Credit card;257023;4568-2781-9135-4561
+378-07-7001;B;Mandalay;Member;Male;Desodorante force Deliplus antimanchas;1.7;3;2/10/2019;18:23;Credit card;257024;5609-1109-8062-9894
+433-75-6987;B;Mandalay;Member;Female;Laca cabello Nelly;1.8;7;3/5/2019;19:06;Ewallet;257025;'0000003100062556193715
+873-95-4984;B;Mandalay;Member;Female;Ranas varios colores Deliplus;1;7;2/15/2019;20:21;Cash;257020;--
+416-13-5917;C;Naypyitaw;Normal;Female;Sardina sin limpiar;1.39;5;1/30/2019;16:24;Ewallet;257021;'0000003100078523232635
+150-89-8043;A;Yangon;Normal;Male;Iluminador facial Bom Bom creamy Deliplus 02;5.5;3;2/14/2019;15:04;Cash;257022;--
+135-84-8019;A;Yangon;Normal;Female;Flautas de pollo y queso;1.7;9;2/27/2019;16:10;Ewallet;257023;'0000003100025041560844
+441-94-7118;A;Yangon;Member;Male;ColoraciÃ³n permanente L'OrÃ©al 3 castaÃ±o oscuro;7.95;1;2/4/2019;12:14;Cash;257024;--
+725-96-3778;C;Naypyitaw;Member;Female;Palitos con frutos secos Hacendado;0.95;8;1/20/2019;10:13;Cash;257025;--
+531-80-1784;A;Yangon;Normal;Male;Zumo fresh maracuyÃ¡ & chÃ­a Hacendado;2.75;7;3/28/2019;17:38;Cash;257020;--
+400-45-1220;B;Mandalay;Normal;Female;TÃ³nica pink Schweppes;3.92;10;2/27/2019;11:06;Credit card;257021;5367-9246-9562-9174
+860-79-0874;C;Naypyitaw;Member;Female;Lote mujer Bustamante Muy mÃ­a;5.9;10;2/15/2019;14:53;Credit card;257022;4302-1935-7562-6811
+834-61-8124;A;Yangon;Normal;Male;PaÃ±al adulto braguita talla M Tena pants plus;13.6;7;1/26/2019;18:22;Cash;257023;--
+115-99-4379;B;Mandalay;Member;Female;Alistado pequeÃ±o congelado;1282.05;7;3/14/2019;19:02;Credit card;257024;4455-8921-6406-2557
+565-67-6697;B;Mandalay;Member;Male;Gazpacho tradicional Hacendado;2.6;9;3/2/2019;14:16;Cash;257025;--
+320-49-6392;C;Naypyitaw;Normal;Female;Surtido de galletas y barquillos Hacendado;1.15;1;3/4/2019;15:44;Cash;257020;--
+889-04-9723;B;Mandalay;Member;Female;Redecilla negra Deliplus;1.5;4;1/7/2019;12:20;Credit card;257021;4435-4324-9707-5041
+632-90-0281;C;Naypyitaw;Normal;Female;Eau de toilette mujer Anouk;7.3;10;3/8/2019;20:01;Credit card;257022;5993-6107-1509-9815
+554-42-2417;C;Naypyitaw;Normal;Female;Refresco limÃ³n Schweppes original;0.69;10;1/9/2019;13:45;Cash;257023;--
+453-63-6187;B;Mandalay;Normal;Male;Bebida de soja sabor cafÃ© Hacendado;6.84;3;3/1/2019;15:40;Ewallet;257024;'0000003100082237445834
+578-80-7669;B;Mandalay;Normal;Male;SalchichÃ³n extra Hacendado lonchas;1.65;1;3/16/2019;16:58;Cash;257025;--
+612-36-5536;A;Yangon;Member;Male;Galletas de cacao sin gluten rellenas de crema Hacendado;2.5;8;2/17/2019;11:12;Credit card;257020;5846-7987-3100-9990
+605-72-4132;C;Naypyitaw;Normal;Female;Chorizo picante extra Hacendado;2.1;8;2/27/2019;15:12;Cash;257021;--
+471-41-2823;C;Naypyitaw;Normal;Male;Desodorante zero limits Deliplus antimanchas;1.7;2;3/7/2019;20:37;Ewallet;257022;'0000003100078061462499
+462-67-9126;A;Yangon;Normal;Male;Ampollas cabello Pantene;4.75;6;1/21/2019;17:44;Cash;257023;--
+272-27-9238;C;Naypyitaw;Normal;Female;Bebida refrescante aromatizada sin alcohol light Yemavin;0.88;4;2/19/2019;16:23;Cash;257024;--
+834-25-9262;C;Naypyitaw;Normal;Female;Barritas de frutos secos Hacendado;1.75;4;1/6/2019;12:12;Cash;257025;--
+122-61-9553;C;Naypyitaw;Normal;Female;Gotas de chocolate para fundir Hacendado;1.5;9;3/14/2019;19:33;Cash;257020;--
+468-88-0009;A;Yangon;Member;Male;Refresco tÃ© verde Hacendado;1.62;4;3/24/2019;10:29;Cash;257021;--
+613-59-9758;C;Naypyitaw;Normal;Female;Enjuague bucal infantil previene las caries Deliplus sin alcohol;1.49;10;1/27/2019;14:28;Cash;257022;--
+254-31-0042;A;Yangon;Member;Male;Lote mujer Bustamante Muy mÃ­a;5.9;9;3/6/2019;12:46;Credit card;257023;4829-2305-6911-5353
+201-86-2184;B;Mandalay;Member;Female;Chicle fresa lÃ¡mina Hacendado;1.2;7;2/2/2019;19:40;Cash;257024;--
+261-12-8671;B;Mandalay;Normal;Female;Batido de chocolate 90% leche Puleva;1.79;2;1/25/2019;19:39;Credit card;257025;5972-6011-5755-4042
+730-70-9830;C;Naypyitaw;Normal;Female;Papel de regalo estampado Bosque Verde;0.7;6;3/14/2019;17:54;Ewallet;257020;'0000003100097491222813
+382-25-8917;C;Naypyitaw;Normal;Male;MejillÃ³n de Chile cocido media concha Hacendado ultracongelado;2.85;6;1/29/2019;12:25;Cash;257021;--
+422-29-8786;A;Yangon;Normal;Female;Lote corporal mujer Flor de Mayo Rose Bulgarian;7.95;5;1/3/2019;16:47;Credit card;257022;5665-7551-1432-8507
+667-23-5919;A;Yangon;Member;Female;Pizza 4 quesos rellena de gorgonzola Hacendado ultracongelada;2.99;5;1/14/2019;12:52;Ewallet;257023;'0000003100069715555823
+843-01-4703;B;Mandalay;Member;Female;Mini burgers de pollo;1.5;9;1/5/2019;19:50;Credit card;257024;5830-7306-7479-6454
+743-88-1662;C;Naypyitaw;Normal;Male;Panecillo tostado classic Hacendado;0.78;7;2/22/2019;18:17;Ewallet;257025;'0000003100091001724379
+595-86-2894;C;Naypyitaw;Member;Male;Cordones marrones zapato de vestir;1.2;4;2/6/2019;17:20;Ewallet;257020;'0000003100044489303347
+182-69-8360;B;Mandalay;Normal;Female;Maquillaje fluido Deliplus fijo & cubriente 02;5.5;4;1/30/2019;13:32;Credit card;257021;5541-9377-8560-2451
+289-15-7034;A;Yangon;Member;Male;Pinchos de cerdo con varilla;3.52;4;1/11/2019;10:37;Credit card;257022;5858-8002-3396-5243
+462-78-5240;C;Naypyitaw;Normal;Female;Pincel colorete Deliplus;6;2;3/19/2019;14:35;Cash;257023;--
+868-52-7573;B;Mandalay;Normal;Female;Pincel colorete Deliplus;6;5;1/14/2019;12:09;Cash;257024;--
+153-58-4872;C;Naypyitaw;Member;Female;Licor de manzana Milord;2.65;4;3/1/2019;15:32;Ewallet;257025;'0000003100078871460888
+662-72-2873;A;Yangon;Normal;Female;Almeja japonesa;7.2;5;1/6/2019;13:58;Ewallet;257020;'0000003100020882941288
+525-88-7307;B;Mandalay;Member;Male;Comida peces de agua frÃ­a Dr. Wu Tetra;2.4;1;1/31/2019;13:19;Cash;257021;--
+689-16-9784;C;Naypyitaw;Normal;Male;Preparado paella de marisco Hacendado ultracongelado;3.9;6;3/11/2019;13:37;Cash;257022;--
+725-56-0833;A;Yangon;Normal;Female;Desodorante roll-on invisible black & white Nivea;1.85;10;2/20/2019;16:49;Credit card;257023;5473-5842-2685-3434
+394-41-0748;C;Naypyitaw;Member;Female;Queso en dados para ensaladas Hacendado;1.6;9;1/27/2019;14:55;Ewallet;257024;'0000003100070164151787
+596-42-3999;B;Mandalay;Normal;Male;Arroz redondo Hacendado;0.79;7;3/10/2019;14:04;Credit card;257025;5374-4217-8823-2010
+541-89-9860;C;Naypyitaw;Member;Female;Tiras protectoras de poliuretano surtidas Doctor San especial aqua;0.9;3;2/15/2019;12:31;Cash;257020;--
+173-82-9529;B;Mandalay;Normal;Female;Gazpacho suave Hacendado;2.6;10;1/26/2019;14:51;Cash;257021;--
+563-36-9814;A;Yangon;Member;Male;Almejas rosadas machas Hacendado al natural;2.15;1;2/13/2019;18:27;Ewallet;257022;'0000003100098365412071
+308-47-4913;A;Yangon;Member;Female;LejÃ­a perfumada Neutrex frescor verde;1.79;10;3/9/2019;12:45;Credit card;257023;5345-8174-4140-6388
+885-17-6250;A;Yangon;Normal;Female;Chicle hierbabuena gragea Hacendado;1.8;1;3/6/2019;10:36;Ewallet;257024;'0000003100037236660203
+726-27-2396;A;Yangon;Normal;Female;Aceite corporal tacto seco Deliplus;3.5;5;1/24/2019;20:36;Ewallet;257025;'0000003100056122987494
+316-01-3952;A;Yangon;Normal;Female;Galletas mini Oreo;1.45;5;3/13/2019;14:16;Ewallet;257020;'0000003100052960459012
+760-54-1821;B;Mandalay;Normal;Male;Filetes de merluza Argentina sin piel Hacendado ultracongelados;5.95;9;3/15/2019;10:26;Cash;257021;--
+793-10-3222;B;Mandalay;Member;Female;Postre lÃ¡cteo + proteÃ­nas Hacendado con purÃ© mango y maracuya;1.4;6;3/5/2019;13:30;Credit card;257022;4934-8028-3613-8289
+346-12-3257;B;Mandalay;Member;Male;ChampÃº Dermo Sensitive Deliplus cuero cabelludo sensible;1.95;9;3/4/2019;16:28;Cash;257023;--
+110-05-6330;C;Naypyitaw;Normal;Female;Protector solar niÃ±os Delial FPS 50+;10.6;6;3/25/2019;20:18;Credit card;257024;4884-5213-4744-3316
+651-61-0874;C;Naypyitaw;Normal;Male;Papel higiÃ©nico hÃºmedo WC infantil Bosque Verde;1.85;4;3/12/2019;20:04;Credit card;257025;4521-7471-8812-8666
+236-86-3015;C;Naypyitaw;Member;Male;Refresco Fanta limÃ³n zero azÃºcares aÃ±adidos;0.45;1;2/4/2019;13:38;Ewallet;257020;'0000003100066957522826
+831-64-0259;B;Mandalay;Normal;Female;Aceite de oliva 1Âº Hacendado;10.6;5;2/22/2019;10:43;Ewallet;257021;'0000003100060468069964
+587-03-7455;C;Naypyitaw;Member;Female;Pizza 4 quesos familiar Hacendado;2.99;7;2/16/2019;17:30;Ewallet;257022;'0000003100062948665950
+882-40-4577;A;Yangon;Member;Male;Galletas Choco leche con chocolatina Hacendado;1;4;1/19/2019;15:28;Credit card;257023;5130-8217-4779-4304
+732-67-5346;A;Yangon;Normal;Male;Jamoncitos de pollo congelados;2.35;5;1/11/2019;19:07;Credit card;257024;4588-7795-3634-6310
+725-32-9708;B;Mandalay;Member;Female;Moras;1.99;4;1/4/2019;19:01;Cash;257025;--
+256-08-8343;A;Yangon;Normal;Female;Bayeta cristales y espejos Bosque Verde microfibra;0.9;4;3/4/2019;19:48;Ewallet;257020;'0000003100040096471635
+372-26-1506;C;Naypyitaw;Normal;Female;Lote mujer Flor de Mayo Sweet;3.99;5;1/28/2019;19:24;Ewallet;257021;'0000003100022997798327
+244-08-0162;B;Mandalay;Normal;Female;TÃ© Earl Grey Hacendado;0.95;10;1/2/2019;13:00;Cash;257022;--
+569-71-4390;B;Mandalay;Normal;Male;Empanada rellena de atÃºn;3.5;2;1/25/2019;14:29;Ewallet;257023;'0000003100076049734128
+132-23-6451;A;Yangon;Member;Male;Borrador mÃ¡gico Bosque Verde;1.43;5;1/4/2019;13:21;Cash;257024;--
+696-90-2548;A;Yangon;Normal;Male;Ambientador elÃ©ctrico Bosque Verde dolce;2.99;3;3/10/2019;18:55;Ewallet;257025;'0000003100056791119028
+472-15-9636;A;Yangon;Normal;Male;EspÃ¡rrago verde fino;2.15;8;3/22/2019;19:36;Ewallet;257020;'0000003100057847834846
+268-03-6164;B;Mandalay;Normal;Male;Compresa sin alas super Deliplus Dry;2.3;1;1/25/2019;16:28;Ewallet;257021;'0000003100018074973539
+750-57-9686;C;Naypyitaw;Normal;Female;Contramuslos de pollo marinados con piel;3.39;4;1/8/2019;13:48;Credit card;257022;5994-4711-1368-3324
+186-09-3669;C;Naypyitaw;Member;Female;Salsa de queso Hacendado;1.25;1;1/22/2019;10:57;Ewallet;257023;'0000003100017908267393
+848-07-1692;B;Mandalay;Normal;Female;Trampa contra hormigas Bosque Verde;2.95;2;1/12/2019;17:13;Ewallet;257024;'0000003100026160841773
+745-71-3520;A;Yangon;Member;Female;Pechugas de pollo enteras;3.06;7;2/4/2019;10:23;Cash;257025;--
+266-76-6436;C;Naypyitaw;Member;Female;Chupete silicona reversible +6 a 18 meses Deliplus luminiscente;2;3;3/28/2019;13:57;Ewallet;257020;'0000003100043331775700
+740-22-2500;C;Naypyitaw;Normal;Female;Eau de toilette hombre Victorio & Lucchino NÂº 2 Frescor extremo;9.9;3;1/23/2019;13:29;Cash;257021;--
+271-88-8734;C;Naypyitaw;Member;Female;Escalivada Hacendado;1.99;10;2/8/2019;13:00;Credit card;257022;4948-6840-3217-8205
+301-81-8610;B;Mandalay;Member;Male;Eneldo hojas Hacendado;1.05;8;3/19/2019;19:42;Credit card;257023;5105-9603-1210-7344
+489-64-4354;C;Naypyitaw;Normal;Male;Hummus de garbanzos Hacendado receta clÃ¡sica;2.29;1;3/9/2019;15:36;Cash;257024;--
+198-84-7132;B;Mandalay;Member;Male;Soda cero calorÃ­as Schweppes;4.5;9;1/2/2019;13:40;Cash;257025;--
+269-10-8440;A;Yangon;Member;Male;ColoraciÃ³n permanente L'OrÃ©al 5 castaÃ±o claro;7.95;7;1/21/2019;18:01;Cash;257020;--
+650-98-6268;B;Mandalay;Member;Female;Filetes de cerdo empanados;2.62;3;3/20/2019;13:53;Credit card;257021;4176-2473-9430-1356
+741-73-3559;B;Mandalay;Normal;Male;Muslo de pato en confit Hacendado;4.02;5;2/27/2019;17:27;Cash;257022;--
+325-77-6186;A;Yangon;Member;Female;Dorada abierta en libro sin cabeza y sin espina;3.27;10;3/8/2019;10:53;Ewallet;257023;'0000003100031414084561
+286-75-7818;B;Mandalay;Normal;Male;Yuca;1.35;2;1/31/2019;19:48;Credit card;257024;5894-2624-4938-8820
+574-57-9721;C;Naypyitaw;Normal;Male;Tarta infantil Peppa Pig congelada;11;2;3/8/2019;16:53;Ewallet;257025;'0000003100020592265002
+459-50-7686;A;Yangon;Normal;Female;Chicle hierbabuena gragea Hacendado;1.8;6;1/13/2019;19:14;Ewallet;257020;'0000003100025787920800
+616-87-0016;B;Mandalay;Normal;Male;Carrillada de cerdo;4.22;7;3/9/2019;14:36;Credit card;257021;5219-3388-4518-9477
+837-55-7229;B;Mandalay;Normal;Female;Pechuga de pavo bajo en sal Hacendado finas lonchas;1.89;1;2/22/2019;18:19;Credit card;257022;5943-2160-2615-2650
+751-69-0068;C;Naypyitaw;Normal;Male;Cortezas Hacendado;0.59;9;3/19/2019;19:09;Ewallet;257023;'0000003100070661594552
+257-73-1380;C;Naypyitaw;Member;Male;CafÃ© molido mezcla fuerte Hacendado;1.19;4;1/20/2019;16:51;Ewallet;257024;'0000003100091649696782
+345-08-4992;A;Yangon;Normal;Male;Pechuga de pavo bajo en sal Hacendado finas lonchas;1.89;6;3/8/2019;15:37;Credit card;257025;4675-6560-6823-2641
+549-96-4200;C;Naypyitaw;Member;Male;Lote facial mujer Sisbela;7;4;3/8/2019;20:15;Ewallet;257020;'0000003100030913916987
+810-60-6344;C;Naypyitaw;Normal;Female;Papel higiÃ©nico hÃºmedo WC Bosque Verde;0.65;8;2/7/2019;14:38;Credit card;257021;4701-6998-6393-2189
+450-28-2866;C;Naypyitaw;Member;Male;Medio solomillo de vacuno aÃ±ojo;37.55;5;1/15/2019;19:25;Cash;257022;--
+394-30-3170;B;Mandalay;Member;Female;Pulpo crudo grande Hacendado congelado;16.84;8;3/22/2019;19:35;Credit card;257023;5188-1009-6207-2977
+138-17-5109;A;Yangon;Member;Female;Limpiador antical Bosque Verde en gel;1.6;9;1/15/2019;15:42;Credit card;257024;5499-1268-1023-8225
+192-98-7397;C;Naypyitaw;Normal;Male;Palitos Mikado chocolate noir;1.35;1;1/8/2019;14:11;Ewallet;257025;'0000003100023142280772
+301-11-9629;A;Yangon;Normal;Female;Cerveza sin gluten Steinburg 0,0% sin alcohol;2.1;7;1/15/2019;10:43;Cash;257020;--
+390-80-5128;B;Mandalay;Member;Female;Recambios hojas de afeitar Personna;2.25;1;1/28/2019;17:58;Credit card;257021;5659-7671-8599-6362
+235-46-8343;C;Naypyitaw;Member;Male;Pizza jamÃ³n;1.8;10;2/14/2019;11:26;Credit card;257022;5404-9337-3736-1469
+453-12-7053;C;Naypyitaw;Normal;Male;Ã‘oras Hacendado;0.96;3;3/10/2019;17:38;Credit card;257023;4644-2433-1845-1559
+296-11-7041;B;Mandalay;Member;Female;PimentÃ³n picante de la Vera Hacendado;1.45;1;1/12/2019;20:07;Credit card;257024;5548-6781-9218-5137
+449-27-2918;B;Mandalay;Member;Female;Laca de uÃ±as Glitter Deliplus 944 coral;2.25;1;3/26/2019;11:02;Credit card;257025;5778-8218-6413-8644
+891-01-7034;B;Mandalay;Normal;Female;Macedonia de verduras Hacendado;0.75;6;1/1/2019;19:07;Cash;257020;--
+744-09-5786;B;Mandalay;Normal;Male;SalchichÃ³n de cebo ibÃ©rico cortado a mÃ¡quina;1.98;6;1/2/2019;18:50;Cash;257021;--
+727-17-0390;A;Yangon;Normal;Female;Barritas de cereales muesli Hacendado frutos secos;0.97;5;3/16/2019;12:43;Ewallet;257022;'0000003100068072324853
+568-88-3448;A;Yangon;Normal;Male;Cacao soluble en sobres CaoBon;1;1;3/3/2019;15:09;Ewallet;257023;'0000003100055315208637
+187-83-5490;A;Yangon;Member;Male;Cerveza El Ãguila sin filtrar;0.89;4;1/31/2019;13:47;Cash;257024;--
+767-54-1907;B;Mandalay;Member;Female;ChampÃº liso keratina TRESemmÃ© con aceite de marula;4.5;5;2/13/2019;16:59;Cash;257025;--
+710-46-4433;B;Mandalay;Member;Female;CastaÃ±as tostadas y peladas Hacendado;1.35;9;2/15/2019;14:15;Credit card;257020;5157-4762-7135-8001
+533-33-5337;B;Mandalay;Normal;Male;BÃ­fidus desnatado cremoso Hacendado natural edulcorado;1;10;2/7/2019;20:24;Cash;257021;--
+325-90-8763;C;Naypyitaw;Member;Female;Lote corporal Nivea Men;7.95;10;1/27/2019;13:58;Cash;257022;--
+729-46-7422;C;Naypyitaw;Normal;Male;Lote hombre Adidas Ice dive;9.5;1;2/23/2019;16:52;Credit card;257023;5940-8908-8942-1648
+639-76-1242;C;Naypyitaw;Normal;Male;Flautas de pollo y queso;1.7;5;2/3/2019;15:19;Cash;257024;--
+234-03-4040;B;Mandalay;Member;Female;Chupete silicona reversible +0 a 6 meses Deliplus;2;10;3/3/2019;12:25;Credit card;257025;5824-8924-3981-6605
+326-71-2155;C;Naypyitaw;Normal;Female;Mistela muy dulce de moscatel Mig Segle D.O Valencia;2.89;4;2/3/2019;10:02;Cash;257020;--
+320-32-8842;C;Naypyitaw;Member;Female;Peine para bebÃ© con pÃºas redondeadas Deliplus;1.1;1;3/17/2019;18:58;Cash;257021;--
+470-32-9057;A;Yangon;Member;Male;Crema facial efecto lifting Deliplus;4;5;3/28/2019;15:31;Credit card;257022;4920-4604-3314-5274
+878-30-2331;C;Naypyitaw;Member;Female;Tortitas de avena y arroz Selecta;1.35;10;3/2/2019;11:22;Credit card;257023;5269-5891-5752-8157
+440-59-5691;C;Naypyitaw;Member;Female;Relleno para kebab con carne de pollo y ternera Hacendado ultracongelado;1.98;7;2/8/2019;13:12;Credit card;257024;5784-3276-8113-8048
+554-53-3790;B;Mandalay;Normal;Male;Tampones regular Tampax;3.4;6;3/22/2019;18:33;Cash;257025;--
+746-19-0921;C;Naypyitaw;Normal;Male;Vino rosado D.O Rioja Comportillo cosecha;2.35;1;2/9/2019;10:02;Ewallet;257020;'0000003100067154265571
+233-34-0817;C;Naypyitaw;Member;Female;Salsa ligera Ligeresa;1;1;2/15/2019;11:21;Cash;257021;--
+767-05-1286;C;Naypyitaw;Member;Female;Desmaquillador de ojos y labios bifÃ¡sico Deliplus todo tipo de pieles;2.15;6;1/23/2019;12:10;Ewallet;257022;'0000003100072324778886
+340-21-9136;A;Yangon;Member;Female;Chorizo lonchas Revilla;1;4;1/25/2019;11:40;Cash;257023;--
+405-31-3305;A;Yangon;Member;Male;Cucharas bebÃ© +6 meses para purÃ©s y papillas Deliplus;2;10;2/2/2019;18:31;Credit card;257024;5152-6348-9525-8146
+731-59-7531;B;Mandalay;Member;Male;Mortadela Hacendado lonchas;0.9;8;3/30/2019;17:58;Cash;257025;--
+676-39-6028;A;Yangon;Member;Female;Pera en zumo de uva Hacendado;1.45;5;3/30/2019;17:04;Cash;257020;--
+502-05-1910;A;Yangon;Normal;Male;Zumo de tomate picante Big Tom;1.65;3;2/25/2019;20:35;Credit card;257021;4777-5474-1318-9513
+485-30-8700;A;Yangon;Normal;Female;Vino tinto D.O Somontano Pico Aneto reserva;4.55;5;3/18/2019;16:10;Credit card;257022;4816-2711-5725-1817
+598-47-9715;C;Naypyitaw;Normal;Male;Agua de soda con sifÃ³n La Casa;1.29;4;3/7/2019;16:54;Ewallet;257023;'0000003100046964448969
+701-69-8742;B;Mandalay;Normal;Male;Vino tinto D.O Ribera del Duero Condado de TeÃ³n roble;4.95;10;3/16/2019;10:11;Ewallet;257024;'0000003100051320547480
+575-67-1508;A;Yangon;Normal;Male;Eneldo hojas Hacendado;1.05;1;1/29/2019;11:26;Ewallet;257025;'0000003100080981026458
+541-08-3113;C;Naypyitaw;Normal;Male;Vino blanco D.O La Mancha Fidencio;1.2;8;2/2/2019;20:29;Cash;257020;--
+246-11-3901;C;Naypyitaw;Normal;Female;Alistado mediano Hacendado congelado;24.95;10;2/15/2019;12:12;Cash;257021;--
+674-15-9296;A;Yangon;Normal;Male;Lote mujer 9.60 Pure;4.9;5;1/8/2019;13:05;Ewallet;257022;'0000003100017352308849
+305-18-3552;B;Mandalay;Member;Male;Lote mujer Adolfo Dominguez Love Live;21.9;10;2/12/2019;16:19;Cash;257023;--
+493-65-6248;C;Naypyitaw;Member;Female;Margarina ligera Hacendado;0.8;10;1/1/2019;19:48;Credit card;257024;4419-3134-6255-5203
+438-01-4015;B;Mandalay;Member;Female;CÃ³ctel de encurtidos Hacendado en vinagre;2.15;4;3/21/2019;15:25;Ewallet;257025;'0000003100041111723502
+709-58-4068;B;Mandalay;Normal;Female;Queso oveja viejo Entrepinares;3.88;10;2/28/2019;14:42;Cash;257020;--
+795-49-7276;A;Yangon;Normal;Male;Papilla menestra de codero a la crema Hero baby recetas caseras +6 meses;1.75;4;3/23/2019;18:59;Ewallet;257021;'0000003100066166875291
+556-72-8512;C;Naypyitaw;Normal;Male;Pistacho natural Hacendado;2.55;1;1/30/2019;20:47;Cash;257022;--
+627-95-3243;B;Mandalay;Member;Female;Patatas bravas ultracongeladas;1.2;9;2/4/2019;13:21;Ewallet;257023;'0000003100058499017243
+686-41-0932;B;Mandalay;Normal;Female;Molde de aluminio rectangular 0,5L AlibÃ©rico;1.35;2;3/13/2019;19:48;Ewallet;257024;'0000003100076539058745
+510-09-5628;A;Yangon;Member;Female;Sepia limpia pequeÃ±a Hacendado congelada;3.95;10;3/15/2019;18:20;Credit card;257025;4946-1030-3807-2904
+608-04-3797;B;Mandalay;Member;Female;Chocolate para hacer a la taza Valor;2.15;8;3/5/2019;20:24;Ewallet;257020;'0000003100068433173949
+148-82-2527;C;Naypyitaw;Member;Female;Vermouth rojo Maronti reserva;3.29;10;3/5/2019;13:44;Credit card;257021;5219-6178-9943-6305
+437-53-3084;B;Mandalay;Normal;Male;Crema facial reaffirmant Luxe caviar Deliplus;5;2;2/26/2019;11:48;Ewallet;257022;'0000003100069855647477
+632-32-4574;B;Mandalay;Normal;Male;RequesÃ³n Montesinos;1;8;3/20/2019;14:14;Cash;257023;--
+556-97-7101;C;Naypyitaw;Normal;Female;Caramelo lÃ­quido Hacendado;1.45;2;1/1/2019;15:51;Cash;257024;--
+862-59-8517;C;Naypyitaw;Normal;Female;Fluido hidratante Deliplus pieles grasas;2.8;6;1/27/2019;11:17;Cash;257025;--
+401-18-8016;B;Mandalay;Member;Female;Papilla zanahorias baby con ternera Hero baby +6 meses;0.99;1;1/21/2019;17:36;Cash;257020;--
+420-18-8989;A;Yangon;Member;Female;Cebollitas sabor anchoa Hacendado;0.95;8;2/2/2019;15:47;Cash;257021;--
+277-63-2961;B;Mandalay;Member;Male;Bebida isotÃ³nica limÃ³n Aquarius;1.4;1;2/3/2019;15:53;Credit card;257022;4728-3477-4640-5709
+573-98-8548;C;Naypyitaw;Member;Female;Cepillo dental elÃ©ctrico Deliplus desechable;3.6;1;1/5/2019;12:40;Ewallet;257023;'0000003100095149171293
+620-02-2046;C;Naypyitaw;Normal;Male;70% Alcohol limpieza hogar Bosque Verde;1.8;2;1/27/2019;19:48;Ewallet;257024;'0000003100022105443751
+282-35-2475;B;Mandalay;Normal;Female;Yogur natural azucarado Danone;1.99;2;3/25/2019;17:53;Cash;257025;--
+511-54-3087;B;Mandalay;Normal;Male;Empanadillas de atÃºn Hacendado ultracongeladas;1.6;1;2/25/2019;16:36;Credit card;257020;4163-3386-9474-8673
+726-29-6793;A;Yangon;Member;Male;Estropajo acero inoxidable Bosque Verde;0.7;8;1/28/2019;20:54;Ewallet;257021;'0000003100096672797602
+387-49-4215;B;Mandalay;Member;Female;Compresa sin alas super plegada Deliplus Classic;1.25;3;1/8/2019;12:50;Cash;257022;--
+862-17-9201;B;Mandalay;Normal;Female;Tarta de queso clÃ¡sica Granja Rinya;0.89;6;1/29/2019;10:48;Credit card;257023;5185-3259-7970-8720
+291-21-5991;B;Mandalay;Member;Male;Bebida energÃ©tica original Burn;0.73;5;3/29/2019;14:28;Cash;257024;--
+602-80-9671;C;Naypyitaw;Member;Female;Mix de verduras jardinera;1.45;6;2/9/2019;17:15;Credit card;257025;5568-9330-6857-4076
+347-72-6115;B;Mandalay;Member;Female;Nuggets de merluza Pescanova ultracongelados;1.99;7;1/16/2019;18:03;Credit card;257020;5862-6091-8029-7690
+209-61-0206;A;Yangon;Normal;Female;Pintalabios mate 01 rojo Deliplus My Soul;4.75;5;1/5/2019;17:29;Ewallet;257021;'0000003100029194886505
+595-27-4851;A;Yangon;Normal;Female;Pomelo;0.81;7;1/27/2019;18:05;Ewallet;257022;'0000003100075910059543
+189-52-0236;A;Yangon;Normal;Male;SÃ¡ndwich pavo, queso y espinacas Hacendado;1.5;7;3/14/2019;12:07;Cash;257023;--
+503-07-0930;C;Naypyitaw;Member;Male;Aceite Ã¡rbol del tÃ© Deliplus 100% puro;3.5;7;2/23/2019;19:49;Credit card;257024;4730-3788-2262-7309
+413-20-6708;C;Naypyitaw;Member;Female;Maquillaje fluido Deliplus fijo & cubriente 04;5.5;1;3/18/2019;15:52;Ewallet;257025;'0000003100088500650109
+425-85-2085;B;Mandalay;Member;Male;Cava brut rosado CabrÃ© & SabatÃ©;2.29;5;3/29/2019;16:48;Ewallet;257020;'0000003100098890346796
+521-18-7827;C;Naypyitaw;Member;Male;Recambios cepillo facial elÃ©ctrico Blushion;5;5;1/22/2019;20:46;Credit card;257021;4659-6699-7093-9730
+220-28-1851;A;Yangon;Normal;Male;ColoraciÃ³n permanente Deliplus 6.1 rubio oscuro ceniza;3.9;2;3/1/2019;18:14;Ewallet;257022;'0000003100083807181002
+600-38-9738;C;Naypyitaw;Member;Male;Eau de cologne hombre Brummel;9.95;5;1/17/2019;15:05;Credit card;257023;4100-6493-4618-7057
+734-91-1155;B;Mandalay;Normal;Female;Agua mineral Font Vella pequeÃ±a tapÃ³n infantil;2.34;3;3/26/2019;10:34;Credit card;257024;5721-4951-5453-2740
+451-28-5717;C;Naypyitaw;Member;Female;Ensalada CÃ©sar;1.99;6;3/20/2019;11:23;Cash;257025;--
+609-81-8548;A;Yangon;Member;Female;Esponja de baÃ±o doble acciÃ³n suave masaje Deliplus;0.99;6;2/6/2019;13:55;Credit card;257020;5515-6481-3435-6204
+133-14-7229;C;Naypyitaw;Normal;Male;Cerveza Amstel;4.79;2;1/1/2019;11:43;Cash;257021;--
+534-01-4457;A;Yangon;Normal;Male;Bandas de cera especial cuerpo y piernas Veet piel sensible;4.45;6;1/27/2019;14:36;Credit card;257022;5365-1727-2723-5299
+719-89-8991;A;Yangon;Member;Female;Retoca raÃ­ces instantÃ¡neo L'OrÃ©al castaÃ±o;5.95;5;2/25/2019;16:03;Ewallet;257023;'0000003100019604248943
+286-62-6248;B;Mandalay;Normal;Male;ChampÃº liso keratina TRESemmÃ© con aceite de marula;4.5;4;1/16/2019;20:03;Credit card;257024;4413-4606-5440-6545
+339-38-9982;B;Mandalay;Member;Male;Croquetas de cocido Hacendado ultracongeladas;1.5;2;1/13/2019;14:55;Ewallet;257025;'0000003100016731333765
+827-44-5872;B;Mandalay;Member;Female;Pizza masa fina jamÃ³n Hacendado ultracongelada;2.29;10;2/7/2019;11:28;Credit card;257020;5977-8829-1797-7451
+827-77-7633;A;Yangon;Normal;Male;Limpiagafas con gamuza Disop;2.25;9;2/17/2019;19:41;Cash;257021;--
+287-83-1405;A;Yangon;Normal;Male;Sazonador al horno y microondas pollo al ajo y limÃ³n Hacendado;0.95;6;2/12/2019;19:01;Ewallet;257022;'0000003100090113785473
+435-13-4908;A;Yangon;Member;Male;Cerveza negra Black 1897;2.7;8;1/24/2019;18:04;Credit card;257023;5909-1953-6787-4403
+857-67-9057;B;Mandalay;Normal;Male;Maquillaje fluido Deliplus natural radiante 04;5.5;10;2/6/2019;19:20;Ewallet;257024;'0000003100051025325451
+236-27-1144;C;Naypyitaw;Normal;Female;Caramelo lÃ­quido Hacendado;1.45;9;3/26/2019;10:31;Ewallet;257025;'0000003100073501362175
+892-05-6689;A;Yangon;Normal;Female;Panecillo tostado classic Hacendado;0.78;5;3/11/2019;13:28;Ewallet;257020;'0000003100034658271965
+583-41-4548;C;Naypyitaw;Normal;Male;Acondicionador protector color vive Elvive cabello teÃ±ido;2.79;7;2/7/2019;11:36;Ewallet;257021;'0000003100020118370056
+339-12-4827;B;Mandalay;Member;Female;Queso en dados feta Hacendado;1.7;1;1/5/2019;11:32;Credit card;257022;4809-6403-1810-8661
+643-38-7867;A;Yangon;Normal;Male;Laca de uÃ±as manicura francesa Deliplus rosa 03;2.75;1;3/7/2019;11:44;Ewallet;257023;'0000003100029792838040
+308-81-0538;A;Yangon;Normal;Female;Patatas bravas ultracongeladas;1.2;4;2/25/2019;17:16;Credit card;257024;4949-8495-2401-1661
+358-88-9262;C;Naypyitaw;Member;Female;ColoraciÃ³n permanente L'OrÃ©al 10 rubio muy claro;7.95;6;2/1/2019;18:43;Ewallet;257025;'0000003100087796039789
+460-35-4390;A;Yangon;Normal;Male;Frambuesas;2.29;3;1/22/2019;11:00;Ewallet;257020;'0000003100031968668412
+343-87-0864;C;Naypyitaw;Member;Male;ColoraciÃ³n permanente Deliplus 2.10 negro azul;3.9;1;1/3/2019;10:30;Credit card;257021;4924-8821-8635-5570
+173-50-1108;B;Mandalay;Member;Female;Bocaditos en gelatina gato adulto Delikuit;2.99;4;2/13/2019;12:14;Credit card;257022;4443-7171-5786-6653
+243-47-2663;C;Naypyitaw;Member;Male;Calamar en tinta Hacendado;1.69;6;1/28/2019;16:43;Credit card;257023;4385-6795-7581-5268
+841-18-8232;B;Mandalay;Normal;Female;Retoca raÃ­ces instantÃ¡neo L'OrÃ©al castaÃ±o;5.95;1;1/5/2019;20:40;Credit card;257024;5416-6305-4619-3605
+701-23-5550;B;Mandalay;Member;Male;JabÃ³n de manos kids Deliplus lÃ­quido;1.3;4;3/19/2019;13:40;Ewallet;257025;'0000003100055315442512
+647-50-1224;A;Yangon;Normal;Female;Medallones de merluza del cabo Hacendado ultracongelados;3.6;10;1/12/2019;16:23;Ewallet;257020;'0000003100048627707656
+541-48-8554;A;Yangon;Normal;Male;Ensalada mezcla brotes tiernos;0.99;9;1/7/2019;12:08;Credit card;257021;4654-5607-6860-8725
+539-21-7227;B;Mandalay;Normal;Female;Acondicionador protector color vive Elvive cabello teÃ±ido;2.79;5;1/26/2019;17:45;Cash;257022;--
+213-32-1216;A;Yangon;Normal;Female;Cava brut rosado CabrÃ© & SabatÃ©;2.29;6;1/23/2019;10:28;Cash;257023;--
+747-58-7183;B;Mandalay;Normal;Male;Brochetas de madera;1;3;2/9/2019;20:31;Ewallet;257024;'0000003100019644980188
+582-52-8065;B;Mandalay;Normal;Female;Smoothie mango & coco Hacendado;1.6;9;2/22/2019;10:49;Cash;257025;--
+210-57-1719;B;Mandalay;Normal;Female;Batido sabor fresa Hacendado;1.09;9;2/5/2019;12:34;Cash;257020;--
+399-69-4630;C;Naypyitaw;Normal;Male;Chicle hierbabuena gragea Hacendado;1.8;6;3/7/2019;10:23;Credit card;257021;4621-5293-3846-8354
+134-75-2619;A;Yangon;Member;Male;LasaÃ±a boloÃ±esa familiar Hacendado;3.85;7;3/25/2019;18:51;Cash;257022;--
+356-44-8813;B;Mandalay;Normal;Male;Rabo de vacuno aå˜ojo congelado;10.95;3;1/20/2019;13:45;Credit card;257023;5490-7405-7790-9459
+198-66-9832;B;Mandalay;Member;Female;Mezcla de 3 tÃ©s Hacendado;1.15;2;2/4/2019;19:38;Cash;257024;--
+283-26-5248;C;Naypyitaw;Member;Female;Patatas fritas receta campesina Lay's;1.5;10;1/30/2019;20:23;Ewallet;257025;'0000003100056487508637
+712-39-0363;A;Yangon;Member;Male;Cabecero de lomo Hacendado lonchas;1.72;6;1/2/2019;15:24;Ewallet;257020;'0000003100054843309415
+218-59-9410;A;Yangon;Member;Female;Postre lÃ¡cteo + proteÃ­nas Hacendado con purÃ© mango y maracuya;1.4;3;3/29/2019;16:54;Ewallet;257021;'0000003100096236531816
+174-75-0888;B;Mandalay;Normal;Male;Leche entera Asturiana;7.5;9;3/14/2019;12:32;Cash;257022;--
+866-99-7614;C;Naypyitaw;Normal;Male;Langostino en su nido Vdfoodltd congelado;4.5;10;2/11/2019;15:42;Credit card;257023;5482-7792-3755-1134
+134-54-4720;B;Mandalay;Normal;Female;Costilla de cerdo ibÃ©rico adobada;2.34;8;1/30/2019;13:58;Ewallet;257024;'0000003100097289033887
+760-90-2357;A;Yangon;Member;Male;SoluciÃ³n Ãºnica Contact Care;3.99;6;3/20/2019;15:08;Ewallet;257025;'0000003100069233257358
+514-37-2845;B;Mandalay;Normal;Male;ColoraciÃ³n permanente sin amonÃ­aco Garnier 6.0 rubio oscuro;6.35;2;3/20/2019;13:02;Cash;257020;--
+698-98-5964;A;Yangon;Normal;Female;Queso oveja curado Entrepinares;3.41;10;1/17/2019;13:01;Credit card;257021;4453-2939-3175-9603
+718-57-9773;C;Naypyitaw;Normal;Female;Alubia roja Hacendado;1.3;10;2/3/2019;16:40;Credit card;257022;5264-1478-3867-9068
+651-88-7328;A;Yangon;Normal;Female;Ambientador automÃ¡tico Bosque Verde love;1.9;9;1/1/2019;13:55;Cash;257023;--
+241-11-2261;B;Mandalay;Normal;Female;Smoothie mango & coco Hacendado;1.6;7;1/10/2019;10:33;Credit card;257024;4825-9938-9699-7449
+408-26-9866;C;Naypyitaw;Normal;Female;Bebida de chufa Hacendado sin azÃºcares aÃ±adidos;1.35;7;3/2/2019;16:42;Ewallet;257025;'0000003100099772042014
+834-83-1826;B;Mandalay;Member;Female;Galletas Choco leche con chocolatina Hacendado;1;5;2/25/2019;17:16;Credit card;257020;5157-9859-5187-9607
+343-61-3544;B;Mandalay;Member;Male;Recipiente de plÃ¡stico redondo 3L Bosque Verde;2.65;10;1/29/2019;11:48;Cash;257021;--
+239-48-4278;A;Yangon;Member;Male;DentÃ­frico original Colgate total con flÃºor;2.49;7;3/10/2019;19:35;Ewallet;257022;'0000003100019596617479
+355-34-6244;B;Mandalay;Normal;Male;Protegeslip micro Deliplus Fresh;1.65;2;1/13/2019;19:55;Credit card;257023;4276-4865-3186-2464
+550-84-8664;A;Yangon;Normal;Male;Mini hamburguesas vegetales Kioene con guisantes y espinacas;2.4;5;3/22/2019;14:33;Credit card;257024;4487-4265-5228-4983
+339-96-8318;B;Mandalay;Member;Male;Queso fresco Burgos sin lactosa Hacendado;1.55;7;3/1/2019;19:49;Ewallet;257025;'0000003100073689413537
+458-61-0011;B;Mandalay;Normal;Male;Macarrones boloÃ±esa Hacendado;2.15;4;2/20/2019;18:43;Cash;257020;--
+592-34-6155;C;Naypyitaw;Normal;Male;Aritos de surimi a la romana Pescanova ultracongelados;2.19;4;1/14/2019;14:43;Ewallet;257021;'0000003100073931159140
+797-88-0493;A;Yangon;Normal;Female;Horchata de chufa Hacendado;1;4;3/26/2019;13:54;Cash;257022;--
+207-73-1363;B;Mandalay;Normal;Male;Brandy de Jerez solera Convidado de Baco;5.6;2;3/1/2019;12:15;Ewallet;257023;'0000003100024815794151
+390-31-6381;C;Naypyitaw;Normal;Male;Patatas fritas sabor ketchup El Valle;0.9;3;1/7/2019;12:37;Cash;257024;--
+443-82-0585;A;Yangon;Member;Female;Baguette masa madre;0.4;4;2/1/2019;19:54;Cash;257025;--
+339-18-7061;C;Naypyitaw;Member;Female;Jamoncitos de pollo congelados;2.35;2;2/13/2019;15:06;Credit card;257020;4573-1610-3993-8521
+359-90-3665;B;Mandalay;Member;Female;Helado vegetal de avena sabor vainilla;3.95;4;1/14/2019;18:03;Credit card;257021;5425-6514-6299-7137
+375-72-3056;B;Mandalay;Normal;Male;Bebida de soja sabor cafÃ© Hacendado;6.84;3;1/19/2019;15:58;Ewallet;257022;'0000003100079974463737
+127-47-6963;A;Yangon;Normal;Male;Aceite de oliva 1Âº Hacendado;10.6;4;3/9/2019;13:53;Credit card;257023;4403-4211-3195-6061
+278-86-2735;A;Yangon;Normal;Female;Caldo de pollo Avecrem en pastillas;2.7;3;3/27/2019;14:03;Cash;257024;--
+695-28-6250;A;Yangon;Normal;Female;Sal fina de mesa Hacendado;0.38;5;2/4/2019;16:38;Ewallet;257025;'0000003100015749623942
+379-17-6588;C;Naypyitaw;Normal;Male;Aceitunas chupadedos Huerta de Barros partidas aliÃ±adas con hueso;2.7;10;3/14/2019;11:07;Cash;257020;--
+227-50-3718;A;Yangon;Normal;Male;Nata ligera para cocinar Hacendado;1.32;5;3/4/2019;12:23;Cash;257021;--
+302-15-2162;C;Naypyitaw;Member;Male;Pincel delineador Deliplus;5;6;3/3/2019;10:54;Credit card;257022;5303-1651-4957-4689
+788-07-8452;C;Naypyitaw;Member;Female;Nata ligera para cocinar Hacendado;1.32;7;1/27/2019;17:38;Ewallet;257023;'0000003100081726112353
+560-49-6611;A;Yangon;Member;Female;CanÃ³nigos base para ensalada;1.19;1;2/7/2019;14:13;Cash;257024;--
+880-35-0356;A;Yangon;Member;Female;LasaÃ±a a la boloÃ±esa Hacendado ultracongelada;4;3;2/5/2019;11:51;Ewallet;257025;'0000003100025242805076
+585-11-6748;B;Mandalay;Member;Male;Cuidado hidratante anti-fatiga 24H L'OrÃ©al men expert Hydra energetic;7.95;3;3/15/2019;13:05;Cash;257020;--
+470-31-3286;B;Mandalay;Normal;Male;Ginebra extra dry gin Seagram's;14.99;3;3/1/2019;11:30;Credit card;257021;5754-2041-2879-8039
+152-68-2907;A;Yangon;Normal;Male;SÃ©rum facial reparador anti-age Deliplus;8.5;3;2/15/2019;13:30;Credit card;257022;4359-7226-6512-1365
+123-35-4896;C;Naypyitaw;Normal;Female;Crema de champiÃ±ones Hacendado;0.48;9;2/17/2019;19:11;Ewallet;257023;'0000003100016467825545
+258-69-7810;C;Naypyitaw;Normal;Female;Ampollas faciales proteoglicanos Deliplus;4;5;1/26/2019;18:53;Cash;257024;--
+334-64-2006;A;Yangon;Member;Female;SoluciÃ³n Ãºnica Contact Care;3.99;2;3/24/2019;14:22;Ewallet;257025;'0000003100012894123710
+219-61-4139;C;Naypyitaw;Normal;Male;Anillos de cereales Colors Hacendado sabor a frutas;1.95;1;1/23/2019;17:16;Ewallet;257020;'0000003100036484788938
+881-41-7302;C;Naypyitaw;Normal;Female;Recipiente de plÃ¡stico redondo 3L Bosque Verde;2.65;1;1/26/2019;10:06;Credit card;257021;5781-5982-1303-8776
+373-09-4567;C;Naypyitaw;Normal;Male;Burger de cerdo y vacuno con barbacoa;2.1;10;3/14/2019;20:35;Ewallet;257022;'0000003100017167465960
+642-30-6693;B;Mandalay;Normal;Female;Sopa instantÃ¡nea de verduras Gallina Blanca Sopinstant;1.1;6;3/17/2019;13:54;Ewallet;257023;'0000003100095940161135
+484-22-8230;C;Naypyitaw;Member;Female;Costilla de cerdo ibÃ©rico adobada;2.34;7;1/8/2019;20:08;Cash;257024;--
+830-58-2383;B;Mandalay;Normal;Male;Pizza de espinacas Hacendado ultracongelada;2.3;4;2/8/2019;15:26;Cash;257025;--
+559-98-9873;A;Yangon;Member;Female;Desatascador goma Zeppilin;1.2;7;2/10/2019;12:56;Ewallet;257020;'0000003100020705778637
+544-32-5024;C;Naypyitaw;Member;Female;CafÃ© molido mezcla fuerte Hacendado;4.45;4;3/28/2019;19:16;Credit card;257021;4257-7725-8284-3209
+318-12-0304;A;Yangon;Normal;Male;Butifarra fresca;3.16;1;1/23/2019;12:20;Ewallet;257022;'0000003100013193474665
+349-97-8902;B;Mandalay;Member;Male;Ron aÃ±ejo Negrita;8.19;2;1/17/2019;10:37;Ewallet;257023;'0000003100047661818983
+421-95-9805;A;Yangon;Normal;Female;Alimento completo para loros y cotorras Granzoo;1.9;1;2/7/2019;10:18;Credit card;257024;4643-1648-5814-6014
+277-35-5865;C;Naypyitaw;Member;Female;Comida peces de agua frÃ­a Dr. Wu Tetra;2.4;9;3/9/2019;11:23;Cash;257025;--
+789-23-8625;B;Mandalay;Member;Male;Snack gato barritas Compy de salmÃ³n y trucha;1.29;3;1/24/2019;11:45;Cash;257020;--
+284-54-4231;C;Naypyitaw;Member;Male;Pizza pepperoni Hacendado;2.39;1;1/19/2019;16:08;Credit card;257021;4881-1188-7392-9545
+443-59-0061;A;Yangon;Member;Male;Mistela muy dulce de moscatel Mig Segle D.O Valencia;2.89;10;2/3/2019;11:25;Ewallet;257022;'0000003100073038178242
+509-29-3912;A;Yangon;Member;Female;ChirivÃ­a;0.68;9;3/20/2019;12:24;Ewallet;257023;'0000003100032967479026
+327-40-9673;B;Mandalay;Member;Male;Foie gras entero de pato Hacendado;6.27;6;1/13/2019;19:51;Cash;257024;--
+840-19-2096;C;Naypyitaw;Member;Male;Snack perro barritas Compy con ternera y cordero;1.29;5;3/14/2019;18:10;Ewallet;257025;'0000003100040131968739
+828-46-6863;A;Yangon;Member;Male;Yogur sabor macedonia Hacendado;0.53;6;1/23/2019;11:22;Credit card;257020;4952-3364-4041-4175
+641-96-3695;C;Naypyitaw;Member;Female;CafÃ© con leche light sin lactosa Hacendado;0.85;6;2/7/2019;17:55;Ewallet;257021;'0000003100074492838919
+420-97-3340;A;Yangon;Normal;Female;Gel limpiador facial 9.60 hombre;2.95;3;3/28/2019;15:30;Credit card;257022;4197-5734-3582-7342
+436-54-4512;A;Yangon;Member;Female;Maquillaje fluido Deliplus natural radiante 03;5.5;1;3/20/2019;19:44;Cash;257023;--
+670-79-6321;B;Mandalay;Member;Female;Preparado paella de marisco Hacendado ultracongelado;3.9;7;1/17/2019;15:27;Credit card;257024;5619-3562-1506-1446
+852-62-7105;B;Mandalay;Normal;Female;ColoraciÃ³n permanente sin amonÃ­aco Garnier 5.3 capuccino;6.35;10;1/12/2019;11:25;Credit card;257025;5545-5892-3880-9063
+598-06-7312;B;Mandalay;Member;Male;Limpiahogar aloe vera Bosque Verde concentrado;1.98;1;2/16/2019;15:42;Cash;257020;--
+135-13-8269;B;Mandalay;Member;Female;Perfilador de ojos Deliplus 06 beige;2.5;2;1/26/2019;16:04;Cash;257021;--
+816-57-2053;A;Yangon;Normal;Male;ChampÃº Argan Oil Deliplus cabello seco y daÃ±ado;1.95;2;3/9/2019;12:37;Ewallet;257022;'0000003100030322080604
+628-90-8624;B;Mandalay;Member;Male;Mascarilla Silver Deliplus cabello blanco y platino;3.95;10;3/14/2019;14:41;Cash;257023;--
+856-66-2701;A;Yangon;Member;Male;Galletas de cacao sin gluten rellenas de crema Hacendado;2.5;3;1/25/2019;14:19;Ewallet;257024;'0000003100081383519812
+308-39-1707;A;Yangon;Normal;Female;Whiskey irlandÃ©s Seven Heads;11.5;1;1/26/2019;18:19;Credit card;257025;4757-7443-1236-3970
+149-61-1929;A;Yangon;Normal;Male;CafÃ© molido natural Hacendado;2.05;10;1/19/2019;14:08;Credit card;257020;4762-9781-5828-1897
+655-07-2265;A;Yangon;Normal;Male;ApÃ³sitos para ampollas y rozaduras;2.5;3;3/5/2019;16:38;Ewallet;257021;'0000003100021520072557
+589-02-8023;A;Yangon;Member;Male;Mango escoba/fregona Bosque Verde 120 cm;0.75;2;1/15/2019;10:54;Credit card;257022;5511-6530-8227-4360
+420-04-7590;B;Mandalay;Normal;Male;Bolsa de basura no compostables Bosque Verde 10L cubo pequeÃ±o;1.1;3;3/18/2019;11:29;Ewallet;257023;'0000003100045645976260
+182-88-2763;B;Mandalay;Member;Male;Desodorante roll-on active control Sanex men;1.8;3;3/20/2019;19:28;Credit card;257024;5242-5660-6504-7767
+188-55-0967;B;Mandalay;Member;Male;Body spray flor de naranjo Deliplus;2.5;10;1/15/2019;15:01;Credit card;257025;4859-8542-5150-6792
+610-46-4100;A;Yangon;Normal;Male;Lote hombre CapÃ­tulo Marino;7.5;7;3/3/2019;20:31;Credit card;257020;4376-2608-3815-6035
+318-81-2368;C;Naypyitaw;Normal;Female;Maquillaje fluido lasting performance Max Factor 105 soft beige;13.95;1;3/19/2019;12:16;Cash;257021;--
+364-33-8584;B;Mandalay;Member;Female;Spaghetti Armando;0.95;5;3/8/2019;15:27;Cash;257022;--
+665-63-9737;B;Mandalay;Normal;Male;Queso en dados feta Hacendado;1.7;3;2/27/2019;17:36;Ewallet;257023;'0000003100017598424550
+695-09-5146;B;Mandalay;Member;Female;Cerveza reserva;0.66;3;2/23/2019;20:00;Ewallet;257024;'0000003100098336062436
+155-45-3814;C;Naypyitaw;Member;Female;Coca sin gluten y sin lactosa;2.25;8;3/19/2019;15:29;Ewallet;257025;'0000003100023527766782
+794-32-2436;B;Mandalay;Member;Male;CafÃ© soluble cappuccino Hacendado;1.99;2;3/27/2019;15:08;Ewallet;257020;'0000003100045294492885
+131-15-8856;C;Naypyitaw;Member;Female;Sardinillas en escabeche Hacendado;1.27;8;3/30/2019;19:26;Credit card;257021;4686-1995-3990-1840
+273-84-2164;C;Naypyitaw;Member;Male;Vino blanco crianza D.O ValdepeÃ±as SeÃ±orÃ­o de los Llanos;1.95;5;2/16/2019;15:53;Ewallet;257022;'0000003100044782753347
+706-36-6154;A;Yangon;Member;Male;Vela de cumpleaÃ±os 5 Hacendado;0.75;9;1/18/2019;18:43;Ewallet;257023;'0000003100093431488257
+778-89-7974;C;Naypyitaw;Normal;Male;Aros de cebolla rebozados Hacendado ultracongelados;1.75;6;3/30/2019;14:58;Cash;257024;--
+574-31-8277;B;Mandalay;Member;Male;Chocolate con leche Hacendado fussion relleno sabor fresa;0.8;1;3/20/2019;19:55;Cash;257025;--
+859-71-0933;C;Naypyitaw;Member;Female;Pintalabios color fix Deliplus 06;3.5;2;1/16/2019;15:10;Cash;257020;--
+740-11-5257;C;Naypyitaw;Normal;Male;MaÃ­z frito gigante Hacendado;0.9;10;2/24/2019;16:44;Cash;257021;--
+369-82-2676;B;Mandalay;Normal;Male;Lavavajillas todo en 1 Fairy en pastillas;4.5;5;1/15/2019;18:22;Ewallet;257022;'0000003100023971940904
+563-47-4072;B;Mandalay;Normal;Female;TÃ© matcha en polvo Hacendado;2.75;6;1/22/2019;11:52;Cash;257023;--
+742-04-5161;A;Yangon;Member;Male;Horchata de chufa Hacendado;1;10;2/3/2019;17:24;Cash;257024;--
+149-15-7606;B;Mandalay;Member;Male;CafÃ© molido descafeinado mezcla Hacendado;2.5;9;3/6/2019;15:31;Ewallet;257025;'0000003100045851871389
+133-77-3154;B;Mandalay;Member;Male;Preparado lÃ¡cteo crecimiento Peques 3 Puleva;1.45;4;2/16/2019;18:04;Credit card;257020;4153-1836-2866-3739
+169-52-4504;A;Yangon;Normal;Female;ChampÃº Be Radiant Deliplus cabello apagado;1.95;3;3/14/2019;14:13;Credit card;257021;4914-6553-1850-7095
+250-81-7186;C;Naypyitaw;Normal;Female;Recambios maquinilla de afeitar Gillette Fusion;13.99;1;2/27/2019;10:23;Credit card;257022;4559-6953-4707-3008
+562-12-5430;A;Yangon;Member;Female;Cacahuete frito con miel Hacendado;1.5;3;1/18/2019;10:11;Ewallet;257023;'0000003100071913118299
+816-72-8853;A;Yangon;Member;Female;Muesli con quinoa, chÃ­a y chocolate negro Hacendado;1.8;5;1/29/2019;15:48;Cash;257024;--
+491-38-3499;A;Yangon;Member;Male;Refresco tÃ© verde Hacendado;1.62;1;2/26/2019;17:46;Credit card;257025;4338-6071-9250-7373
+322-02-2271;B;Mandalay;Normal;Female;SÃ¡ndwich pavo, queso y espinacas Hacendado;1.5;3;2/3/2019;11:46;Cash;257020;--
+842-29-4695;C;Naypyitaw;Member;Male;Chicle fresa lÃ¡mina Hacendado;1.2;7;1/16/2019;12:07;Credit card;257021;4965-2416-6991-3824
+725-67-2480;B;Mandalay;Member;Female;Tarta tres chocolates Hacendado congelada;8;6;3/24/2019;18:14;Credit card;257022;5203-6967-1525-9005
+641-51-2661;C;Naypyitaw;Member;Female;Vermouth rojo Maronti reserva;3.29;10;2/12/2019;14:45;Credit card;257023;4559-2277-8982-6280
+714-02-3114;C;Naypyitaw;Normal;Female;Patatas bravas con allioli y salsa picante Hacendado;1.9;2;2/21/2019;11:39;Cash;257024;--
+518-17-2983;A;Yangon;Normal;Female;Gel facial limpiador purificante Deliplus pieles grasas;3.75;4;2/4/2019;15:44;Ewallet;257025;'0000003100025369715855
+779-42-2410;B;Mandalay;Member;Male;JabÃ³n lÃ­quido bebÃ© ultra suave Nenuco;2.45;3;2/20/2019;13:06;Ewallet;257020;'0000003100083867783471
+190-14-3147;B;Mandalay;Normal;Female;Vino rosado D.O Rioja Comportillo cosecha;2.35;4;2/23/2019;20:43;Ewallet;257021;'0000003100080700736017
+408-66-6712;C;Naypyitaw;Member;Female;Brochetas de pollo;2.95;6;2/16/2019;14:19;Ewallet;257022;'0000003100075357593232
+679-22-6530;B;Mandalay;Normal;Female;Lomos de salmÃ³n de Noruega sin piel y sin espinas Hacendado congelado;4.89;2;1/17/2019;10:01;Credit card;257023;5971-9149-6602-2554
+588-47-8641;A;Yangon;Member;Male;Eau de toilette hombre Gesto;5.5;10;1/14/2019;19:30;Ewallet;257024;'0000003100089631574500
+642-61-4706;B;Mandalay;Member;Male;PatÃ© perro adulto Delikuit con ternera y pollo;1.55;2;3/30/2019;16:34;Cash;257025;--
+576-31-4774;B;Mandalay;Normal;Female;Gazpacho suave Hacendado;1.7;3;3/2/2019;13:10;Ewallet;257020;'0000003100083334937416
+556-41-6224;C;Naypyitaw;Normal;Male;CafÃ© monodosis natural Hacendado Espresso;3.05;8;2/15/2019;17:10;Credit card;257021;4329-5903-7003-8429
+811-03-8790;A;Yangon;Normal;Female;ColoraciÃ³n permanente Deliplus 4 castaÃ±o medio;3.9;10;3/1/2019;10:22;Credit card;257022;4682-7472-1571-1325
+242-11-3142;B;Mandalay;Member;Male;Insecticida antimosquitos elÃ©ctrico recambio lÃ­quido;1.95;2;2/24/2019;19:57;Cash;257023;--
+752-23-3760;B;Mandalay;Member;Female;Galletas gofre rellenas de caramelo Hacendado;1.7;7;2/19/2019;19:29;Credit card;257024;4575-8149-3210-9001
+274-05-5470;A;Yangon;Member;Female;Sal fina de mesa Hacendado;0.38;4;2/23/2019;18:30;Cash;257025;--
+648-94-3045;C;Naypyitaw;Normal;Male;Cepillo dental elÃ©ctrico Deliplus desechable;3.6;10;2/7/2019;14:27;Ewallet;257020;'0000003100010086613386
+130-67-4723;A;Yangon;Member;Male;Chuletas de pavo al ajillo;3.48;6;1/11/2019;13:57;Ewallet;257021;'0000003100082871165209
+528-87-5606;B;Mandalay;Member;Female;Enjuague bucal infantil previene las caries Deliplus sin alcohol;1.49;1;2/12/2019;19:43;Cash;257022;--
+320-85-2052;B;Mandalay;Normal;Female;ChampÃº protecciÃ³n y brillo Deliplus todo tipo de cabello;0.9;1;1/14/2019;10:11;Credit card;257023;4783-2349-8159-5073
+370-96-0655;C;Naypyitaw;Normal;Female;Vino rosado D.O La Mancha Fidencio;1.2;6;1/9/2019;13:46;Ewallet;257024;'0000003100056982837042
+105-10-6182;A;Yangon;Member;Male;Chorizo de pavo Hacendado lonchas;1.89;2;2/27/2019;12:22;Ewallet;257025;'0000003100052409075372
+510-79-0415;B;Mandalay;Member;Female;Regaliz roja Hacendado;1;6;1/24/2019;19:20;Ewallet;257020;'0000003100059218568743
+241-96-5076;B;Mandalay;Member;Female;Salsa de queso Hacendado;1.25;2;1/8/2019;12:58;Credit card;257021;5999-9014-3876-2560
+767-97-4650;B;Mandalay;Member;Female;Desodorante force Deliplus antimanchas;1.7;2;1/8/2019;11:59;Credit card;257022;5965-1991-5569-6427
+648-83-1321;A;Yangon;Member;Male;Ensalada mezcla 4 estaciones;0.6;10;1/16/2019;17:59;Cash;257023;--
+173-57-2300;C;Naypyitaw;Member;Male;Eau de toilette hombre Criterio Ego;9;2;3/13/2019;12:51;Cash;257024;--
+305-03-2383;A;Yangon;Normal;Female;Leche desnatada calcio Hacendado;0.7;3;2/15/2019;10:36;Cash;257025;--
+394-55-6384;C;Naypyitaw;Member;Female;Palitos de pan con cereales y trigo espelta 25% Anitin;1.19;9;1/25/2019;13:38;Cash;257020;--
+266-20-6657;C;Naypyitaw;Member;Male;NÃ©cora cocida Errigal Bay congelada;5.95;7;3/12/2019;19:39;Ewallet;257021;'0000003100038889047168
+689-05-1884;A;Yangon;Member;Male;Lote infantil My Unicorn;8;10;3/4/2019;12:44;Cash;257022;--
+196-01-2849;C;Naypyitaw;Member;Female;HÃ©lices con vegetales Hacendado;1.09;7;2/10/2019;13:56;Cash;257023;--
+372-62-5264;C;Naypyitaw;Normal;Female;Crema cuello y escote reafirmante nutritiva Sisbela;5;9;1/16/2019;14:42;Cash;257024;--
+800-09-8606;A;Yangon;Member;Female;Papilla menestra de codero a la crema Hero baby recetas caseras +6 meses;1.75;5;1/29/2019;19:45;Cash;257025;--
+182-52-7000;A;Yangon;Member;Female;Rodaja de emperador;6.18;4;1/1/2019;20:26;Ewallet;257020;'0000003100091721499645
+826-58-8051;B;Mandalay;Normal;Male;Eau de toilette mujer Chanson d'Eau;7.95;4;1/6/2019;19:46;Ewallet;257021;'0000003100020783024416
+868-06-0466;A;Yangon;Member;Male;Comida gato esterilizado light Supreme Compy con pollo y cereales;4.8;9;2/19/2019;19:38;Credit card;257022;5117-3635-1957-6156
+751-41-9720;C;Naypyitaw;Normal;Male;Palitos de pan con cacahuete Anitin;1.19;10;1/12/2019;16:18;Ewallet;257023;'0000003100017225299820
+626-43-7888;C;Naypyitaw;Normal;Female;Papel higiÃ©nico acolchado Bosque Verde;2.93;8;2/7/2019;12:23;Ewallet;257024;'0000003100050353276481
+176-64-7711;B;Mandalay;Normal;Male;Bebida de frutas rojas antioxidante Hacendado sin azÃºcares aÃ±adidos;1.45;3;3/27/2019;19:11;Credit card;257025;5520-3975-6977-3954
+191-29-0321;B;Mandalay;Member;Female;Fluido hidratante Deliplus pieles grasas;2.8;10;2/27/2019;18:57;Credit card;257020;4557-8576-8062-1641
+729-06-2010;B;Mandalay;Member;Male;Gotas de maquillaje Deliplus 04 oscuro;5;9;1/6/2019;11:18;Cash;257021;--
+640-48-5028;B;Mandalay;Member;Female;Yogur sin lactosa Hacendado cremoso, natural y azucarado;1.3;9;3/2/2019;12:40;Cash;257022;--
+186-79-9562;B;Mandalay;Normal;Male;Lote mujer 9.60 Pure;4.9;7;3/29/2019;14:06;Cash;257023;--
+834-45-5519;B;Mandalay;Normal;Female;Caramelos blandos rellenos Dolis;1.58;4;1/31/2019;20:48;Ewallet;257024;'0000003100020966624011
+162-65-8559;C;Naypyitaw;Member;Male;Maquillaje fluido Deliplus hydra-confort 02 beige rosado;5.5;1;1/21/2019;20:13;Cash;257025;--
+760-27-5490;C;Naypyitaw;Normal;Male;Bebida lÃ¡ctea sabor canela y limÃ³n Hacendado;1.6;8;1/20/2019;20:37;Ewallet;257020;'0000003100076387251446
+445-30-9252;A;Yangon;Normal;Male;LejÃ­a normal Bosque Verde;0.62;3;1/17/2019;17:59;Ewallet;257021;'0000003100091003090083
+786-94-2700;A;Yangon;Member;Male;Queso Gouda semicurado Holland Corona;2.8;6;2/28/2019;20:18;Cash;257022;--
+728-88-7867;C;Naypyitaw;Member;Female;Licor crema Irlandesa Royal Swan;5;4;3/19/2019;15:52;Ewallet;257023;'0000003100071258521104
+183-21-3799;C;Naypyitaw;Normal;Female;PatÃ© perro adulto Delikuit con cordero y verduras;0.55;9;2/19/2019;15:14;Ewallet;257024;'0000003100053361609520
+268-20-3585;C;Naypyitaw;Normal;Female;Harina de almortas de la Mancha;1.35;9;2/4/2019;12:50;Ewallet;257025;'0000003100025437177125
+735-32-9839;C;Naypyitaw;Member;Male;Compresa con alas normal Evax cotton like;2.29;8;1/31/2019;10:36;Ewallet;257020;'0000003100013032655853
+258-92-7466;A;Yangon;Normal;Female;Mortadela Hacendado lonchas;0.9;5;2/6/2019;18:33;Credit card;257021;5563-9649-5487-8021
+857-16-3520;A;Yangon;Member;Female;Refresco cola Hacendado;0.26;7;3/28/2019;16:06;Ewallet;257022;'0000003100051212040963
+482-17-1179;A;Yangon;Member;Male;Batido de chocolate 90% leche Puleva;1.79;3;1/19/2019;12:47;Credit card;257023;5441-6444-8545-3938
+788-21-5741;A;Yangon;Normal;Male;Cerveza sin gluten Ambar;3.6;3;2/17/2019;13:34;Credit card;257024;4947-4362-4436-8344
+821-14-9046;B;Mandalay;Member;Female;Vino blanco D.O La Mancha Fidencio;1.2;6;1/18/2019;15:04;Credit card;257025;5115-5710-3730-5504
+418-05-0656;B;Mandalay;Normal;Female;Acondicionador protector color vive Elvive cabello teÃ±ido;2.79;7;2/2/2019;20:42;Cash;257020;--
+678-79-0726;C;Naypyitaw;Member;Female;Dulce de membrillo Hacendado sin azÃºcares aÃ±adidos;1.85;9;1/18/2019;15:28;Cash;257021;--
+776-68-1096;B;Mandalay;Normal;Male;Nachos Hacendado;0.85;3;3/18/2019;13:45;Credit card;257022;4145-1593-2606-2014
+592-46-1692;C;Naypyitaw;Member;Female;Mascarillas higiÃ©nicas infantiles Deliplus 6 a 9 aÃ±os;5.4;7;1/11/2019;20:10;Cash;257023;--
+434-35-9162;B;Mandalay;Member;Male;Recambios maquinilla de afeitar Hydro 5 sense Wilkinson;8.95;4;2/4/2019;18:53;Ewallet;257024;'0000003100050656969160
+149-14-0304;C;Naypyitaw;Member;Female;Eau de toilette mujer Como tÃº Amor;7;8;2/6/2019;14:24;Cash;257025;--
+442-44-6497;C;Naypyitaw;Member;Male;Bocaditos en salsa gato adulto Delikuit;2.99;3;1/8/2019;11:42;Credit card;257020;4880-9695-7656-6427
+174-64-0215;B;Mandalay;Normal;Male;Limpia tapicerÃ­as espuma seca Bosque Verde;2.05;10;3/5/2019;17:49;Credit card;257021;4949-2957-3015-4486
+210-74-9613;C;Naypyitaw;Normal;Male;Cocktail picante Hacendado;1.55;4;3/16/2019;15:33;Ewallet;257022;'0000003100084443669131
+299-29-0180;B;Mandalay;Member;Female;Contramuslos de pollo marinados con piel;3.39;7;3/9/2019;10:54;Cash;257023;--
+247-11-2470;A;Yangon;Member;Female;Brillo de labios transparente Deliplus 11;3;4;3/1/2019;16:23;Credit card;257024;4575-2798-8590-4018
+635-28-5728;A;Yangon;Normal;Male;Barritas de barquillo Kit-Kat baÃ±adas de chocolate con leche;2.25;3;2/28/2019;19:33;Ewallet;257025;'0000003100056685979561
+756-49-0168;A;Yangon;Member;Male;Sal 60% menos de sodio Hacendado;1.2;1;2/8/2019;11:39;Ewallet;257020;'0000003100043772813816
+438-23-1242;B;Mandalay;Normal;Male;AtÃºn claro en aceite de oliva Hacendado;3.35;7;1/24/2019;10:38;Ewallet;257021;'0000003100089055271942
+238-45-6950;B;Mandalay;Member;Male;Pila de botÃ³n CR2032 Panasonic;2.6;1;3/1/2019;20:03;Ewallet;257022;'0000003100010899610443
+607-65-2441;C;Naypyitaw;Member;Male;Palitos de pan con cereales y trigo espelta 25% Anitin;1.19;10;3/10/2019;12:39;Credit card;257023;5275-9749-5281-2663
+386-27-7606;C;Naypyitaw;Member;Female;Manzana roja deshidratada Hacendado;0.7;7;3/23/2019;15:59;Credit card;257024;5855-9098-9265-4848
+137-63-5492;C;Naypyitaw;Normal;Male;Vino tinto D.O Ribera del Duero Condado de TeÃ³n roble;4.95;10;1/29/2019;14:26;Ewallet;257025;'0000003100045053808878
+197-77-7132;B;Mandalay;Member;Male;ColoraciÃ³n permanente sin amonÃ­aco Azalea 7.73 marrÃ³n dorÃ©;3.5;8;1/12/2019;18:22;Ewallet;257020;'0000003100033157739583
+805-86-0265;A;Yangon;Normal;Male;Multiusos perfumado Bosque Verde;1.6;9;3/20/2019;11:32;Cash;257021;--
+733-29-1227;C;Naypyitaw;Normal;Male;Enjuague bucal encÃ­as sanas Deliplus con hexetidina;1.95;7;3/23/2019;12:41;Cash;257022;--
+451-73-2711;C;Naypyitaw;Normal;Male;Papilla crema de bechamel con lenguado Hero baby +8 meses;0.99;1;1/14/2019;15:20;Ewallet;257023;'0000003100059239081426
+373-14-0504;A;Yangon;Member;Female;Cerveza de trigo Franziskaner;0.89;2;2/12/2019;14:33;Ewallet;257024;'0000003100083585944375
+546-80-2899;A;Yangon;Member;Male;Panecillo;0.1;2;2/20/2019;15:29;Ewallet;257025;'0000003100097871175711
+345-68-9016;C;Naypyitaw;Member;Female;Tomate frito estilo casero Hacendado;0.93;8;1/2/2019;16:19;Credit card;257020;4561-2974-7612-3015
+390-17-5806;C;Naypyitaw;Member;Female;MojicÃ³n sin azÃºcares aÃ±adidos Gloria;0.22;1;2/2/2019;16:33;Cash;257021;--
+457-13-1708;B;Mandalay;Member;Male;SalmÃ³n ahumado Ubago;2.7;10;1/8/2019;19:07;Credit card;257022;5819-8286-8912-1394
+664-14-2882;C;Naypyitaw;Member;Female;ChampÃº Hydra Deliplus cabello normal;1.8;5;1/30/2019;14:43;Credit card;257023;4838-4413-2026-5385
+487-79-6868;B;Mandalay;Member;Female;Ensalada CÃ©sar;1.99;9;3/26/2019;19:28;Credit card;257024;5986-4991-2461-1981
+314-23-4520;C;Naypyitaw;Member;Male;MejillÃ³n vivo y limpio;2.8;7;1/15/2019;20:44;Cash;257025;--
+210-30-7976;B;Mandalay;Member;Female;Recambios hojas de afeitar Personna;2.25;4;3/14/2019;11:16;Ewallet;257020;'0000003100063387076700
+585-86-8361;A;Yangon;Normal;Female;Aceitunas manzanilla sabor anchoa Hacendado con hueso;1;5;2/3/2019;10:31;Credit card;257021;4803-2540-5176-8977
+807-14-7833;A;Yangon;Member;Female;Arroz largo Hacendado;0.83;10;2/22/2019;12:30;Ewallet;257022;'0000003100051271471929
+775-72-1988;B;Mandalay;Normal;Male;Gazpacho suave Hacendado;2.6;5;1/24/2019;15:05;Ewallet;257023;'0000003100012237589560
+288-38-3758;C;Naypyitaw;Member;Female;Esterilizador de microondas Deliplus;13.95;3;1/25/2019;18:30;Ewallet;257024;'0000003100046023808848
+652-43-6591;A;Yangon;Normal;Female;Insecticida antimosquitos elÃ©ctrico recambio lÃ­quido;1.95;8;3/9/2019;13:18;Credit card;257025;4978-3495-8371-6409
+785-96-0615;B;Mandalay;Member;Female;Zumo pura naranja Hacendado;1.9;8;2/17/2019;15:28;Ewallet;257020;'0000003100074639497201
+406-46-7107;A;Yangon;Normal;Female;Sal fina de mesa Hacendado;0.38;6;1/11/2019;11:52;Cash;257021;--
+250-17-5703;A;Yangon;Member;Male;Gel aceite de baÃ±o Deliplus pieles Ã¡topicas;3.25;10;2/27/2019;18:24;Ewallet;257022;'0000003100052924914210
+156-95-3964;A;Yangon;Normal;Female;Ensaladilla americana Hacendado;1.2;4;3/25/2019;15:19;Ewallet;257023;'0000003100075507380641
+842-40-8179;B;Mandalay;Member;Female;MojicÃ³n sin azÃºcares aÃ±adidos Gloria;0.22;10;2/11/2019;10:38;Credit card;257024;4119-5902-9266-9034
+525-09-8450;B;Mandalay;Normal;Male;Mousse de queso, ajo y finas hierbas Hacendado;0.95;10;1/31/2019;15:12;Credit card;257025;5653-8637-4495-3882
+410-67-1709;A;Yangon;Member;Female;Chocolate para hacer a la taza Valor;2.15;8;1/20/2019;17:48;Ewallet;257020;'0000003100081472910843
+587-73-4862;A;Yangon;Member;Female;Limpiador antical Bosque Verde en gel;1.6;5;3/26/2019;11:07;Ewallet;257021;'0000003100095103734558
+787-87-2010;A;Yangon;Member;Male;Lote mujer Adolfo Dominguez Love Live;21.9;4;1/20/2019;15:48;Credit card;257022;4623-8324-8246-3822
+593-14-4239;B;Mandalay;Normal;Female;Mini burgers de pollo;1.5;8;3/5/2019;19:40;Ewallet;257023;'0000003100034858959967
+801-88-0346;C;Naypyitaw;Normal;Female;PatÃ© perro adulto Delikuit con ternera y pollo;1.55;3;1/5/2019;20:30;Credit card;257024;5863-2508-8768-9533
+388-76-2555;B;Mandalay;Normal;Male;Cebolla frita crujiente Hacendado;0.99;6;2/13/2019;13:59;Cash;257025;--
+711-31-1234;B;Mandalay;Normal;Female;Lote mujer Rose Nude;10.5;4;3/16/2019;18:51;Cash;257020;--
+886-54-6089;A;Yangon;Normal;Female;Vino tinto D.O Ribera del Duero AbadÃ­a MantrÃºs reserva;5.4;6;1/15/2019;17:24;Cash;257021;--
+707-32-7409;B;Mandalay;Member;Female;Aceite de oliva virgen extra Casa Juncal;3.95;4;2/26/2019;11:58;Ewallet;257022;'0000003100044907102494
+759-98-4285;C;Naypyitaw;Member;Female;Crema facial efecto lifting Deliplus;4;7;2/27/2019;19:01;Credit card;257023;4425-9123-3338-8731
+201-63-8275;C;Naypyitaw;Member;Female;Cerveza sin gluten Ambar;3.6;7;2/17/2019;16:50;Ewallet;257024;'0000003100013128156823
+471-06-8611;C;Naypyitaw;Normal;Female;Perfumador ropa Bosque Verde intensificador de fragancia;2.9;1;2/6/2019;10:22;Credit card;257025;4509-2602-7418-3115
+200-16-5952;C;Naypyitaw;Member;Male;Spray cabello brillo todo tipo de cabello Deliplus sin fijaciÃ³n;1.75;2;1/17/2019;16:46;Cash;257020;--
+120-54-2248;B;Mandalay;Normal;Female;Lote infantil My Unicorn;8;5;1/22/2019;18:08;Credit card;257021;5831-8722-2401-4100
+102-77-2261;C;Naypyitaw;Member;Male;Sazonador pescado Hacendado;1.4;7;3/5/2019;18:02;Credit card;257022;4617-1286-9655-3070
+875-31-8302;B;Mandalay;Normal;Male;Mortadela de pavo Hacendado finas lonchas;1;1;1/3/2019;13:07;Cash;257023;--
+102-06-2002;C;Naypyitaw;Member;Male;Barrita sustitutivo de comida Belladieta sabor chocolate negro;5.4;5;3/20/2019;17:52;Cash;257024;--
+457-94-0464;B;Mandalay;Member;Male;EspÃ¡rrago verde fino;2.15;9;1/31/2019;20:32;Ewallet;257025;'0000003100021934278713
+629-42-4133;C;Naypyitaw;Normal;Male;Chorizo lonchas Revilla;1;8;2/19/2019;19:24;Cash;257020;--
+534-53-3526;A;Yangon;Normal;Female;SÃ©rum Restructuring Deliplus cabello extremadamente daÃ±ado;4.05;4;2/11/2019;16:06;Ewallet;257021;'0000003100063674928881
+307-04-2070;A;Yangon;Member;Female;Desodorante original Heno de Pravia;2.7;1;2/5/2019;14:14;Credit card;257022;4863-5475-7915-4502
+468-99-7231;C;Naypyitaw;Normal;Female;Pintalabios cremoso Deliplus 15;4.5;8;3/3/2019;17:36;Cash;257023;--
+516-77-6464;C;Naypyitaw;Member;Female;Colorete compacto multicolor Deliplus 04;6;5;2/24/2019;13:08;Ewallet;257024;'0000003100092670623086
+404-91-5964;A;Yangon;Normal;Male;Cabecero de lomo Hacendado lonchas;1.72;7;2/4/2019;16:09;Credit card;257025;4719-9001-4392-8080
+886-77-9084;C;Naypyitaw;Normal;Male;Rape sin piel y sin cabeza;15.42;8;2/19/2019;11:33;Ewallet;257020;'0000003100075141255957
+790-38-4466;C;Naypyitaw;Normal;Female;BiberÃ³n 150 ml tetina lÃ¡tex flujo lento +0 meses Deliplus;3.9;5;1/23/2019;10:18;Credit card;257021;4251-4608-6386-9769
+704-10-4056;C;Naypyitaw;Member;Male;Mango escoba/fregona Bosque Verde 120 cm;0.75;3;1/14/2019;10:55;Credit card;257022;5569-6181-8400-3835
+497-37-6538;A;Yangon;Normal;Male;Helado de fresa Hacendado;1.65;7;1/17/2019;15:15;Ewallet;257023;'0000003100030764125338
+651-96-5970;A;Yangon;Normal;Male;Percarbonato blanqueante Bosque Verde;1.75;1;3/3/2019;20:06;Credit card;257024;5327-2411-2803-8360
+400-80-4065;C;Naypyitaw;Member;Male;AzÃºcar vainillado Hacendado;0.74;4;2/15/2019;20:21;Credit card;257025;5567-8685-5888-1138
+744-16-7898;B;Mandalay;Normal;Female;SÃ©rum facial reparador anti-age Deliplus;8.5;10;1/15/2019;13:48;Credit card;257020;5833-2010-4745-6571
+263-12-5321;A;Yangon;Member;Male;Maquillaje fluido anti-age Maybelline 30 sand;9.95;7;2/27/2019;12:52;Credit card;257021;5433-9477-9586-5340
+702-72-0487;A;Yangon;Normal;Female;InfusiÃ³n Rooibos cÃ­trico Hacendado;1;2;2/26/2019;12:28;Credit card;257022;4647-5322-4726-3226
+605-83-1050;B;Mandalay;Normal;Male;Copos de arroz, trigo integral y cebada con chocolate Hacendado;1.99;2;3/15/2019;16:26;Ewallet;257023;'0000003100062770028959
+443-60-9639;C;Naypyitaw;Member;Female;Queso en dados para ensaladas Hacendado;1.6;1;1/24/2019;13:24;Cash;257024;--
+864-24-7918;A;Yangon;Member;Female;Zumo fresh jengibre & manzana Hacendado;1.6;10;2/22/2019;15:15;Cash;257025;--
+359-94-5395;B;Mandalay;Normal;Male;70% Alcohol limpieza hogar Bosque Verde;1.8;1;3/15/2019;10:50;Credit card;257020;4269-5053-9896-8646
+401-09-4232;C;Naypyitaw;Member;Male;InfusiÃ³n Detox Hacendado;1.1;5;2/11/2019;18:38;Ewallet;257021;'0000003100090380879734
+751-15-6198;B;Mandalay;Normal;Male;Compresa sin alas normal Deliplus Classic;1.15;6;1/12/2019;16:45;Ewallet;257022;'0000003100051821950864
+324-41-6833;C;Naypyitaw;Member;Female;InfusiÃ³n Tila Hacendado;0.5;8;3/3/2019;19:30;Ewallet;257023;'0000003100059816995962
+474-33-8305;C;Naypyitaw;Member;Male;Ambientador automÃ¡tico Bosque Verde love;1.9;7;3/23/2019;13:23;Ewallet;257024;'0000003100041571148777
+759-29-9521;A;Yangon;Member;Female;BetÃºn azul autobrillante BÃºfalo;2.65;9;3/4/2019;11:27;Cash;257025;--
+831-81-6575;B;Mandalay;Member;Female;Vino tinto D.O Utiel-Requena Torre Oria reserva;2.85;9;2/23/2019;11:12;Cash;257020;--
+220-68-6701;A;Yangon;Normal;Female;Papel higiÃ©nico suave Bosque Verde;2.6;4;3/17/2019;16:36;Cash;257021;--
+618-34-8551;A;Yangon;Normal;Female;JabÃ³n de manos lavanda Deliplus pastilla;0.85;2;1/16/2019;18:41;Credit card;257022;4508-7479-7352-9417
+257-60-7754;A;Yangon;Normal;Female;Vino tinto D.O Somontano Pico Aneto reserva;4.55;4;1/8/2019;17:12;Cash;257023;--
+559-61-5987;B;Mandalay;Normal;Female;BÃ­fidus desnatado cremoso Hacendado natural edulcorado;1;1;1/14/2019;10:38;Cash;257024;--
+189-55-2313;C;Naypyitaw;Normal;Female;Laca de uÃ±as alto brillo Deliplus 52 rojo lava;2.5;10;1/31/2019;10:33;Ewallet;257025;'0000003100077905368894
+565-91-4567;B;Mandalay;Normal;Male;Fritura de pescado Hacendado ultracongelada;4.49;8;3/15/2019;14:38;Ewallet;257020;'0000003100052602820420
+380-60-5336;A;Yangon;Normal;Female;Crema facial antiedad revitalizante Sisbela reestructuradora;5;10;2/24/2019;18:06;Credit card;257021;5190-5827-5720-1082
+815-04-6282;C;Naypyitaw;Member;Female;Snack perro corazones Compy;1.29;5;2/8/2019;12:52;Credit card;257022;5565-2784-7476-9572
+674-56-6360;A;Yangon;Normal;Male;Leche semidesnatada Pascual;0.89;1;3/22/2019;14:00;Cash;257023;--
+778-34-2523;A;Yangon;Member;Female;ColoraciÃ³n permanente L'OrÃ©al 10 rubio muy claro;7.95;8;1/24/2019;10:57;Cash;257024;--
+499-27-7781;B;Mandalay;Normal;Female;Yogur sin lactosa natural Hacendado 0% materia grasa 0% sin azÃºcares aÃ±adidos;1.2;8;3/14/2019;16:45;Ewallet;257025;'0000003100098022057021
+477-59-2456;C;Naypyitaw;Normal;Female;InfusiÃ³n Tila Hacendado;0.5;7;1/23/2019;11:15;Cash;257020;--
+832-51-6761;A;Yangon;Normal;Male;Eau de toilette mujer Como tÃº Amor;7;8;1/19/2019;20:29;Ewallet;257021;'0000003100092643847025
+869-11-3082;B;Mandalay;Member;Male;Dulce de boniato Hida;2.7;4;1/27/2019;20:03;Credit card;257022;5310-1060-8644-1702
+190-59-3964;B;Mandalay;Member;Male;Recambios hojas de afeitar Personna;2.25;5;2/3/2019;14:35;Credit card;257023;4171-1342-3951-4782
+366-43-6862;B;Mandalay;Normal;Male;Chicle regaliz y menta gragea Hacendado;0.8;4;3/25/2019;16:32;Ewallet;257024;'0000003100013852702376
+186-43-8965;A;Yangon;Member;Female;Medio melÃ³n Galia;1.66;2;2/24/2019;10:10;Credit card;257025;4508-7956-1061-8200
+784-21-9238;C;Naypyitaw;Member;Male;Palitos de pan con cacahuete Anitin;1.19;1;2/7/2019;14:15;Cash;257020;--
+276-75-6884;A;Yangon;Normal;Female;AguarrÃ¡s sÃ­mil Bosque Verde;1.6;3;3/4/2019;10:05;Cash;257021;--
+109-86-4363;B;Mandalay;Member;Female;Solomillo de cerdo marinado congelado;5.64;7;2/14/2019;11:36;Credit card;257022;5795-7127-6709-6719
+569-76-2760;A;Yangon;Member;Female;Harina de arroz Hacendado;0.95;4;1/29/2019;18:15;Credit card;257023;4154-3482-1922-4683
+222-42-0244;B;Mandalay;Member;Female;Gel-crema facial Hydrafresh L'OrÃ©al pieles normales a mixtas;6.67;9;1/28/2019;13:53;Credit card;257024;5351-7934-8571-7345
+760-53-9233;A;Yangon;Member;Male;Refresco tÃ© sabor melocotÃ³n Hacendado cero;0.27;3;3/26/2019;18:37;Credit card;257025;4379-4615-9324-6621
+538-22-0304;C;Naypyitaw;Normal;Male;Postre lÃ¡cteo + proteÃ­nas Hacendado chocolate;1.4;10;3/24/2019;18:27;Cash;257020;--
+416-17-9926;A;Yangon;Member;Female;Compresa de incontinencia Tena masculina;4.65;10;1/1/2019;14:42;Credit card;257021;5265-4894-5940-7400
+237-44-6163;A;Yangon;Normal;Male;Bastoncillos de algodÃ³n 100% Deliplus;0.6;8;1/24/2019;17:43;Cash;257022;--
+636-17-0325;B;Mandalay;Normal;Male;Cava semi seco CabrÃ© & SabatÃ©;4.35;4;2/25/2019;18:37;Cash;257023;--
+343-75-9322;B;Mandalay;Member;Female;Merluza del cabo sin cabeza Hacendado congelada;3.74;8;1/9/2019;16:34;Cash;257024;--
+528-14-9470;A;Yangon;Member;Male;Insecticida barrera antimosquitos Bosque Verde;3.09;1;2/14/2019;14:42;Ewallet;257025;'0000003100012218379548
+427-45-9297;B;Mandalay;Member;Female;Flan de vainilla con caramelo Hacendado;0.7;7;3/12/2019;11:01;Ewallet;257020;'0000003100040201851027
+807-34-3742;A;Yangon;Normal;Male;Gotas de maquillaje Deliplus 04 oscuro;5;1;3/26/2019;19:44;Cash;257021;--
+288-62-1085;A;Yangon;Member;Male;Eau de toilette mujer Don Algodon;12;5;1/9/2019;13:34;Ewallet;257022;'0000003100015557274490
+670-71-7306;B;Mandalay;Normal;Male;Horquilla negra Deliplus;1.5;6;1/2/2019;20:08;Credit card;257023;4138-2942-8449-8322
+660-29-7083;C;Naypyitaw;Normal;Male;NÃ©ctar de maracuyÃ¡ Hacendado fruta de la pasiÃ³n, mango, uva y manzana;0.7;10;1/15/2019;15:01;Cash;257024;--
+271-77-8740;C;Naypyitaw;Member;Female;Licor de ron caramelo Perla de las Islas;6.95;6;1/1/2019;11:40;Ewallet;257025;'0000003100099303657736
+497-36-0989;A;Yangon;Normal;Male;MorcÃ³n ibÃ©rico La Hacienda del ibÃ©rico;12.5;3;2/15/2019;15:21;Cash;257020;--
+291-59-1384;B;Mandalay;Normal;Male;Leche desnatada Asturiana;1.25;1;2/28/2019;17:38;Cash;257021;--
+860-73-6466;A;Yangon;Member;Female;Refresco de limÃ³n Hacendado con gas;0.4;2;3/2/2019;16:16;Credit card;257022;5579-9898-9711-6440
+549-23-9016;C;Naypyitaw;Member;Female;GambÃ³n grande congelado;886.05;2;2/13/2019;18:15;Credit card;257023;4124-7426-6533-4090
+896-34-0956;A;Yangon;Normal;Male;Huevas de lumpo Hacendado;2.1;1;1/26/2019;12:43;Cash;257024;--
+804-38-3935;A;Yangon;Member;Male;Media papaya;3.24;3;1/30/2019;11:32;Credit card;257025;4232-1012-3521-3180
+585-90-0249;A;Yangon;Member;Male;Protector solar infantil Sun Med FPS 50+;6;1;1/27/2019;18:08;Ewallet;257020;'0000003100075064249168
+862-29-5914;C;Naypyitaw;Normal;Female;Espinaca baby base para ensalada;1.19;1;1/30/2019;17:08;Credit card;257021;4467-7871-1581-9194
+845-94-6841;C;Naypyitaw;Member;Female;Chocolate negro Valor puro almendras enteras;2.55;9;1/8/2019;19:38;Cash;257022;--
+125-45-2293;A;Yangon;Normal;Female;CaÃ±a de lomo cebo ibÃ©rico La Hacienda del ibÃ©rico;40;6;1/19/2019;13:11;Cash;257023;--
+843-73-4724;A;Yangon;Normal;Male;Ensaladilla americana Hacendado;1.2;1;1/25/2019;11:05;Cash;257024;--
+409-33-9708;A;Yangon;Normal;Female;Rodaja de emperador;6.18;2;2/19/2019;10:12;Ewallet;257025;'0000003100057478311911
+658-66-3967;C;Naypyitaw;Normal;Male;Yogur sabor macedonia Hacendado;0.53;7;1/14/2019;15:42;Ewallet;257020;'0000003100089676554861
+866-70-2814;B;Mandalay;Normal;Female;Ensalada de bacalaos y pimientos asados Ubago estilo esgarraet;1.95;10;2/25/2019;11:58;Ewallet;257021;'0000003100094844632451
+160-22-2687;A;Yangon;Member;Female;Tubo de pota Hacendado congelado;4.1;5;1/23/2019;14:21;Ewallet;257022;'0000003100053695126961
+895-03-6665;B;Mandalay;Normal;Female;Chocolate con leche Milka caramelo;0.95;9;2/16/2019;10:52;Cash;257023;--
+770-42-8960;B;Mandalay;Normal;Male;Almejas blancas del norte Hacendado al natural;1.5;8;1/1/2019;19:31;Cash;257024;--
+748-45-2862;A;Yangon;Member;Female;Calamar en tinta Hacendado;1.69;4;3/7/2019;18:35;Cash;257025;--
+234-36-2483;B;Mandalay;Normal;Male;Eau de toilette hombre AfÃ¡n;8;6;2/15/2019;13:51;Cash;257020;--
+316-66-3011;A;Yangon;Member;Female;CafÃ© soluble clÃ¡sico Hacendado en sobres;0.79;9;1/23/2019;12:35;Cash;257021;--
+848-95-6252;C;Naypyitaw;Member;Female;Migas Hacendado;2.1;1;2/20/2019;13:24;Ewallet;257022;'0000003100036547768430
+840-76-5966;A;Yangon;Member;Male;Huevos cocidos Hacendado;1.17;2;1/8/2019;18:06;Ewallet;257023;'0000003100041013869159
+152-03-4217;B;Mandalay;Normal;Female;Compresa sin alas super Deliplus Dry;2.3;9;3/17/2019;11:55;Credit card;257024;4582-6588-5692-2001
+533-66-5566;B;Mandalay;Normal;Female;Eau de toilette mujer Ikiru;8;7;1/12/2019;11:42;Cash;257025;--
+124-31-1458;A;Yangon;Member;Female;Papel higiÃ©nico acolchado Bosque Verde;2.93;3;1/8/2019;14:30;Cash;257020;--
+176-78-1170;C;Naypyitaw;Member;Male;Bandas de cera especial cuerpo y piernas Veet piel sensible;4.45;3;1/26/2019;15:11;Ewallet;257021;'0000003100067051535247
+361-59-0574;B;Mandalay;Member;Male;NÃ©ctar de piÃ±a Hacendado sin azÃºcares aÃ±adidos;0.59;8;3/15/2019;14:48;Credit card;257022;4547-3795-1784-4997
+101-81-4070;C;Naypyitaw;Member;Female;Surtido bombones La Boutique del PralinÃ©;5.95;2;1/17/2019;12:36;Ewallet;257023;'0000003100062177396261
+631-34-1880;C;Naypyitaw;Member;Male;Pila de botÃ³n CR2032 Panasonic;2.6;3;1/8/2019;19:09;Credit card;257024;5843-9576-8344-7890
+852-82-2749;A;Yangon;Normal;Male;Bebida lÃ¡ctea de fresa L-casei 0% materia grasa 0% azÃºcares aÃ±adidos;1.5;4;1/6/2019;13:35;Ewallet;257025;'0000003100044427388584
+873-14-6353;A;Yangon;Member;Male;Cuidado hidratante anti-fatiga 24H L'OrÃ©al men expert Hydra energetic;7.95;7;2/16/2019;10:33;Credit card;257020;5516-4903-7394-7595
+584-66-4073;C;Naypyitaw;Normal;Male;Tomates mini kumato;1.39;1;3/13/2019;15:45;Ewallet;257021;'0000003100059035598250
+544-55-9589;B;Mandalay;Member;Female;KÃ©fir natural sabor suave;1.4;10;1/28/2019;11:51;Cash;257022;--
+166-19-2553;A;Yangon;Member;Male;ColoraciÃ³n sin amonÃ­aco L'OrÃ©al 354 caoba efecto henna;6.6;6;1/18/2019;17:26;Cash;257023;--
+737-88-5876;A;Yangon;Member;Male;Zumo de tomate Bonnysa;1.99;4;3/19/2019;11:52;Credit card;257024;4195-9691-5697-4499
+154-87-7367;C;Naypyitaw;Normal;Male;Flautas de pollo y queso;1.7;8;3/15/2019;14:04;Ewallet;257025;'0000003100080531136920
+885-56-0389;C;Naypyitaw;Member;Male;ColoraciÃ³n permanente Garnier 6.42 rubio terracota;3.65;1;2/12/2019;17:49;Cash;257020;--
+608-05-3804;B;Mandalay;Member;Male;Mascarilla cabello rizado Fructis hidra rizos fortificante;3.95;1;2/25/2019;20:19;Cash;257021;--
+448-61-3783;A;Yangon;Normal;Female;Refresco Coca-Cola Zero Zero;2.8;8;3/21/2019;16:08;Credit card;257022;5358-1022-5804-5937
+761-49-0439;B;Mandalay;Member;Female;Croquetas de merluza y gambas Preli ultracongeladas;1.5;8;1/19/2019;10:17;Ewallet;257023;'0000003100028115771297
+490-95-0021;B;Mandalay;Member;Female;Esponja pÃ³mez suave manos y pies Luxor;1.5;10;1/8/2019;14:25;Ewallet;257024;'0000003100027040449858
+115-38-7388;C;Naypyitaw;Member;Female;Huevos cocidos Hacendado;1.17;8;3/30/2019;12:51;Credit card;257025;5667-2090-8869-6816
+311-13-6971;B;Mandalay;Member;Male;Galletas de cacao sin gluten rellenas de crema Hacendado;2.5;10;2/20/2019;15:18;Credit card;257020;5802-6141-8657-5235
+291-55-6563;A;Yangon;Member;Female;La cuajada de leche de oveja Goshua;1.99;6;3/30/2019;12:45;Ewallet;257021;'0000003100091837562797
+548-48-3156;A;Yangon;Member;Female;Pechuga de pavo bajo en sal Hacendado finas lonchas;1.89;2;3/19/2019;13:37;Cash;257022;--
+460-93-5834;A;Yangon;Normal;Male;Vino rosado D.O Rioja Comportillo cosecha;2.35;7;1/13/2019;10:03;Cash;257023;--
+325-89-4209;A;Yangon;Member;Male;Foie gras entero de pato Hacendado;6.27;1;2/5/2019;19:42;Ewallet;257024;'0000003100075361487338
+884-80-6021;A;Yangon;Member;Female;Corrector stick Deliplus 03;4;10;3/23/2019;13:14;Ewallet;257025;'0000003100067959058244
+137-74-8729;C;Naypyitaw;Normal;Female;Queso mozzarella Hacendado lonchas;1.35;8;3/13/2019;12:47;Ewallet;257020;'0000003100075368759261
+880-46-5796;A;Yangon;Member;Male;Lenguado entero Hacendado ultracongelado;5.9;10;3/17/2019;19:53;Ewallet;257021;'0000003100031118054345
+389-70-2397;C;Naypyitaw;Normal;Female;Compresa sin alas de incontinencia Deliplus maxi;3.55;5;2/21/2019;10:26;Cash;257022;--
+114-35-5271;B;Mandalay;Normal;Female;Nuez natural Hacendado;3.5;8;2/7/2019;15:06;Cash;257023;--
+607-76-6216;C;Naypyitaw;Member;Female;Snack perro barritas Compy con ternera y cordero;1.29;5;3/2/2019;16:35;Credit card;257024;5189-2284-7448-2941
+715-20-1673;B;Mandalay;Normal;Male;Compresa sin alas normal plegada Deliplus Classic;1.15;5;3/6/2019;20:57;Cash;257025;--
+811-35-1094;B;Mandalay;Member;Male;Crema de manos nutritiva Dove intensiva;2;6;2/6/2019;15:16;Credit card;257020;4836-7586-8443-8257
+699-88-1972;B;Mandalay;Normal;Male;InfusiÃ³n Tomillo Hacendado;0.95;8;1/28/2019;17:47;Credit card;257021;4444-9113-8346-5136
+781-84-8059;C;Naypyitaw;Normal;Male;LociÃ³n corporal efecto bronceado Deliplus;2.75;7;1/18/2019;16:23;Ewallet;257022;'0000003100041577203781
+409-49-6995;C;Naypyitaw;Member;Female;Cebollitas sabor anchoa Hacendado;0.95;6;2/5/2019;10:17;Cash;257023;--
+725-54-0677;C;Naypyitaw;Member;Male;Barritas de barquillo Kit-Kat baÃ±adas de chocolate con leche;2.25;7;3/2/2019;13:50;Cash;257024;--
+146-09-5432;A;Yangon;Member;Male;Chocolate con leche Milka caramelo;0.95;9;2/9/2019;19:17;Ewallet;257025;'0000003100032693157318
+377-79-7592;C;Naypyitaw;Member;Female;Picatostes fritos Hacendado;0.75;9;1/14/2019;14:00;Credit card;257020;5960-3015-1255-4868
+509-10-0516;B;Mandalay;Normal;Male;Cerveza reserva;0.66;4;2/9/2019;12:02;Ewallet;257021;'0000003100019008290725
+595-94-9924;A;Yangon;Member;Female;Levadura en polvo Hacendado;1.2;5;3/26/2019;20:21;Credit card;257022;5765-6066-2075-2740
+865-41-9075;A;Yangon;Normal;Male;MÃ¡scara de pestaÃ±as volumen 4 dimensiones Deliplus negro;3.65;7;1/28/2019;17:35;Cash;257023;--
+545-07-8534;C;Naypyitaw;Normal;Female;Preparado lÃ¡cteo con cereales crecimiento Hacendado +1 aÃ±o;1.15;2;2/14/2019;12:42;Ewallet;257024;'0000003100019660034067
+118-62-1812;C;Naypyitaw;Member;Female;Tiras transparentes surtidas Doctor San;0.9;4;3/24/2019;17:56;Cash;257025;--
+450-42-3339;C;Naypyitaw;Normal;Male;Dulce de membrillo Hacendado sin azÃºcares aÃ±adidos;1.85;10;2/9/2019;18:58;Credit card;257020;5329-8014-1082-7477
+851-98-3555;B;Mandalay;Normal;Female;Regaliz roja Hacendado;1;5;3/24/2019;14:08;Credit card;257021;4731-8312-7077-3912
+186-71-5196;A;Yangon;Member;Female;Panecillo tostado classic Hacendado;0.78;2;3/27/2019;16:30;Ewallet;257022;'0000003100027813183657
+624-01-8356;B;Mandalay;Normal;Female;Zumo de naranja reciÃ©n exprimido Hacendado;2.25;10;1/27/2019;10:44;Credit card;257023;4768-9552-4232-4190
+313-66-9943;B;Mandalay;Member;Female;Lenguado entero Hacendado ultracongelado;5.9;3;3/27/2019;20:29;Credit card;257024;5400-7982-8559-4215
+151-27-8496;C;Naypyitaw;Normal;Female;Maquillaje fluido Deliplus fijo & cubriente 02;5.5;4;1/19/2019;11:43;Ewallet;257025;'0000003100019593088326
+453-33-6436;A;Yangon;Normal;Female;Queso roquefort Cantorel;1.45;8;2/7/2019;10:09;Cash;257020;--
+522-57-8364;A;Yangon;Member;Male;PatÃ© gato adulto Delikuit con ternera e hÃ­gado;0.35;8;1/31/2019;10:00;Ewallet;257021;'0000003100097769897532
+459-45-2396;A;Yangon;Member;Female;ColoraciÃ³n sin amonÃ­aco L'OrÃ©al 354 caoba efecto henna;6.6;3;2/25/2019;18:45;Cash;257022;--
+717-96-4189;C;Naypyitaw;Normal;Female;Medio repollo liso;1.01;6;2/2/2019;12:40;Cash;257023;--
+722-13-2115;C;Naypyitaw;Member;Male;Tarta carrot cake Hacendado congelada;9;1;3/14/2019;15:36;Credit card;257024;5936-1358-9818-8767
+749-81-8133;A;Yangon;Normal;Female;AlbÃ³ndigas de bacalao CamÃ³s congeladas;1.5;4;3/11/2019;12:04;Cash;257025;--
+777-67-2495;B;Mandalay;Normal;Male;Lote facial mujer Sisbela;7;3;2/22/2019;11:26;Ewallet;257020;'0000003100053998234100
+636-98-3364;B;Mandalay;Member;Female;Pulpo en aceite de oliva Hacendado;3.75;3;3/2/2019;12:36;Ewallet;257021;'0000003100053092133918
+246-55-6923;C;Naypyitaw;Member;Female;JamÃ³n de bellota ibÃ©rico La Hacienda del ibÃ©rico;351;9;3/10/2019;15:06;Credit card;257022;4759-5451-6874-3881
+181-82-6255;B;Mandalay;Normal;Female;Barrita con proteÃ­nas Enervit Sport sabor coco y chocolate;2.95;6;2/8/2019;10:58;Cash;257023;--
+838-02-1821;C;Naypyitaw;Member;Female;Ranas varios colores Deliplus;1;2;2/22/2019;12:10;Credit card;257024;5593-9907-9657-5572
+887-42-0517;C;Naypyitaw;Normal;Female;SalmÃ³n ahumado Ubago;2.7;7;1/10/2019;10:31;Credit card;257025;5487-1886-1981-6431
+457-12-0244;C;Naypyitaw;Member;Female;Patatas;4.99;6;3/14/2019;13:49;Ewallet;257020;'0000003100079073939935
+226-34-0034;B;Mandalay;Normal;Female;Tomate frito Hacendado con aceite de oliva;0.92;4;1/10/2019;11:10;Ewallet;257021;'0000003100034616466441
+321-49-7382;B;Mandalay;Member;Male;Chocolate negro Valor puro almendras enteras;2.55;1;2/15/2019;17:38;Credit card;257022;5897-1324-8814-5201
+397-25-8725;A;Yangon;Member;Female;Polvo suelto traslÃƒÂºcido Deliplus 01;6;9;1/13/2019;17:54;Credit card;257023;5724-3661-6291-7722
+431-66-2305;B;Mandalay;Normal;Female;Yogur griego natural azucarado Hacendado;1.09;9;2/15/2019;20:51;Credit card;257024;5171-6026-6944-7789
+825-94-5922;B;Mandalay;Normal;Male;Preparado lÃ¡cteo crecimiento sabor a cereales Junior NestlÃ©;1.5;2;3/2/2019;19:26;Ewallet;257025;'0000003100099425342039
+641-62-7288;B;Mandalay;Normal;Male;Bizcochos Hacendado;1.1;6;3/24/2019;13:33;Ewallet;257020;'0000003100036135651144
+756-93-1854;C;Naypyitaw;Member;Female;Panecillo;0.1;2;2/2/2019;14:05;Credit card;257021;4882-5279-3910-5184
+243-55-8457;A;Yangon;Normal;Female;CÃ¡psulas dulces sueÃ±os Deliplus;3.95;10;2/27/2019;11:40;Ewallet;257022;'0000003100060310303269
+458-10-8612;C;Naypyitaw;Normal;Male;Chocolate con leche NestlÃ©;0.95;7;1/20/2019;12:27;Ewallet;257023;'0000003100013053721158
+501-61-1753;B;Mandalay;Normal;Female;Mojama de atÃºn superior en lonchas Ubago;1.9;6;1/3/2019;20:24;Ewallet;257024;'0000003100014969038172
+235-06-8510;C;Naypyitaw;Member;Male;Refresco cola Hacendado;0.26;3;1/24/2019;20:59;Ewallet;257025;'0000003100091233788827
+433-08-7822;C;Naypyitaw;Normal;Female;Cerveza negra Black 1897;2.7;7;1/5/2019;19:48;Ewallet;257020;'0000003100093443221208
+361-85-2571;A;Yangon;Normal;Female;Perfilador de ojos Deliplus 06 beige;2.5;5;3/30/2019;10:18;Cash;257021;--
+131-70-8179;A;Yangon;Member;Female;Aceite de coco virgen Hacendado;4.5;3;2/17/2019;16:27;Cash;257022;--
+500-02-2261;C;Naypyitaw;Normal;Female;Espiral al cacao Hacendado;0.26;6;3/21/2019;17:04;Ewallet;257023;'0000003100090124585084
+720-72-2436;A;Yangon;Normal;Male;MaÃ­z dulce Hacendado;0.95;4;3/2/2019;18:14;Ewallet;257024;'0000003100059545989730
+702-83-5291;C;Naypyitaw;Member;Male;Preservativos natural On;3.3;9;3/27/2019;10:43;Cash;257025;--
+809-69-9497;A;Yangon;Normal;Female;Cerveza de trigo 1897;0.75;10;1/19/2019;19:30;Ewallet;257020;'0000003100077488793096
+449-16-6770;A;Yangon;Normal;Male;ColoraciÃ³n permanente sin amonÃ­aco Azalea 5.35 chocolate;3.5;5;2/19/2019;14:53;Credit card;257021;4659-4056-6021-4873
+333-23-2632;A;Yangon;Member;Male;Medio solomillo de vacuno aå˜ojo congelado;23.37;7;3/28/2019;20:14;Cash;257022;--
+489-82-1237;A;Yangon;Normal;Female;ColoraciÃ³n permanente sin amonÃ­aco Azalea 1 negro;3.5;7;1/5/2019;11:51;Credit card;257023;4731-9149-1997-7938
+859-97-6048;C;Naypyitaw;Member;Male;TriÃ¡ngulos de maÃ­z con legumbres Hacendado;1;2;3/26/2019;14:13;Credit card;257024;5158-9793-8211-9150
+676-10-2200;B;Mandalay;Member;Male;Zumo de manzana Hacendado;0.59;1;2/3/2019;20:13;Ewallet;257025;'0000003100062813170206
+373-88-1424;C;Naypyitaw;Member;Male;Brillo de labios Hot Metal Deliplus 02;3.5;5;2/6/2019;18:44;Ewallet;257020;'0000003100023532248768
+365-16-4334;B;Mandalay;Normal;Female;Palitos de pan con pimentÃ³n Anitin;1.19;8;2/24/2019;14:26;Ewallet;257021;'0000003100029041621598
+503-21-4385;B;Mandalay;Member;Male;Papel de regalo estampado Bosque Verde;0.7;3;2/21/2019;12:40;Ewallet;257022;'0000003100095220189725
+305-89-2768;B;Mandalay;Member;Female;Natillas sabor vainilla Hacendado;0.69;3;1/9/2019;18:43;Ewallet;257023;'0000003100031347570310
+574-80-1489;B;Mandalay;Member;Female;After shave bÃ¡lsamo piel sensible Deliplus 0% alcohol ni perfume;1.95;4;2/25/2019;13:22;Ewallet;257024;'0000003100071535066678
+784-08-0310;C;Naypyitaw;Member;Female;Arroz con pollo asado Hacendado ultracongelado;1.75;4;1/13/2019;13:58;Cash;257025;--
+200-40-6154;B;Mandalay;Member;Male;Leche desnatada Asturiana;1.25;6;2/9/2019;11:45;Cash;257020;--
+846-10-0341;A;Yangon;Normal;Female;Palmera de cacao Hacendado sin azÃºcar aÃ±adido;0.34;7;1/6/2019;11:51;Cash;257021;--
+577-34-7579;C;Naypyitaw;Member;Male;Medio solomillo de vacuno aå˜ojo congelado;23.37;9;1/10/2019;17:16;Cash;257022;--
+430-02-3888;B;Mandalay;Normal;Male;Sazonador al horno y microondas pollo y costillas a las hierbas provenzales Hacendado;0.95;6;2/7/2019;15:55;Cash;257023;--
+867-47-1948;C;Naypyitaw;Normal;Female;NÃ©cora cocida Errigal Bay congelada;5.95;10;1/9/2019;12:07;Cash;257024;--
+384-59-6655;A;Yangon;Member;Female;CafÃ© soluble cappuccino Hacendado;1.99;9;2/19/2019;15:07;Cash;257025;--
+256-58-3609;C;Naypyitaw;Member;Male;Manteca corporal con aroma de coco Deliplus;4;1;3/18/2019;15:29;Cash;257020;--
+324-92-3863;A;Yangon;Member;Male;Eau de toilette mujer Don Algodon;12;2;2/5/2019;18:45;Cash;257021;--
+593-08-5916;A;Yangon;Normal;Female;Cerveza ClÃ¡sica Steinburg;2.76;1;3/19/2019;15:23;Credit card;257022;4308-8197-5024-9903
+364-34-2972;C;Naypyitaw;Member;Male;Panecillo de 6 cereales;0.25;3;3/30/2019;20:37;Cash;257023;--
+794-42-3736;B;Mandalay;Normal;Male;Vinagre de manzana Hacendado;0.69;2;1/26/2019;14:41;Credit card;257024;5416-2086-4769-2535
+172-42-8274;B;Mandalay;Normal;Female;Pizza barbacoa familiar Hacendado;2.99;2;3/2/2019;18:18;Credit card;257025;4569-6833-1538-1422
+558-60-5016;A;Yangon;Normal;Female;Tiras transparentes surtidas Doctor San;0.9;9;3/4/2019;15:27;Ewallet;257020;'0000003100047041588547
+195-06-0432;A;Yangon;Member;Male;Toalla turbante seca pelo microfibra Deliplus;2.95;3;1/13/2019;12:55;Credit card;257021;4498-7883-8483-9951
+605-03-2706;A;Yangon;Normal;Female;Yogur sabor macedonia Hacendado;0.53;3;3/25/2019;18:02;Cash;257022;--
+214-30-2776;B;Mandalay;Member;Female;Gazpacho suave Hacendado;1.7;5;3/11/2019;19:44;Credit card;257023;5147-1970-6994-2599
+746-04-1077;B;Mandalay;Member;Female;Fruta + leche tropical Bifrutas;1.91;10;1/1/2019;11:36;Credit card;257024;5459-3413-8936-5108
+448-34-8700;B;Mandalay;Member;Male;Comida perro adulto Compy con pollo y cereales;11.75;7;2/10/2019;13:51;Ewallet;257025;'0000003100025450344449
+452-04-8808;B;Mandalay;Normal;Male;Corrector fluido acciÃ³n global Deliplus 02;4;7;1/26/2019;15:17;Cash;257020;--
+531-56-4728;A;Yangon;Normal;Male;Agua mineral Bronchales pequeÃ±a;0.3;3;2/11/2019;15:29;Cash;257021;--
+744-82-9138;C;Naypyitaw;Normal;Male;Burger de pavo y pollo;3.52;2;2/7/2019;17:59;Cash;257022;--
+883-69-1285;B;Mandalay;Member;Male;LociÃ³n corporal efecto bronceado Deliplus;2.75;2;3/6/2019;11:55;Credit card;257023;4779-5616-5885-8309
+221-25-5073;A;Yangon;Normal;Female;Agua mineral Cortes;0.73;4;3/4/2019;10:39;Cash;257024;--
+518-71-6847;B;Mandalay;Member;Male;Chuletas de cerdo sajonia;2.31;6;2/26/2019;15:10;Ewallet;257025;'0000003100078349486027
+156-20-0370;B;Mandalay;Normal;Female;Cubo redondo 12L Bosque Verde;2.35;1;3/10/2019;18:10;Credit card;257020;5426-2826-1924-2480
+151-33-7434;B;Mandalay;Normal;Female;Berlina al cacao;2;1;2/4/2019;20:43;Credit card;257021;4337-1997-2957-1386
+728-47-9078;C;Naypyitaw;Member;Male;Preservativos natural On;3.3;4;1/19/2019;12:46;Cash;257022;--
+809-46-1866;A;Yangon;Normal;Male;Eau de toilette hombre Pacha Ibiza 24/7;11.95;4;1/23/2019;17:44;Cash;257023;--
+139-32-4183;A;Yangon;Member;Female;Pasta tiburÃ³n Hacendado;0.6;9;3/14/2019;14:19;Ewallet;257024;'0000003100013973582042
+148-41-7930;C;Naypyitaw;Normal;Male;Agua mineral Bronchales mediana;3;7;1/23/2019;10:33;Cash;257025;--
+189-40-5216;C;Naypyitaw;Normal;Male;Gotas de chocolate para fundir Hacendado;1.5;7;1/9/2019;11:40;Cash;257020;--
+374-38-5555;B;Mandalay;Normal;Female;NÃ©cora cocida Errigal Bay congelada;5.95;5;2/7/2019;19:30;Ewallet;257021;'0000003100028253149734
+764-44-8999;B;Mandalay;Normal;Female;Papel higiÃ©nico suave Bosque Verde;2.6;2;2/18/2019;14:42;Ewallet;257022;'0000003100078467018421
+552-44-5977;B;Mandalay;Member;Male;Helado de horchata Hacendado;1.85;8;1/3/2019;19:08;Credit card;257023;5396-7635-9041-9578
+267-62-7380;C;Naypyitaw;Member;Male;Migas Hacendado;2.1;10;3/29/2019;19:12;Ewallet;257024;'0000003100095584510137
+430-53-4718;B;Mandalay;Member;Male;Cacao soluble 0% azÃºcares aÃ±adidos Cola Cao;3.49;8;1/28/2019;15:46;Credit card;257025;4982-3065-5235-3686
+886-18-2897;A;Yangon;Normal;Female;CaÃ±as flexibles;1.22;5;3/22/2019;19:06;Credit card;257020;5394-1434-2674-1833
+602-16-6955;B;Mandalay;Normal;Female;Bastoncillos de algodÃ³n 100% Deliplus;0.6;10;1/24/2019;18:10;Ewallet;257021;'0000003100065398802366
+745-74-0715;A;Yangon;Normal;Male;Laca de uÃ±as Glitter Deliplus 944 coral;2.25;2;3/10/2019;20:46;Ewallet;257022;'0000003100016213850284
+690-01-6631;B;Mandalay;Normal;Male;Aritos de surimi a la romana Pescanova ultracongelados;2.19;10;2/22/2019;18:35;Ewallet;257023;'0000003100028280214811
+652-49-6720;C;Naypyitaw;Member;Female;Chupete silicona anatÃ³mico +6 a 18 meses Deliplus luminiscente;2;1;2/18/2019;11:40;Ewallet;257024;'0000003100054884510637
+233-67-5758;C;Naypyitaw;Normal;Male;Pan de molde blanco rebanada gruesa Hacendado;1.12;1;1/29/2019;13:46;Ewallet;257025;'0000003100067279468968
+303-96-2227;B;Mandalay;Normal;Female;ChampÃº Natural Deliplus todo tipo de cabello;1.95;10;3/2/2019;17:16;Ewallet;257020;'0000003100065051936902
+727-02-1313;A;Yangon;Member;Male;Gel fijador control total fijaciÃ³n extrema Giorgi fijaciÃ³n 5;2.55;1;2/9/2019;13:22;Cash;257021;--
+347-56-2442;A;Yangon;Normal;Male;Escalivada Hacendado;1.99;1;2/22/2019;15:33;Cash;257022;--
+849-09-3807;A;Yangon;Member;Female;CaÃ±as flexibles;1.22;7;2/18/2019;13:28;Cash;257023;--

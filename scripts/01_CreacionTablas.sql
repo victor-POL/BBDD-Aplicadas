@@ -107,7 +107,7 @@ CREATE TABLE negocio.empleado (
     email_laboral VARCHAR(80),
     cuil VARCHAR(13),
     id_cargo SMALLINT NOT NULL,
-    id_sucursal SMALLINT NOT NULL,
+    id_sucursal SMALLINT,
     id_turno SMALLINT NOT NULL,
     CONSTRAINT PK_empleado PRIMARY KEY (id_empleado),
     CONSTRAINT FK_empleado_sucursal FOREIGN KEY (id_sucursal) REFERENCES negocio.sucursal (id_sucursal),
@@ -196,14 +196,14 @@ CREATE TABLE negocio.medio_pago (
 CREATE TABLE negocio.venta (
     id_venta SERIAL NOT NULL,
     -- factura
-    cod_factura VARCHAR(20) NOT NULL,
+    cod_factura VARCHAR(20) NOT NULL UNIQUE,
     tipo_factura CHAR(1) NOT NULL,
     -- sucursal
     id_sucursal SMALLINT,
     ciudad_sucursal VARCHAR(25) NOT NULL,
     -- cliente
     id_cliente SMALLINT,
-    tipo_cliente SMALLINT,
+    tipo_cliente VARCHAR(15),
     genero_cliente CHAR(1),
     -- producto
     id_producto SMALLINT,
@@ -215,17 +215,15 @@ CREATE TABLE negocio.venta (
     -- medio pago
     id_medio_pago SMALLINT,
     medio_pago_nombre VARCHAR(25) NOT NULL,
-    identificador_pago VARCHAR(30),
+    identificador_pago VARCHAR(30) UNIQUE,
     -- empleado
-    id_empleado SMALLINT NOT NULL,
+    id_empleado SMALLINT,
     legajo_empleado VARCHAR(10) NOT NULL,
     CONSTRAINT PK_venta PRIMARY KEY (id_venta),
     CONSTRAINT FK_venta_sucursal FOREIGN KEY (id_sucursal) REFERENCES negocio.sucursal (id_sucursal),
-    CONSTRAINT FK_venta_cliente FOREIGN KEY (id_cliente) REFERENCES negocio.tipo_cliente (id_tipo),
+    CONSTRAINT FK_venta_cliente FOREIGN KEY (id_cliente) REFERENCES negocio.cliente (id_cliente),
     CONSTRAINT FK_venta_producto FOREIGN KEY (id_producto) REFERENCES negocio.producto (id_producto),
     CONSTRAINT FK_venta_medio_pago FOREIGN KEY (id_medio_pago) REFERENCES negocio.medio_pago (id_medio_pago),
     CONSTRAINT FK_venta_empleado FOREIGN KEY (id_empleado) REFERENCES negocio.empleado (id_empleado),
     CONSTRAINT CHECK_tipo_factura CHECK (tipo_factura IN ('A', 'B', 'C'))
-)
-
-DROP TABLE negocio.venta
+);
