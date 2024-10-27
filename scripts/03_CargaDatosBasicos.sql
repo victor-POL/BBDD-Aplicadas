@@ -12,36 +12,10 @@
 /* -------------------------------------------------------------------------- */
 /*                              CARGA SUCURSALES                              */
 /* -------------------------------------------------------------------------- */
-INSERT INTO
-    negocio.sucursal (
-        calle,
-        ciudad,
-        codigo_postal,
-        provincia,
-        telefono
-    )
-VALUES
-    (
-        'Av. Brig. Gral. Juan Manuel de Rosas 3634',
-        'San Justo',
-        'B1754',
-        'Provincia de Buenos Aires',
-        '5555-5551'
-    ),
-    (
-        'Av. de Mayo 791',
-        'Ramos Mejía',
-        'B1704',
-        'Provincia de Buenos Aires',
-        '5555-5552'
-    ),
-    (
-        'Pres. Juan Domingo Perón 763',
-        'Villa Luzuriaga',
-        'B1753AWO',
-        'Provincia de Buenos Aires',
-        '5555-5553'
-    );
+INSERT INTO negocio.sucursal(calle, ciudad, codigo_postal, provincia, telefono)
+    VALUES ('Av. Brig. Gral. Juan Manuel de Rosas 3634', 'San Justo', 'B1754', 'Provincia de Buenos Aires', '5555-5551'),
+('Av. de Mayo 791', 'Ramos Mejía', 'B1704', 'Provincia de Buenos Aires', '5555-5552'),
+('Pres. Juan Domingo Perón 763', 'Villa Luzuriaga', 'B1753AWO', 'Provincia de Buenos Aires', '5555-5553');
 
 -- CARGA HORARIO SUCURSAL
 -- INSERT INTO negocio.sucursal_horario (
@@ -180,46 +154,47 @@ VALUES
 /*                             CARGA DE EMPLEADOS                             */
 /* -------------------------------------------------------------------------- */
 -- CARGA DE CARGOS LABORALES
-INSERT INTO
-    negocio.cargo_laboral (nombre)
-VALUES
-    ('Cajero'),
-    ('Supervisor'),
-    ('Gerente de sucursal');
+INSERT INTO negocio.cargo_laboral(nombre)
+    VALUES ('Cajero'),
+('Supervisor'),
+('Gerente de sucursal');
 
 -- CARGA DE TURNOS LABORALES
-INSERT INTO
-    negocio.turno_laboral (nombre)
-VALUES
-    ('TM'),
-    ('TT'),
-    ('TN'),
-    ('Jornada completa');
+INSERT INTO negocio.turno_laboral(nombre)
+    VALUES ('TM'),
+('TT'),
+('TN'),
+('Jornada completa');
+
 
 /* -------------------------------------------------------------------------- */
 /*                            CARGA MEDIOS DE PAGO                            */
 /* -------------------------------------------------------------------------- */
-INSERT INTO
-    negocio.medio_pago (nombre, nombre_en)
-VALUES
-    ('Tarjeta de credito', 'Credit card'),
-    ('Efectivo', 'Cash'),
-    ('Billetera Electronica', 'Ewallet');
+INSERT INTO negocio.medio_pago(nombre, nombre_en)
+    VALUES ('Tarjeta de credito', 'Credit card'),
+('Efectivo', 'Cash'),
+('Billetera Electronica', 'Ewallet');
+
+
 /* -------------------------------------------------------------------------- */
 /*       CARGA CLASIFICACIONES DE CATEGORIAS DE PRODUCTOS                     */
 /* -------------------------------------------------------------------------- */
 -- Para Productos_importados.csv
--- Para Electronic accessories.csv 
-INSERT INTO
-    negocio.clasfificacion_categoria_producto (nombre)
-VALUES
-    ('Importados'),
-    ('Electro');
+-- Para Electronic accessories.csv
+INSERT INTO negocio.clasfificacion_categoria_producto(nombre)
+    VALUES ('Importados'),
+('Electro');
+
 
 /* -------------------------------------------------------------------------- */
 /*    CARGA CATEGORIA DE PRODUCTOS DE CLASIFICACION ACCESORIOS ELECTRONICOS   */
 /* -------------------------------------------------------------------------- */
-INSERT INTO
-    negocio.categoria_producto (nombre, id_clasificacion)
-VALUES
-    ('Accesorios Electronicos', (SELECT id_clasificacion FROM negocio.clasfificacion_categoria_producto WHERE nombre = 'Electro'));
+INSERT INTO negocio.categoria_producto(nombre, id_clasificacion)
+    VALUES ('Accesorios Electronicos',(
+            SELECT
+                id_clasificacion
+            FROM
+                negocio.clasfificacion_categoria_producto
+            WHERE
+                nombre = 'Electro'));
+

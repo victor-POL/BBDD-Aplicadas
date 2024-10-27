@@ -6,19 +6,11 @@
             "port": 5432,
             "driver": "PostgreSQL",
             "name": "DDBBAplicadas",
-            "database": "Com1900G11",
+            "database": "Com2900G11",
             "username": "postgres",
             "password": "unlam"
-        },
-        {
-            "previewLimit": 50,
-            "server": "localhost",
-            "port": 5432,
-            "driver": "PostgreSQL",
-            "name": "vscode",
-            "database": "Com1900G11",
-            "username": "postgres",
-            "password": "1234"
         }
-    ]
+    ],
+    "vscode-postgres.defaultConnection": "localhost",
+    "vscode-postgres.defaultDatabase": "Com2900G11"
 }
