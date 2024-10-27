@@ -155,15 +155,77 @@ CREATE TABLE negocio.extra_info_producto (
     CONSTRAINT PK_extra_info_producto PRIMARY KEY (id_extra_info),
     CONSTRAINT FK_extra_info_producto_producto FOREIGN KEY (id_producto) REFERENCES negocio.producto (id_producto)
 );
--- PARA TABLA VENTA
+-- PARA TABLA CLIENTE
 CREATE TABLE negocio.tipo_cliente (
-    id_tipo SERIAL NOT NULL,
+    id_tipo SMALLSERIAL NOT NULL,
     nombre VARCHAR(15) NOT NULL,
     CONSTRAINT PK_cliente_tipo PRIMARY KEY (id_tipo)
 );
+
+CREATE TABLE negocio.cliente (
+    id_cliente SERIAL NOT NULL,
+    nombre VARCHAR(50) NOT NULL,
+    apellido VARCHAR(50) NOT NULL,
+    tipo_identificacion VARCHAR(3) NOT NULL,
+    -- DNI, LC, LE, CI, PAS
+    numero_identificacion VARCHAR(11) NOT NULL UNIQUE,
+    genero CHAR(1),
+    direccion VARCHAR(50),
+    email VARCHAR(80),
+    cuil VARCHAR(13),
+    id_tipo_cliente SMALLINT NOT NULL,
+    CONSTRAINT PK_cliente PRIMARY KEY (id_cliente),
+    CONSTRAINT FK_cliente_tipo FOREIGN KEY (id_tipo_cliente) REFERENCES negocio.tipo_cliente (id_tipo),
+    CONSTRAINT CK_cliente_tipo_identificacion CHECK (
+        tipo_identificacion IN ('DNI', 'LC', 'LE', 'CI', 'PAS')
+    ),
+    CONSTRAINT CK_cliente_cuil CHECK (negocio.validar_cuil (cuil)),
+    CONSTRAINT CK_cliente_genero CHECK (genero IN ('M', 'F', 'O')),
+    CONSTRAINT UQ_cliente UNIQUE (tipo_identificacion, numero_identificacion),
+    CONSTRAINT UQ_cuil UNIQUE (cuil)
+);
+
+-- PARA TABLA VENTA
 CREATE TABLE negocio.medio_pago (
-    id_medio_pago SERIAL NOT NULL,
+    id_medio_pago SMALLSERIAL NOT NULL,
     nombre VARCHAR(25) NOT NULL,
     nombre_en VARCHAR(25) NOT NULL,
     CONSTRAINT PK_medio_pago PRIMARY KEY (id_medio_pago)
 );
+
+CREATE TABLE negocio.venta (
+    id_venta SERIAL NOT NULL,
+    -- factura
+    cod_factura VARCHAR(20) NOT NULL,
+    tipo_factura CHAR(1) NOT NULL,
+    -- sucursal
+    id_sucursal SMALLINT,
+    ciudad_sucursal VARCHAR(25) NOT NULL,
+    -- cliente
+    id_cliente SMALLINT,
+    tipo_cliente SMALLINT,
+    genero_cliente CHAR(1),
+    -- producto
+    id_producto SMALLINT,
+    nombre_producto VARCHAR(100) NOT NULL,
+    precio_unitario DECIMAL(10, 2) NOT NULL,
+    cantidad SMALLINT NOT NULL,
+    -- venta
+    fecha_venta TIMESTAMP NOT NULL,
+    -- medio pago
+    id_medio_pago SMALLINT,
+    medio_pago_nombre VARCHAR(25) NOT NULL,
+    identificador_pago VARCHAR(30),
+    -- empleado
+    id_empleado SMALLINT NOT NULL,
+    legajo_empleado VARCHAR(10) NOT NULL,
+    CONSTRAINT PK_venta PRIMARY KEY (id_venta),
+    CONSTRAINT FK_venta_sucursal FOREIGN KEY (id_sucursal) REFERENCES negocio.sucursal (id_sucursal),
+    CONSTRAINT FK_venta_cliente FOREIGN KEY (id_cliente) REFERENCES negocio.tipo_cliente (id_tipo),
+    CONSTRAINT FK_venta_producto FOREIGN KEY (id_producto) REFERENCES negocio.producto (id_producto),
+    CONSTRAINT FK_venta_medio_pago FOREIGN KEY (id_medio_pago) REFERENCES negocio.medio_pago (id_medio_pago),
+    CONSTRAINT FK_venta_empleado FOREIGN KEY (id_empleado) REFERENCES negocio.empleado (id_empleado),
+    CONSTRAINT CHECK_tipo_factura CHECK (tipo_factura IN ('A', 'B', 'C'))
+)
+
+DROP TABLE negocio.venta
