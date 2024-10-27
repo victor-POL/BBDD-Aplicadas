@@ -44,10 +44,3 @@ VALUES (
 END LOOP;
 
 END $$;
-
-/* -------------------------------------------------------------------------- */
-/*                                 IMPORTACION                                */
-/* -------------------------------------------------------------------------- */
-CALL negocio.importar_catalogo_productos_importados(
-    'C:\Users\pc-vic\Desktop\BBDD-Aplicadas\data\datos_basicos\Productos_importados.csv'
-);

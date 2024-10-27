@@ -50,10 +50,3 @@ LOOP
 END LOOP;
 
 END $$;
-
-/* -------------------------------------------------------------------------- */
-/*                                 IMPORTACION                                */
-/* -------------------------------------------------------------------------- */
-CALL negocio.importar_clasificacion_categoria_productos(
-    'C:\Users\pc-vic\Desktop\BBDD-Aplicadas\data\datos_basicos\clasificacion_productos.csv'
-)

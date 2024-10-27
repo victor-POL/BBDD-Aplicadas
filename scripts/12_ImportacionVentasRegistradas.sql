@@ -77,10 +77,3 @@ FROM temp_ventas) LOOP
 END LOOP;
 
 END $$;
-
-/* -------------------------------------------------------------------------- */
-/*                                 IMPORTACION                                */
-/* -------------------------------------------------------------------------- */
-CALL negocio.importar_ventas_registradas(
-    'C:\Users\pc-vic\Desktop\BBDD-Aplicadas\data\datos_basicos\Ventas_registradas.csv'
-);

@@ -40,10 +40,3 @@ VALUES (i.category);
 END IF;
 END LOOP;
 END $$;
-
-/* -------------------------------------------------------------------------- */
-/*                                 IMPORTACION                                */
-/* -------------------------------------------------------------------------- */
-CALL negocio.importar_categorias_productos(
-	'C:\Users\pc-vic\Desktop\BBDD-Aplicadas\data\datos_basicos\catalogo.csv'
-);

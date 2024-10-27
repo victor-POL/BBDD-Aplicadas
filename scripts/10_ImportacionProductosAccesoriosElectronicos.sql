@@ -39,10 +39,3 @@ VALUES (
 END LOOP;
 
 END $$;
-
-/* -------------------------------------------------------------------------- */
-/*                                 IMPORTACION                                */
-/* -------------------------------------------------------------------------- */
-CALL negocio.importar_catalogo_productos_acc_electronicos(
-    'C:\Users\pc-vic\Desktop\BBDD-Aplicadas\data\datos_basicos\Electronic_accessories.csv'
-);

@@ -36,10 +36,3 @@ VALUES (i.linea_producto);
 END IF;
 END LOOP;
 END $$;
-
-/* -------------------------------------------------------------------------- */
-/*                                 IMPORTACION                                */
-/* -------------------------------------------------------------------------- */
-CALL negocio.importar_clasificacion_productos(
-    'C:\Users\pc-vic\Desktop\BBDD-Aplicadas\data\datos_basicos\clasificacion_productos.csv'
-)
