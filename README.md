@@ -1,7 +1,10 @@
 ## Cosas a tener en cuenta para desarrollar
+- Nombre DDBB: Com2900G11
+- Schema: negocio
+
+Para generar el diagrama utilizar https://app.chartdb.io/
 
 Uso en VS Code - Extensiones
-
 - SQLTools
 - SQLTools PostgreSQL/Cockroach Driver
 - TODO Highlight
